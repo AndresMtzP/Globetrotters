@@ -22,9 +22,18 @@ def getAllCountries():
 	# REST Countries
 			r = requests.get("https://restcountries.eu/rest/v1/all")
 			data = r.json()
-			print '{:50}'.format("Country") + '{:10}'.format("Population")
+			print '{:40}{:20}{:30}{:20}{:30}{:25}{:25}'.format("Country","Population","Capital","Region",
+				"Sub Region", "Lat.", "Long.")
 			for i in range(len(data)):
-				print '{:50}'.format(data[i]['name'].encode("utf-8")) + '{:10d}'.format(data[i]['population'])
+				if data[i]['latlng']:
+					lat = data[i]['latlng'][0]
+					lng =  data[i]['latlng'][1]
+				else:
+					lat = ""
+					lng = ""
+				print '{:40}{:<20}{:<30}{:<20}{:<30}{:<25}{:<25}'.format(data[i]['name'].encode("utf-8"),data[i]['population'],
+					data[i]['capital'].encode("utf-8"),data[i]['region'].encode("utf-8"),data[i]['subregion'].encode("utf-8"),
+					lat,lng)
 
 def main():
 	# api key values
@@ -34,8 +43,9 @@ def main():
 	# introRE = "\"extract\":\"(?P<intro>.*)\"}"
 
 	# takes raw input data from user and formats string to use in request
-	while 1:
-		print "API Options\n(1) Wiki API\n(2) Weather API\n(3) Get all countries"
+	loop = 1
+	while loop == 1:
+		print "API Options\n(1) Wiki API\n(2) Weather API\n(3) Get all countries\n(Q) Quit"
 		option = raw_input("Select option to test response: ")
 		if option == "1":
 			# location options
@@ -55,7 +65,9 @@ def main():
 		elif option == "3":
 			# REST Countries
 			getAllCountries()
-		print "\n"
+		elif option == "Q":
+			loop = 0
+			print "Exiting program"
 	#print pageid
 	#print r.content
 
