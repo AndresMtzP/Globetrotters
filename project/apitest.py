@@ -1,6 +1,7 @@
 # apitest.py - This is a script to test API calls to various API's to get location specific information
 import requests
 import MySQLdb
+from datafinder import getGeneral, getImage
 import re
 
 # This function will make a GET request to Wikipedia's endpoint and parse the response
@@ -10,6 +11,8 @@ def wikiSum(loc):
 	data = r.json()
 	pageid = data['query']['pages'].keys()[0]
 	print data['query']['pages'][pageid]['extract'].encode("utf-8")
+	getGeneral(loc)
+	getImage(loc)
 
 # This function will make a GET request to APIXU API to get current weather information.
 # This API requires an API key and has a limited # of calls
@@ -28,20 +31,20 @@ def weatherInfo(loc, key):
 # for various information about a country
 def getAllCountries():
 	# REST Countries
-			r = requests.get("https://restcountries.eu/rest/v1/all")
-			data = r.json()
-			print '{:40}{:20}{:30}{:20}{:30}{:25}{:25}'.format("Country","Population","Capital","Region",
-				"Sub Region", "Lat.", "Long.")
-			for i in range(len(data)):
-				if data[i]['latlng']:
-					lat = data[i]['latlng'][0]
-					lng =  data[i]['latlng'][1]
-				else:
-					lat = ""
-					lng = ""
-				print '{:40}{:<20}{:<30}{:<20}{:<30}{:<25}{:<25}'.format(data[i]['name'].encode("utf-8"),data[i]['population'],
-					data[i]['capital'].encode("utf-8"),data[i]['region'].encode("utf-8"),data[i]['subregion'].encode("utf-8"),
-					lat,lng)
+	r = requests.get("https://restcountries.eu/rest/v1/all")
+	data = r.json()
+	print '{:40}{:20}{:30}{:20}{:30}{:25}{:25}'.format("Country","Population","Capital","Region",
+		"Sub Region", "Lat.", "Long.")
+	for i in range(len(data)):
+		if data[i]['latlng']:
+			lat = data[i]['latlng'][0]
+			lng =  data[i]['latlng'][1]
+		else:
+			lat = ""
+			lng = ""
+		print '{:40}{:<20}{:<30}{:<20}{:<30}{:<25}{:<25}'.format(data[i]['name'].encode("utf-8"),data[i]['population'],
+			data[i]['capital'].encode("utf-8"),data[i]['region'].encode("utf-8"),data[i]['subregion'].encode("utf-8"),
+			lat,lng)
 
 # This function will make a call to restcountries.eu and populate the Countries table in the RESTCountries database
 def createCountriesTable():
