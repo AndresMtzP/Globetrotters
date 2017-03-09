@@ -1,7 +1,8 @@
 # apitest.py - This is a script to test API calls to various API's to get location specific information
 import requests
 import MySQLdb
-from datafinder import getGeneral, getImage
+import teleportapi
+# from datafinder import getGeneral, getImage
 import re
 
 # This function will make a GET request to Wikipedia's endpoint and parse the response
@@ -11,8 +12,6 @@ def wikiSum(loc):
 	data = r.json()
 	pageid = data['query']['pages'].keys()[0]
 	print data['query']['pages'][pageid]['extract'].encode("utf-8")
-	getGeneral(loc)
-	getImage(loc)
 
 # This function will make a GET request to APIXU API to get current weather information.
 # This API requires an API key and has a limited # of calls
@@ -150,6 +149,36 @@ def getInfo(loc):
 	db.close()
 	print "Closed the connection"
 
+def createCitiesTable():
+	db = MySQLdb.connect(host='192.168.1.101', user='root', passwd='globetrotters', db='Globetrotters')
+	cur = db.cursor()
+	print "Connected to MySQL DB"
+
+	# delete existing rwows from cities table
+	cur.execute("DELETE FROM Cities")
+	cur.execute("ALTER TABLE Cities AUTO_INCREMENT = 1")
+	print "Reset table rows"
+
+	cur.execute("SET NAMES utf8;")
+	# get city information from text file
+	f = open("allCities.txt", "r")
+	for loc in f.readlines():
+		print loc
+		latlng = teleportapi.getLatLng(loc)
+		lat = latlng[0]
+		lng = latlng[1]
+		row = (loc, teleportapi.getPopulation(loc), lat, lng, teleportapi.getCountry(loc))
+		cur.execute("INSERT INTO Cities (CityName, Population, Lat, Lng, CountryName) VALUES (%s, %s, %s, %s, %s)", row)
+	f.close()
+	print "Populated table"	
+
+	# commit and close connection
+	db.commit()
+	cur.close()
+	db.close()
+	print "Closed the connection"
+
+
 def main():
 	# api key values
 	weatherKey = "159c5b95dadb4378ba8195926161808"
@@ -160,7 +189,8 @@ def main():
 	loop = 1
 	# takes raw input data from user and formats string to use in request
 	while loop == 1:
-		print "API Options\n(1) Wiki API\n(2) Weather API\n(3) Get all countries\n(4) Create Countries Table\n(5) Get all info\n(6) Test update database\n(Q) Quit"
+		print "API Options\n(1) Wiki API\n(2) Weather API\n(3) Get all countries\n(4) Create Countries Table"
+		print "(5) Get all info\n(6) Test update database\n(7) Create Cities DB\n(Q) Quit"
 		option = raw_input("Select option to test response: ")
 		if option == "1":
 			# location options
@@ -191,6 +221,8 @@ def main():
 		elif option == "6":
 			# test update tables
 			updateCountriesTable()
+		elif option == "7":
+			createCitiesTable()
 		elif option == "Q":
 			loop = 0
 			print "Exiting program"
