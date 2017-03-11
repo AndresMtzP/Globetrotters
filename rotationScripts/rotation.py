@@ -4,14 +4,6 @@
 import pygame
 import sys
 
-def rot_center(image, angle):
-    orig_rect = image.get_rect()
-    rot_image = pygame.transform.rotate(image, angle)
-    rot_rect = orig_rect.copy()
-    rot_rect.center = rot_image.get_rect().center
-    rot_image = rot_image.subsurface(rot_rect).copy()
-    return rot_image
-
 def is_long(val):
     try:
         int(round(float(val)))
@@ -71,6 +63,10 @@ def control(command, state, prevDestination):
                 nextState = 'sRotateCW'
     return (nextState, destination)
 
+def imageList(index, screen):
+    imageToDisplay = pygame.image.load('frames/' + str(index) + '.jpg')
+    imageToDisplay.get_rect().center = screen.get_rect().center
+    return imageToDisplay
 
 
 pygame.init()
@@ -90,10 +86,6 @@ degree = 0
 
 state = 'idle'
 destination = 0
-
-imageList = []
-for i in xrange(360):
-    imageList.append(rot_center(charImage, i))
 
 while not done:
     for event in pygame.event.get():
@@ -119,7 +111,7 @@ while not done:
         degree += 1
         if degree > 359:
             degree = 0
-        displayImage = imageList[degree]
+        displayImage = imageList(degree, screen)
 
     ######################################
     # sRotateCW rotates clockwise slowly
@@ -127,7 +119,7 @@ while not done:
         degree -= 1
         if degree < 0:
             degree = 359
-        displayImage = imageList[degree]
+        displayImage = imageList(degree, screen)
 
     #####################################
     # fRotateCCW rotates counter clockwise fast
@@ -135,7 +127,7 @@ while not done:
         degree += 2
         if degree > 359:
             degree = 0
-        displayImage = imageList[degree]
+        displayImage = imageList(degree, screen)
 
     ####################################
     # fRotateCW rotates clockwise fast
@@ -143,7 +135,7 @@ while not done:
         degree -= 2
         if degree < 0:
             degree = 359
-        displayImage = imageList[degree]
+        displayImage = imageList(degree, screen)
 
     ###################################
     #  ffRotateCCW rotates counter clockwise very fast
@@ -151,7 +143,7 @@ while not done:
         degree += 3
         if degree > 359:
             degree = 0
-        displayImage = imageList[degree]
+        displayImage = imageList(degree, screen)
 
     ###################################
     # ffRotateCW rotates clockwise very fast
@@ -159,7 +151,7 @@ while not done:
         degree -= 3
         if degree < 0:
             degree = 359
-        displayImage = imageList[degree]
+        displayImage = imageList(degree, screen)
 
     ##################################
     # rotateToDestination takes shortest path to rotate towards a certain degree
@@ -170,12 +162,12 @@ while not done:
             degree += 1
             if degree > 359:
                 degree = 0
-            displayImage = imageList[degree]
+            displayImage = imageList(degree, screen)
         else:
             degree -= 1
             if degree < 0:
                 degree = 359
-            displayImage = imageList[degree]
+            displayImage = imageList(degree, screen)
 
 
 
