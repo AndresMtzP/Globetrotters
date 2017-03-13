@@ -3,6 +3,15 @@
 
 import pygame
 import sys
+import math
+
+def rot_center(image, angle):
+    orig_rect = image.get_rect()
+    rot_image = pygame.transform.rotate(image, angle)
+    rot_rect = orig_rect.copy()
+    rot_rect.center = rot_image.get_rect().center
+    rot_image = rot_image.subsurface(rot_rect).copy()
+    return rot_image
 
 def is_long(val):
     try:
@@ -14,12 +23,21 @@ def is_long(val):
 def control(command, state, prevDestination):
     nextState = state
     if is_long(command):
-        destination = int(round(float(command)))
+        destination = float(command)
+        if math.floor(destination) % 3 == 0:
+            destination = int(math.floor(destination))
+        elif math.ceil(destination) % 3 == 0:
+            destination = int(math.ceil(destination))
+        elif round(destination) + 1 % 3 == 0:
+            destination = int(round(destination) + 1)
+        else:
+            destination = int(round(destination) - 1)
+
         if destination < 0 and destination > -180:
-            destination =  0 - destination
+            destination =  (0 - destination)/3
             nextState = 'rotateToDestination'
-        elif destination > 0 and destination < 181:
-            destination = 360 - destination
+        elif destination >= 0 and destination < 181:
+            destination = (360 - destination)/3
             nextState = 'rotateToDestination'
         else:
             destination = prevDestination
@@ -63,10 +81,6 @@ def control(command, state, prevDestination):
                 nextState = 'sRotateCW'
     return (nextState, destination)
 
-def imageList(index, screen):
-    imageToDisplay = pygame.image.load('frames/' + str(index) + '.jpg')
-    imageToDisplay.get_rect().center = screen.get_rect().center
-    return imageToDisplay
 
 
 pygame.init()
@@ -86,6 +100,10 @@ degree = 0
 
 state = 'idle'
 destination = 0
+
+imageList = []
+for i in xrange(120):
+    imageList.append(rot_center(charImage, i*3))
 
 while not done:
     for event in pygame.event.get():
@@ -109,65 +127,65 @@ while not done:
     # Idle state keeps rotating counter clockwise
     if state == 'idle':
         degree += 1
-        if degree > 359:
+        if degree > 119:
             degree = 0
-        displayImage = imageList(degree, screen)
+        displayImage = imageList[degree]
 
     ######################################
     # sRotateCW rotates clockwise slowly
     elif state == 'sRotateCW':
         degree -= 1
         if degree < 0:
-            degree = 359
-        displayImage = imageList(degree, screen)
+            degree = 119
+        displayImage = imageList[degree]
 
     #####################################
     # fRotateCCW rotates counter clockwise fast
     elif state == 'fRotateCCW':
         degree += 2
-        if degree > 359:
+        if degree > 119:
             degree = 0
-        displayImage = imageList(degree, screen)
+        displayImage = imageList[degree]
 
     ####################################
     # fRotateCW rotates clockwise fast
     elif state == 'fRotateCW':
         degree -= 2
         if degree < 0:
-            degree = 359
-        displayImage = imageList(degree, screen)
+            degree = 119
+        displayImage = imageList[degree]
 
     ###################################
     #  ffRotateCCW rotates counter clockwise very fast
     elif state == 'ffRotateCCW':
         degree += 3
-        if degree > 359:
+        if degree > 119:
             degree = 0
-        displayImage = imageList(degree, screen)
+        displayImage = imageList[degree]
 
     ###################################
     # ffRotateCW rotates clockwise very fast
     elif state == 'ffRotateCW':
         degree -= 3
         if degree < 0:
-            degree = 359
-        displayImage = imageList(degree, screen)
+            degree = 119
+        displayImage = imageList[degree]
 
     ##################################
     # rotateToDestination takes shortest path to rotate towards a certain degree
     elif state == 'rotateToDestination':
         if degree == destination:
             state = 'stop'
-        elif destination - degree < (360 + degree) - destination:
+        elif destination - degree < (180 + degree) - destination:
             degree += 1
-            if degree > 359:
+            if degree > 119:
                 degree = 0
-            displayImage = imageList(degree, screen)
+            displayImage = imageList[degree]
         else:
             degree -= 1
             if degree < 0:
-                degree = 359
-            displayImage = imageList(degree, screen)
+                degree = 119
+            displayImage = imageList[degree]
 
 
 
