@@ -167,7 +167,7 @@ def createCitiesTable():
 		latlng = teleportapi.getLatLng(loc)
 		lat = latlng[0]
 		lng = latlng[1]
-		row = (loc, teleportapi.getPopulation(loc), lat, lng, teleportapi.getCountry(loc))
+		row = (loc, teleportapi.getPopulation(loc), lat, lng, teleportapi.getCountry(loc), teleportapi.getContinent(loc))
 		cur.execute("INSERT INTO Cities (CityName, Population, Lat, Lng, CountryName) VALUES (%s, %s, %s, %s, %s)", row)
 	f.close()
 	print "Populated table"	
