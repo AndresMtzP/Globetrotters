@@ -21,23 +21,17 @@ def is_long(val):
     return True
 
 def control(command, state, prevDestination):
+    numOfFrames = 240
     nextState = state
     if is_long(command):
         destination = float(command)
-        if math.floor(destination) % 3 == 0:
-            destination = int(math.floor(destination))
-        elif math.ceil(destination) % 3 == 0:
-            destination = int(math.ceil(destination))
-        elif round(destination) + 1 % 3 == 0:
-            destination = int(round(destination) + 1)
-        else:
-            destination = int(round(destination) - 1)
+        destination = round(round(float(float(numOfFrames)/float(360))*destination)*float(float(360)/float(numOfFrames)))
 
         if destination < 0 and destination > -180:
-            destination =  (0 - destination)/3
+            destination = round((0 - destination)/float(float(numOfFrames)/float(360)))
             nextState = 'rotateToDestination'
         elif destination >= 0 and destination < 181:
-            destination = (360 - destination)/3
+            destination = round((0 - destination)/float(float(numOfFrames)/float(360)))
             nextState = 'rotateToDestination'
         else:
             destination = prevDestination
@@ -70,7 +64,7 @@ def control(command, state, prevDestination):
                 nextState = 'fRotateCW'
             elif state == 'fRotateCW':
                 nextState = 'ffRotateCW'
-        elif cmdStr == 'slower':
+        elif cmdStr == 'slowly':
             if state == 'ffRotateCCW':
                 nextState = 'fRotateCCW'
             elif state == 'fRotateCCW':
@@ -81,7 +75,12 @@ def control(command, state, prevDestination):
                 nextState = 'sRotateCW'
     return (nextState, destination)
 
+def getNextFrame(imageList, frame):
 
+    if frame >= len(imageList):
+        return pygame.transform.flip(imageList[frame - len(imageList)], 1, 1)
+    else:
+        return imageList[frame]
 
 pygame.init()
 screen = pygame.display.set_mode((900,900))
@@ -92,6 +91,7 @@ origCenter = screen.get_rect().center
 charImage = pygame.image.load('globe1.jpg')
 charImage = pygame.transform.scale(charImage, screen.get_size())
 charImage = charImage.convert()
+
 screen_rect = screen.get_rect()
 image_rect = charImage.get_rect()
 image_rect.center = screen_rect.center
@@ -101,9 +101,10 @@ degree = 0
 state = 'idle'
 destination = 0
 
+numOfFrames = 120
 imageList = []
-for i in xrange(120):
-    imageList.append(rot_center(charImage, i*3))
+for i in xrange(numOfFrames):
+    imageList.append(rot_center(charImage, i*180/float(numOfFrames)))
 
 while not done:
     for event in pygame.event.get():
@@ -127,65 +128,72 @@ while not done:
     # Idle state keeps rotating counter clockwise
     if state == 'idle':
         degree += 1
-        if degree > 119:
+        if degree >= numOfFrames*2:
             degree = 0
-        displayImage = imageList[degree]
+        displayImage = getNextFrame(imageList, degree)
 
     ######################################
     # sRotateCW rotates clockwise slowly
     elif state == 'sRotateCW':
         degree -= 1
         if degree < 0:
-            degree = 119
-        displayImage = imageList[degree]
+            degree = (numOfFrames*2) - 1
+        displayImage = getNextFrame(imageList, degree)
 
     #####################################
     # fRotateCCW rotates counter clockwise fast
     elif state == 'fRotateCCW':
         degree += 2
-        if degree > 119:
+        if degree >= numOfFrames*2:
             degree = 0
-        displayImage = imageList[degree]
+        displayImage = getNextFrame(imageList, degree)
 
     ####################################
     # fRotateCW rotates clockwise fast
     elif state == 'fRotateCW':
         degree -= 2
         if degree < 0:
-            degree = 119
-        displayImage = imageList[degree]
+            degree = (numOfFrames*2) - 1
+        displayImage = getNextFrame(imageList, degree)
 
     ###################################
     #  ffRotateCCW rotates counter clockwise very fast
     elif state == 'ffRotateCCW':
         degree += 3
-        if degree > 119:
+        if degree >= numOfFrames*2:
             degree = 0
-        displayImage = imageList[degree]
+        displayImage = getNextFrame(imageList, degree)
 
     ###################################
     # ffRotateCW rotates clockwise very fast
     elif state == 'ffRotateCW':
         degree -= 3
         if degree < 0:
-            degree = 119
-        displayImage = imageList[degree]
+            degree = (numOfFrames*2) - 1
+        displayImage = getNextFrame(imageList, degree)
 
     ##################################
     # rotateToDestination takes shortest path to rotate towards a certain degree
     elif state == 'rotateToDestination':
         if degree == destination:
             state = 'stop'
+        else:
+            degree += 2
+            if degree >= numOfFrames * 2:
+                degree = 0
+            displayImage = getNextFrame(imageList, degree)
+        '''
         elif destination - degree < (180 + degree) - destination:
             degree += 1
-            if degree > 119:
+            if degree >= numOfFrames*2:
                 degree = 0
-            displayImage = imageList[degree]
+            displayImage = getNextFrame(imageList, degree)
         else:
             degree -= 1
             if degree < 0:
-                degree = 119
-            displayImage = imageList[degree]
+                degree = (numOfFrames*2) - 1
+            displayImage = getNextFrame(imageList, degree)
+        '''
 
 
 
@@ -198,7 +206,7 @@ while not done:
     screen.blit(displayImage, (0,0))
 
     pygame.display.flip()
-    clock.tick(60)
+    clock.tick(15)
     #print clock.get_fps()
 
 
