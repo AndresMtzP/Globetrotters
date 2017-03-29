@@ -27,14 +27,15 @@ def control(command, state, prevDestination):
         destination = float(command)
         destination = round(round(float(float(numOfFrames)/float(360))*destination)*float(float(360)/float(numOfFrames)))
 
-        if destination < 0 and destination > -180:
-            destination = round((0 - destination)/float(float(numOfFrames)/float(360)))
+        if destination <= 0 and destination > -181:
+            destination = round((0 - destination)/float(float(360)/float(numOfFrames)))
             nextState = 'rotateToDestination'
-        elif destination >= 0 and destination < 181:
-            destination = round((0 - destination)/float(float(numOfFrames)/float(360)))
+        elif destination > 0 and destination < 180:
+            destination = round((360 - destination)/float(float(360)/float(numOfFrames)))
             nextState = 'rotateToDestination'
         else:
             destination = prevDestination
+
 
     else:
         cmdStr = str(command).lower()
@@ -177,23 +178,30 @@ while not done:
     elif state == 'rotateToDestination':
         if degree == destination:
             state = 'stop'
+        elif destination - degree > 0:
+            if destination - degree < ((numOfFrames*2) - 1 + degree) - destination:
+                degree += 1
+                if degree >= numOfFrames * 2:
+                    degree = 0
+                displayImage = getNextFrame(imageList, degree)
+            else:
+                degree -= 1
+                if degree < 0:
+                    degree = (numOfFrames * 2) - 1
+                displayImage = getNextFrame(imageList, degree)
         else:
-            degree += 2
-            if degree >= numOfFrames * 2:
-                degree = 0
-            displayImage = getNextFrame(imageList, degree)
-        '''
-        elif destination - degree < (180 + degree) - destination:
-            degree += 1
-            if degree >= numOfFrames*2:
-                degree = 0
-            displayImage = getNextFrame(imageList, degree)
-        else:
-            degree -= 1
-            if degree < 0:
-                degree = (numOfFrames*2) - 1
-            displayImage = getNextFrame(imageList, degree)
-        '''
+            if degree - destination < ((numOfFrames*2) - 1 - degree) + destination:
+                degree -= 1
+                if degree < 0:
+                    degree = (numOfFrames * 2) - 1
+                displayImage = getNextFrame(imageList, degree)
+            else:
+                degree += 1
+                if degree >= numOfFrames * 2:
+                    degree = 0
+                displayImage = getNextFrame(imageList, degree)
+
+
 
 
 
@@ -206,7 +214,7 @@ while not done:
     screen.blit(displayImage, (0,0))
 
     pygame.display.flip()
-    clock.tick(15)
+    clock.tick(10)
     #print clock.get_fps()
 
 
