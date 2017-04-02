@@ -66,12 +66,12 @@ def control(command, rotVelocity, prevDestination):
                 newVel -= 1
             elif rotVelocity < 0:
                 newVel += 1
-        elif cmdStr == 'swipel':
-            swipeCount = 50
-            newVel = 8
         elif cmdStr == 'swiper':
             swipeCount = 50
-            newVel = -8
+            newVel = 9
+        elif cmdStr == 'swipel':
+            swipeCount = 50
+            newVel = -9
     return (newVel, destination, rotateToDestination, swipeCount)
 
 def getNextFrame(imageList, frame):
@@ -166,45 +166,48 @@ while not done:
     if swipeCount > 0:
         if swipeCount == 47:
             if rotationSpeed > 0:
+                rotationSpeed = 8
+            else:
+                rotationSpeed = -8
+        elif swipeCount == 44:
+            if rotationSpeed > 0:
                 rotationSpeed = 7
             else:
                 rotationSpeed = -7
-        elif swipeCount == 44:
+        elif swipeCount == 41:
             if rotationSpeed > 0:
                 rotationSpeed = 6
             else:
                 rotationSpeed = -6
-        elif swipeCount == 41:
+        elif swipeCount == 37:
             if rotationSpeed > 0:
                 rotationSpeed = 5
             else:
                 rotationSpeed = -5
-        elif swipeCount == 37:
+        elif swipeCount == 32:
             if rotationSpeed > 0:
                 rotationSpeed = 4
             else:
                 rotationSpeed = -4
-        elif swipeCount == 32:
+        elif swipeCount == 25:
             if rotationSpeed > 0:
                 rotationSpeed = 3
             else:
                 rotationSpeed = -3
-        elif swipeCount == 25:
+        elif swipeCount == 15:
             if rotationSpeed > 0:
                 rotationSpeed = 2
             else:
                 rotationSpeed = -2
-        elif swipeCount == 15:
+        elif swipeCount == 1:
             if rotationSpeed > 0:
                 rotationSpeed = 1
             else:
                 rotationSpeed = -1
-        elif swipeCount == 1:
-            rotationSpeed = 0
         swipeCount -= 1
 
-    # if globe is stopped for 4 seconds, rotate it at idle speed
-    if stoppedCount > 40:
+    # if globe is stopped for 60 seconds, rotate it at idle speed
+    if stoppedCount > 600:
         stoppedCount = 0
         rotationSpeed = 1   #idle speed
 
