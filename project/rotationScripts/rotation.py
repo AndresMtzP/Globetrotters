@@ -20,61 +20,59 @@ def is_long(val):
         return False
     return True
 
-def control(command, state, prevDestination):
+def control(command, rotVelocity, prevDestination):
     numOfFrames = 240
-    nextState = state
+    newVel = rotVelocity
+    rotateToDestination = 0
+    swipeCount = 0
     if is_long(command):
         destination = float(command)
         destination = round(round(float(float(numOfFrames)/float(360))*destination)*float(float(360)/float(numOfFrames)))
 
         if destination <= 0 and destination > -181:
             destination = round((0 - destination)/float(float(360)/float(numOfFrames)))
-            nextState = 'rotateToDestination'
+            rotateToDestination = 1
         elif destination > 0 and destination < 180:
             destination = round((360 - destination)/float(float(360)/float(numOfFrames)))
-            nextState = 'rotateToDestination'
+            rotateToDestination = 1
         else:
             destination = prevDestination
-
-
     else:
         cmdStr = str(command).lower()
         destination = prevDestination
         if cmdStr == 'stop':
-            nextState = 'stop'
+            newVel = 0
         elif cmdStr == 'left' or cmdStr == 'west':
-            nextState = 'sRotateCW'
+            newVel = -1
         elif cmdStr == 'right' or cmdStr == 'east':
-            nextState = 'idle'
+            newVel = 1
         elif cmdStr == 'fast':
-            if state == 'idle':
-                nextState = 'fRotateCCW'
-            elif state == 'sRotateCW':
-                nextState = 'fRotateCW'
-        elif cmdStr == 'slow':
-            if state == 'fRotateCCW' or state == 'ffRotateCCW':
-                nextState = 'idle'
-            elif state == 'fRotateCW' or state == 'ffRotateCW':
-                nextState = 'sRotateCW'
+            if rotVelocity >= 0:
+                newVel = 2
+            else:
+                newVel = -2
+        elif cmdStr == 'slow' or cmdStr == 'slowly':
+            if rotVelocity >= 0:
+                newVel = 1
+            else:
+                newVel = -1
         elif cmdStr == 'faster':
-            if state == 'idle':
-                nextState = 'fRotateCCW'
-            elif state == 'fRotateCCW':
-                nextState = 'ffRotateCCW'
-            elif state == 'sRotateCW':
-                nextState = 'fRotateCW'
-            elif state == 'fRotateCW':
-                nextState = 'ffRotateCW'
-        elif cmdStr == 'slowly':
-            if state == 'ffRotateCCW':
-                nextState = 'fRotateCCW'
-            elif state == 'fRotateCCW':
-                nextState = 'sRotateCCW'
-            elif state == 'ffRotateCW':
-                nextState = 'fRotateCW'
-            elif state == 'fRotateCW':
-                nextState = 'sRotateCW'
-    return (nextState, destination)
+            if rotVelocity >= 0 and rotVelocity < 4:
+                newVel += 1
+            elif rotVelocity < 0 and rotVelocity > -4:
+                newVel -= 1
+        elif cmdStr == 'slower':
+            if rotVelocity > 0:
+                newVel -= 1
+            elif rotVelocity < 0:
+                newVel += 1
+        elif cmdStr == 'swipel':
+            swipeCount = 50
+            newVel = 8
+        elif cmdStr == 'swiper':
+            swipeCount = 50
+            newVel = -8
+    return (newVel, destination, rotateToDestination, swipeCount)
 
 def getNextFrame(imageList, frame):
 
@@ -89,7 +87,7 @@ done = False
 clock = pygame.time.Clock()
 
 origCenter = screen.get_rect().center
-charImage = pygame.image.load('globe1.jpg')
+charImage = pygame.image.load('/home/pi/globe/Rotation/globe1.jpg')
 charImage = pygame.transform.scale(charImage, screen.get_size())
 charImage = charImage.convert()
 
@@ -99,8 +97,12 @@ image_rect.center = screen_rect.center
 displayImage = pygame.transform.rotate(charImage, 0)
 degree = 0
 
-state = 'idle'
+rotateToDestination = 0
+rotationSpeed = 1  #idle speed
 destination = 0
+swipeCount = 0
+
+stoppedCount = 0
 
 numOfFrames = 120
 imageList = []
@@ -113,71 +115,24 @@ while not done:
             done = True
 
     try:
-        with open('commands', 'r+') as commandFile:
+        with open('/home/pi/globe/Rotation/commands', 'r+') as commandFile:
             command = commandFile.readline()
             if len(command) > 0:
-                newState = control(command, state, destination)
-                state = newState[0]
+                newState = control(command, rotationSpeed, destination)
+                rotationSpeed = newState[0]
                 destination = newState[1]
+                rotateToDestination = newState[2]
+                swipeCount = newState[3]
             commandFile.seek(0)
             commandFile.truncate()
     except IOError:
         pass
 
-
-    ##############################################
-    # Idle state keeps rotating counter clockwise
-    if state == 'idle':
-        degree += 1
-        if degree >= numOfFrames*2:
-            degree = 0
-        displayImage = getNextFrame(imageList, degree)
-
-    ######################################
-    # sRotateCW rotates clockwise slowly
-    elif state == 'sRotateCW':
-        degree -= 1
-        if degree < 0:
-            degree = (numOfFrames*2) - 1
-        displayImage = getNextFrame(imageList, degree)
-
-    #####################################
-    # fRotateCCW rotates counter clockwise fast
-    elif state == 'fRotateCCW':
-        degree += 2
-        if degree >= numOfFrames*2:
-            degree = 0
-        displayImage = getNextFrame(imageList, degree)
-
-    ####################################
-    # fRotateCW rotates clockwise fast
-    elif state == 'fRotateCW':
-        degree -= 2
-        if degree < 0:
-            degree = (numOfFrames*2) - 1
-        displayImage = getNextFrame(imageList, degree)
-
-    ###################################
-    #  ffRotateCCW rotates counter clockwise very fast
-    elif state == 'ffRotateCCW':
-        degree += 3
-        if degree >= numOfFrames*2:
-            degree = 0
-        displayImage = getNextFrame(imageList, degree)
-
-    ###################################
-    # ffRotateCW rotates clockwise very fast
-    elif state == 'ffRotateCW':
-        degree -= 3
-        if degree < 0:
-            degree = (numOfFrames*2) - 1
-        displayImage = getNextFrame(imageList, degree)
-
     ##################################
     # rotateToDestination takes shortest path to rotate towards a certain degree
-    elif state == 'rotateToDestination':
+    if rotateToDestination:
         if degree == destination:
-            state = 'stop'
+            rotationSpeed = 0
         elif destination - degree > 0:
             if destination - degree < ((numOfFrames*2) - 1 + degree) - destination:
                 degree += 1
@@ -200,15 +155,68 @@ while not done:
                 if degree >= numOfFrames * 2:
                     degree = 0
                 displayImage = getNextFrame(imageList, degree)
+    else:
+        degree += rotationSpeed
+        if degree < 0:
+            degree += (numOfFrames*2)
+        elif degree >= numOfFrames*2:
+            degree -= (numOfFrames*2)
+        displayImage = getNextFrame(imageList, degree)
 
+    if swipeCount > 0:
+        if swipeCount == 47:
+            if rotationSpeed > 0:
+                rotationSpeed = 7
+            else:
+                rotationSpeed = -7
+        elif swipeCount == 44:
+            if rotationSpeed > 0:
+                rotationSpeed = 6
+            else:
+                rotationSpeed = -6
+        elif swipeCount == 41:
+            if rotationSpeed > 0:
+                rotationSpeed = 5
+            else:
+                rotationSpeed = -5
+        elif swipeCount == 37:
+            if rotationSpeed > 0:
+                rotationSpeed = 4
+            else:
+                rotationSpeed = -4
+        elif swipeCount == 32:
+            if rotationSpeed > 0:
+                rotationSpeed = 3
+            else:
+                rotationSpeed = -3
+        elif swipeCount == 25:
+            if rotationSpeed > 0:
+                rotationSpeed = 2
+            else:
+                rotationSpeed = -2
+        elif swipeCount == 15:
+            if rotationSpeed > 0:
+                rotationSpeed = 1
+            else:
+                rotationSpeed = -1
+        elif swipeCount == 1:
+            rotationSpeed = 0
+        swipeCount -= 1
 
+    # if globe is stopped for 4 seconds, rotate it at idle speed
+    if stoppedCount > 40:
+        stoppedCount = 0
+        rotationSpeed = 1   #idle speed
 
+    if rotationSpeed == 0:
+        stoppedCount += 1
+    else:
+        stoppedCount = 0
 
 
 
 
     screen.fill((255,255,255))
-    #screen.blit(image, (20,20))
 
 
     screen.blit(displayImage, (0,0))
