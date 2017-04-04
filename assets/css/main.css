@@ -1882,6 +1882,16 @@
 
 /* Flex */
 
+	.stretch-1{
+		position: relative;
+		width: 28%;
+	}
+
+	.stretch-2{
+		position: relative;
+		width: 56%;
+	}
+
 	.flex {
 		display: -ms-flexbox;
 		-ms-flex-wrap: wrap;
