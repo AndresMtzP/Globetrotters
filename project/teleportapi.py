@@ -5,29 +5,51 @@
 #################################################################################################
 import requests
 import urllib
+import os.path
+import json
+from trottersDB import *
 
+# Gets all the location information for a location request
 def getAll(loc):
-	cityName=population=lat=lng=stateName=countryName=None
+	limit = 10
+	cityName=population=lat=lng=stateName=countryName=""
+	locList = []
+	countrySearchDB(loc, locList, limit)
+	stateSearchDB(loc, locList, limit)
 	payload = {'search' : loc, 'embed' : 'city:search-results/city:item'}
 	r = requests.get("https://api.teleport.org/api/cities", params=payload)
 	data = r.json()
+	cityCount = data['count']
 	if data['_embedded']['city:search-results']:
-		result = data['_embedded']['city:search-results'][0]['_embedded']['city:item']
-		infoKeys = result.keys()
-		if 'name' in infoKeys:
-			cityName = result['name'].encode('utf-8')
-		if 'population' in infoKeys:
-			population = result['population']
-		if 'location' in infoKeys:
-			lat = result['location']['latlon']['latitude']
-			lng = result['location']['latlon']['longitude']
-		if '_links' in infoKeys:
-			if 'city:country' in result['_links'].keys():
-				countryName = result['_links']['city:country']['name'].encode('utf-8')
-		if '_links' in infoKeys:
-			if 'city:admin1_division' in result['_links'].keys():
-				stateName = result['_links']['city:admin1_division']['name'].encode('utf-8')
-	return (cityName,population,lat,lng,stateName,countryName)
+		cities = data['_embedded']['city:search-results']
+		for city in cities:
+			count = len(locList)
+			if count < limit:
+				result = city['_embedded']['city:item']
+				infoKeys = result.keys()
+				if 'full_name' in infoKeys and loc in result['full_name']:
+					if 'name' in infoKeys:
+						cityName = result['name'].encode('utf-8')
+					if 'population' in infoKeys:
+						population = result['population']
+						population = "{:,}".format(population)
+					if 'location' in infoKeys:
+						lat = result['location']['latlon']['latitude']
+						lng = result['location']['latlon']['longitude']
+					if '_links' in infoKeys:
+						if 'city:country' in result['_links'].keys():
+							countryName = result['_links']['city:country']['name'].encode('utf-8')
+						if 'city:admin1_division' in result['_links'].keys():
+							if 'name' in result['_links']['city:admin1_division'].keys():
+								stateName = result['_links']['city:admin1_division']['name'].encode('utf-8')
+					tele_msg = '''{}, has a population of {} people, and is located at {} latitude, and {} longitude'''.format(cityName, population, lat, lng)
+					fullname = '''{}, {}, {}'''.format(cityName, stateName, countryName)
+					cityDict = {'Name' : cityName, 'Population': population, 'Lat' : lat, 'Lng' : lng, 'State' : stateName, 'Country' : countryName, 'Type' : 'City', 'Message' : tele_msg, 'FullName' : fullname}
+					cityDict.update(getDetails(fullname))
+					locList.append(cityDict)
+	with open('/var/www/html/LocationInfo.json', 'w') as outfile:
+		json.dump(locList, outfile, ensure_ascii=False, encoding='utf-8') # Unescape characters
+	return locList
 
 # Gets the population of the city
 def getPopulation(loc):
@@ -104,70 +126,89 @@ def getSearchResults(loc):
 		print result['matching_full_name'].encode('utf-8')
 
 # Gets the image of the urban area the city is located in
-def getImage(loc, count):
-	payload = {'search': loc}
-	r = requests.get("https://api.teleport.org/api/cities", params=payload)
+def getImage(loc):
+	if (os.path.isfile("/var/www/html/Images/{}0.jpg".format(loc)) \
+		and os.path.isfile("/var/www/html/Images/{}1.jpg".format(loc)) \
+		and os.path.isfile("/var/www/html/Images/{}2.jpg".format(loc))):
+		print "Trotter: {} images already exists".format(loc)
+		return
+
+	print "Trotter: downloading image"
+	key = "3fe696d991085740dda6a26e7fbd7954"
+	payload = {'text':loc + ' cityscape', 'format':'json', 'api_key':key, 'per_page':3, 'accuracy':11, 'method':'flickr.photos.search', 'nojsoncallback':1,
+		'tags':'city, skyline', 'tag_mode':'any'}
+
+	r = requests.get("https://api.flickr.com/services/rest", params=payload)
 	data = r.json()
-	if data['_embedded']['city:search-results']:
-		result = data['_embedded']['city:search-results'][0]
-		r = requests.get(result['_links']['city:item']['href'])
-	data = r.json()['_links']
-	matchKeys = data.keys()
-	if 'city:urban_area' in matchKeys:
-		r = requests.get(data['city:urban_area']['href'])
-		data = r.json()
-		r = requests.get(data['_links']['ua:images']['href'])
-		data = r.json()
-		urllib.urlretrieve(data['photos'][0]['image']['mobile'],"C:\Users\Brian Pham\Documents\Classes\COMPE 490\Levitating Globe\API\Images\%s.jpg" % count)
+	if data['stat'] == 'ok':
+		numPhotos = int(data['photos']['total'])
+		count = 0
+		while count < 3 and count < numPhotos:
+			photo = data['photos']['photo'][count]
+			farmid = photo['farm']
+			serverid = photo['server']
+			photoid = photo['id']
+			secret = photo['secret']
+			photourl = '''https://farm{}.staticflickr.com/{}/{}_{}_c.jpg'''.format(farmid,serverid,photoid,secret)
+			urllib.urlretrieve(photourl,'/var/www/html/Images/{}{}.jpg'.format(loc,count))
+			count += 1
 
 # Gets detailed information about certain location
 def getDetails(loc):
-	weatherType=curr=lifeExpectancy=lang=None
+	weatherType=curr=rate=exchange=lunch=lang=medApart=gunCrime=""
 
-	details = ['CLIMATE', 'ECONOMY', 'INTERNAL', 'LANGUAGE']
-	payload = {'search': loc}
-	r = requests.get("https://api.teleport.org/api/cities", params=payload)
+	details = ['CLIMATE', 'ECONOMY', 'COST-OF-LIVING', 'LANGUAGE', 'HOUSING', 'SAFETY']
+	payload = {'search' : loc, 'embed' : 'city:search-results/city:item/city:urban_area/ua:details'}
+	r = requests.get("https://api.teleport.org/api/cities/", params=payload)
 	data = r.json()
-	if data['_embedded']['city:search-results']:
-		result = data['_embedded']['city:search-results'][0]
-		r = requests.get(result['_links']['city:item']['href'])
-	data = r.json()['_links']
-	matchKeys = data.keys()
-	if 'city:urban_area' in matchKeys:
-		r = requests.get(data['city:urban_area']['href'])
-		data = r.json()['_links']
-		matchKeys = data.keys()
-		if 'ua:details' in matchKeys:
-			r = requests.get(data['ua:details']['href'])
-			data = r.json()['categories']
-			for result in data:
-				if result['id'] in details:
-					ID = result['id']
+
+	try:
+		result = data['_embedded']['city:search-results'][0]['_embedded']['city:item']['_embedded']['city:urban_area']['_embedded']['ua:details']['categories']
+		for res in result:
+				if res['id'] in details:
+					ID = res['id']
 					if ID == 'CLIMATE':
-						climate = result['data']
+						climate = res['data']
 						for x in climate:
 							if x['id'] == 'WEATHER-TYPE':
 								weatherType = x['string_value']
-								print x['label'] + ": " + weatherType
 					elif ID == 'ECONOMY':
-						econ = result['data']
+						econ = res['data']
 						for x in econ:
 							if x['id'] == 'CURRENCY-URBAN-AREA':
 								curr = x['string_value']
-								print x['label'] + ": " + curr
-					elif ID == 'INTERNAL':
-						internal = result['data']
-						for x in internal:
-							if x['id'] == 'LIFE-EXPECTANCY':
-								lifeExpectancy = str(x['float_value'])
-								print x['label'] + ": " + lifeExpectancy
+							if x['id'] == 'CURRENCY-URBAN-AREA-EXCHANGE-RATE':
+								rate = str(x['float_value'])
+					elif ID == 'COST-OF-LIVING':
+						costOfLiving = res['data']
+						for x in costOfLiving:
+							if x['id'] == 'COST-RESTAURANT-MEAL':
+								lunch = "$" + str(x['currency_dollar_value'])
 					elif ID == 'LANGUAGE':
-						lang = result['data']
-						for x in lang:
+						language = res['data']
+						for x in language:
 							if x['id'] == 'SPOKEN-LANGUAGES':
 								lang = x['string_value']
-								print x['label'] + ": " + lang
-	return (weatherType,curr,lifeExpectancy,lang)
+					elif ID == 'HOUSING':
+						housing = res['data']
+						for x in housing:
+							if x['id'] == 'APARTMENT-RENT-MEDIUM':
+								medApart = "$" + str(x['currency_dollar_value'])
+					elif ID == 'SAFETY':
+						safety = res['data']
+						for x in safety:
+							if x['id'] == 'GUN-DEATH-RATE':
+								gunCrime = str(x['int_value'])
+
+					if rate != "" and curr != "":
+						exchange = '''$1 -> {} {}'''.format(rate,curr) 
+	except:
+		print 'No detailed information for "%s" was found' % loc
+		pass
+
+	return {'Weather' : weatherType, 'ExchangeRate' : exchange, 'Lunch' : lunch, 'Languages' : lang, 'Housing' : medApart, 'GunDeathRate' : gunCrime}
+
+
 
 def createCitiesCsv():
 	fr = open("allCities.txt", "r")
@@ -241,10 +282,20 @@ def writeAllStates():
 
 # Writes all the countries that Teleport API references in a file (alphabetical)
 def writeAllCountries():
-	f = open('allCountries.txt', 'w')
+	f = open('allCountries.csv', 'w')
 	r = requests.get('https://api.teleport.org/api/countries')
 	data = r.json()
 	countryList = data['_links']['country:items']
 	for country in countryList:
-		f.write('%s\n' % country['name'])
+		countryName=pop=continent=None;
+		if 'name' in country.keys():
+			countryName = country['name']
+			print countryName
+		r = requests.get(country['href'])
+		data = r.json()
+		if 'population' in data.keys():
+			pop = data['population']
+		if 'country:continent' in data['_links'].keys():
+			continent = data['_links']['country:continent']['name']
+		f.write('%s,%s,%s\n' % (countryName, pop, continent))
 	f.close()
