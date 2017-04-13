@@ -127,13 +127,11 @@ def getSearchResults(loc):
 
 # Gets the image of the urban area the city is located in
 def getImage(loc):
-	if (os.path.isfile("/var/www/html/Images/{}0.jpg".format(loc)) \
-		and os.path.isfile("/var/www/html/Images/{}1.jpg".format(loc)) \
-		and os.path.isfile("/var/www/html/Images/{}2.jpg".format(loc))):
+	if (os.path.isfile("/var/www/html/Images/{}0.jpg".format(loc))):
 		print "Trotter: {} images already exists".format(loc)
 		return
 
-	print "Trotter: downloading image"
+	print "Trotter: downloading images for {}".format(loc)
 	key = "3fe696d991085740dda6a26e7fbd7954"
 	payload = {'text':loc + ' cityscape', 'format':'json', 'api_key':key, 'per_page':3, 'accuracy':11, 'method':'flickr.photos.search', 'nojsoncallback':1,
 		'tags':'city, skyline', 'tag_mode':'any'}
@@ -155,7 +153,7 @@ def getImage(loc):
 
 # Gets detailed information about certain location
 def getDetails(loc):
-	weatherType=curr=rate=exchange=lunch=lang=medApart=gunCrime=""
+	weatherType=curr=rate=exchange=lunch=lang=medApart=gunCrime=message=""
 
 	details = ['CLIMATE', 'ECONOMY', 'COST-OF-LIVING', 'LANGUAGE', 'HOUSING', 'SAFETY']
 	payload = {'search' : loc, 'embed' : 'city:search-results/city:item/city:urban_area/ua:details'}
@@ -172,11 +170,13 @@ def getDetails(loc):
 						for x in climate:
 							if x['id'] == 'WEATHER-TYPE':
 								weatherType = x['string_value']
+								message += ''' This area has a {}.'''.format(weatherType)
 					elif ID == 'ECONOMY':
 						econ = res['data']
 						for x in econ:
 							if x['id'] == 'CURRENCY-URBAN-AREA':
 								curr = x['string_value']
+								message += ''' The currency of this city is {}.'''.format(curr)
 							if x['id'] == 'CURRENCY-URBAN-AREA-EXCHANGE-RATE':
 								rate = str(x['float_value'])
 					elif ID == 'COST-OF-LIVING':
@@ -184,16 +184,19 @@ def getDetails(loc):
 						for x in costOfLiving:
 							if x['id'] == 'COST-RESTAURANT-MEAL':
 								lunch = "$" + str(x['currency_dollar_value'])
+								message += ''' On average, the price of lunch is around {}.'''.format(lunch)
 					elif ID == 'LANGUAGE':
 						language = res['data']
 						for x in language:
 							if x['id'] == 'SPOKEN-LANGUAGES':
 								lang = x['string_value']
+								message += ''' The spoken languages of this city include {}.'''.format(lang)
 					elif ID == 'HOUSING':
 						housing = res['data']
 						for x in housing:
 							if x['id'] == 'APARTMENT-RENT-MEDIUM':
 								medApart = "$" + str(x['currency_dollar_value'])
+								message += ''' To rent a medium sized apartment in this area, expect to spend around {} a month.'''.format(medApart)
 					elif ID == 'SAFETY':
 						safety = res['data']
 						for x in safety:
@@ -201,12 +204,13 @@ def getDetails(loc):
 								gunCrime = str(x['int_value'])
 
 					if rate != "" and curr != "":
-						exchange = '''$1 -> {} {}'''.format(rate,curr) 
+						exchange = '''$1 -> {} {}'''.format(rate,curr)
 	except:
 		print 'No detailed information for "%s" was found' % loc
+		message += '''No detailed information for {} was found.'''.format(loc)
 		pass
 
-	return {'Weather' : weatherType, 'ExchangeRate' : exchange, 'Lunch' : lunch, 'Languages' : lang, 'Housing' : medApart, 'GunDeathRate' : gunCrime}
+	return {'Weather' : weatherType, 'ExchangeRate' : exchange, 'Lunch' : lunch, 'Languages' : lang, 'Housing' : medApart, 'GunDeathRate' : gunCrime, 'MoreInfo' : message}
 
 
 
