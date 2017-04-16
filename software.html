@@ -42,20 +42,37 @@
 					</div>
 					<h3>Programming Languages and Software</h3>
 					<ul>
-						<li>Python 2.7</li>
+						<li>Python 2.7, C, and C++</li>
 						<li>HTML/CSS</li>
 						<li>Javascript</li>
 						<li>MySQL Database</li>
 						<li>Apache Webserver</li>
 						<li>Debian OS</li>
+						<li>Bash scripting</li>
 					</ul>
-					<h3>APIs for Location Information</h3>
+					<h3>APIs and MySQL Database for Location Information</h3>
 					<ul>
 						<li>Teleport API - City based searches for location information</li>
-						<li>Google Photos API - Photos based on latitude and longitude coordinates</li>
+						<li>Flickr API - Photos based on text input and tags</li>
 						<li>Mapbox - Map animations and geographical visualization</li>
+						<li>Alexa Voice Service - Custom voice interface and control</li>
+						<li>MySQL - Globetrotters Database
+								<ul>
+									<li>Countries Table</li>
+									<li>States Table</li>
+									<li>Cities Table</li>
+								</ul>
+						</li>
 					</ul>
-					<p>These APIs are used to gather location specific information based on the users request. The Teleport API provides our application with a variety of different information about a location such as it's population, latitude and longitude, climate, etc. They reference a large amount of cities (over 140,000) and pull their information from other databases that hold geographical information such as GeoNames. Since the information that is requested from this API is tailored to fit queries, we parsed their entire database ahead of time to store country and admin 1 division locations (similar to state information in the United States) in our own MySQL database, hosted on the Raspberry Pi 3. In doing so, we can refine the information served to the GUI to better fit a user's request. Furthermore, the Google Photos API is used to retrieve images of a location based on latitude and longitude coordinates. These images are presented to the user after a successful location request has been made. Mapbox is used by our application to navigate to different areas, providing the user with a visual representation of where the requested location is on the map. 
+					<p>These APIs are used to gather location specific information based on the users request. The Teleport API provides our application with a variety of different information about a location such as it's population, latitude and longitude, climate, etc. They reference a large amount of cities (over 140,000) and pull their information from other databases that hold geographical information such as GeoNames. Since the information that is requested from this API is tailored to fit queries, we parsed their entire database ahead of time to store country and admin 1 division locations (similar to state information in the United States) in our own MySQL database, hosted on the Raspberry Pi 3. In doing so, we can refine the information served to the GUI to better fit a user's request. Furthermore, the Google Photos API is used to retrieve images of a location based on latitude and longitude coordinates. These images are presented to the user after a successful location request has been made. Mapbox is used by our application to navigate to different areas, providing the user with a visual representation of where the requested location is on the map. The Alexa Voice Service allows us to create our own custom voice interface, giving users several voice commands to interact with Trotter. 
+					</p>
+					<header class="align-center">
+						<h3>User Location Request Flow Diagram</h3>
+						<div class="align-center">
+							<img src="images/backendflow.png"/>
+						</div>
+					</header>
+					<p>The above diagram illustrates how user location requests are handled after interacting with the voice interface. When a user makes a location request, the location string is parsed from the user input and sent to several python functions. The functions will first query the MySQL database for countries and states that match the input string, then make a request to the Teleport API for city matches. After information is found for the location, a JSON file is generated to provide the GUI and Alexa Voice Service to present it to the user. While the queries and requests for the location string is being processed, calls are also being made in parallel to the Flickr API to find images of the location which is also displayed to the user through the GUI. 
 					</p>
 				</div>
 			</section>
@@ -67,13 +84,6 @@
 						<div class="copyright">
 							&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.
 						</div>
-						<ul class="icons">
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-linkedin"><span class="label">linkedIn</span></a></li>
-							<li><a href="#" class="icon fa-pinterest-p"><span class="label">Pinterest</span></a></li>
-							<li><a href="#" class="icon fa-vimeo"><span class="label">Vimeo</span></a></li>
-						</ul>
 					</div>
 				</div>
 			</footer>
