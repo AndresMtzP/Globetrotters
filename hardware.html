@@ -16,7 +16,6 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo">Theory</a>
 					<nav id="nav">
 						<a href="index.html">Home</a>
 						<a href="software.html">Software</a>
@@ -32,52 +31,38 @@
 				<div class="inner">
 					<header class="align-center">
 						<h2>Hardware</h2>
-						<p>Magnetic levitation and feedback control systems</p>
+						<p>Magnetic levitation, feedback control systems, and user interaction</p>
 					</header>
 					<header class="align-center">
 						<h3>Hardware Flow Diagram</h3>
 					</header>
+					<div class="align-center">
+						<img src="images/hardware_flow.png"/>
+					</div>
 					<h3>Hardware Components</h3>
 						<ul>
 							<li>Raspberry Pi 3</li>
-							<li>2x H-Bridges</li>
+							<li>2x H-Bridges - VNH5019</li>
 							<li>Permanent base ring magnet and disk magnet</li>
-							<li>8x Hall effect sensors</li>
+							<li>8x Hall effect sensors - SS49E</li>
 							<li>PIC24EP64GP202</li>
 							<li>4x Electromagnetic coils</li>
 							<li>7 Inch display</li>
 							<li>24V Power supply</li>
 							<li>12 Inch globe</li>
 							<li>Echo Dot</li>
-							<li>Gesture Sensor</li>
-							<li>Ultrasonic sensor</li>
-						</ul>						
-					<div class="flex flex-2">
-						<article>
-							<div class="image fit">
-								<img src="images/pic01.jpg" alt="Pic 01" />
-							</div>
-							<header>
-								<h3>Praesent placerat magna</h3>
-							</header>
-							<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor lorem ipsum.</p>
-							<footer>
-								<a href="#" class="button special">More</a>
-							</footer>
-						</article>
-						<article>
-							<div class="image fit">
-								<img src="images/pic02.jpg" alt="Pic 02" />
-							</div>
-							<header>
-								<h3>Fusce pellentesque tempus</h3>
-							</header>
-							<p>Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna non comodo sodales tempus.</p>
-							<footer>
-								<a href="#" class="button special">More</a>
-							</footer>
-						</article>
+							<li>Gesture Sensor - APDS-9960</li>
+							<li>Ultrasonic sensor - HC-SR04</li>
+						</ul>
+					<p>The list of components above are mainly used to provide magnetic levitation for our system and support user interaction with Trotter. The permanent base ring magnet is used to provide a static magnetic field to lift the permanent disk magnet. However, this does not provide stable magnetic levitation under Earshawn's Theorem. So, the H-Bridges, Hall Effect sensors, PIC microcontroller, and electromagnetic coils make up the feedback control system that varies the magnetic field and attempts to keep the magnet in the correct position. These components are responsible for correcting the movement of the floating disk magnet and insuring that the overall system is stable. All of these systems are being powered using a 24V power supply.</p>
+					<p>The other components shown in the list above are used for supporting user interaction via gesture controls and voice commands. The Echo Dot is used with the Alexa Voice Service to provide custom voice commands that allow the user to interact with Trotter. The gesture and ultrasonic sensors are used to support gesture commands and user detection. Some gesture controls consist of swiping left and right or stopping to control the globes rotation. The globe and 7 inch display are both used to provide the user with visual feedback as a result from user commands. Below is a diagram that illustrates how these hardware components are connected and communicate with the rest of the system.</p>
+					<header class="align-center">
+						<h3>High-level Feedback Flow Diagram</h3>
+					</header>						
+					<div class="align-center">
+						<img src="images/feedback.png"/>
 					</div>
+					<p>The above diagram is a high-level representation of the feedback circuit to stabilize magnetic levitation. The hall effect sensors will continuously record the strength of the magnetic field produced by the floating disk magnet. When the magnet moves in a certain direction, the hall effect sensor voltage will change accordingly. These voltage values are then periodically sampled by the microcontroller which then generates a PWM signal to vary the current going through the electromagnet coils. The electromagnetic coils will apply a force on the floating disk magnet that will push it back to a stable position.</p>
 				</div>
 			</section>
 

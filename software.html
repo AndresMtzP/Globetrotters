@@ -16,7 +16,6 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo">Theory</a>
 					<nav id="nav">
 						<a href="index.html">Home</a>
 						<a href="software.html">Software</a>
@@ -54,7 +53,7 @@
 					<ul>
 						<li>Teleport API - City based searches for location information</li>
 						<li>Flickr API - Photos based on text input and tags</li>
-						<li>Mapbox - Map animations and geographical visualization</li>
+						<li>Google Maps API - Map animations and geographical visualization</li>
 						<li>Alexa Voice Service - Custom voice interface and control</li>
 						<li>MySQL - Globetrotters Database
 								<ul>
@@ -68,12 +67,25 @@
 					</p>
 					<header class="align-center">
 						<h3>User Location Request Flow Diagram</h3>
-						<div class="align-center">
+					</header>
+					<div class="align-center">
 							<img src="images/backendflow.png"/>
 						</div>
-					</header>
-					<p>The above diagram illustrates how user location requests are handled after interacting with the voice interface. When a user makes a location request, the location string is parsed from the user input and sent to several python functions. The functions will first query the MySQL database for countries and states that match the input string, then make a request to the Teleport API for city matches. After information is found for the location, a JSON file is generated to provide the GUI and Alexa Voice Service to present it to the user. While the queries and requests for the location string is being processed, calls are also being made in parallel to the Flickr API to find images of the location which is also displayed to the user through the GUI. 
+					<p>The above diagram illustrates how user location requests are handled after interacting with the voice interface. This is the backend software flow and is primarily coded in Python. When a user makes a location request, the location string is parsed from the user input and sent to several python functions. The functions will first query the MySQL database for countries and states that match the input string, then make a request to the Teleport API for city matches. After information is found for the location, a JSON file is generated to provide the GUI and Alexa Voice Service to present it to the user. While the queries and requests for the location string is being processed, calls are also being made in parallel to the Flickr API to find images of the location which is also displayed to the user through the GUI. 
 					</p>
+					<header class="align-center">
+						<h3>Graphical User Interface</h3>
+					</header>
+					<div class="align-center">
+						<img src="images/gui_display.png"/>
+					</div>
+					<br>
+					<p>The graphical user interface (GUI) is used to display relevant information about the location to the user. The first image on the left shows the main screen of the GUI after a user requests information about a location. The data shown is the general information about the location. The user can also request more detailed information about the location that they are currently on. In addition, the user also has the option to view more information about locations related to their request. This is shown in the second image on the right. The number of options extra locations is limited to 10. The GUI also contains additional pages such as Welcome, Help, and About, which gives the user more information about the project and also how to user Trotter. This is all shown on a 7 inch display and is coded using HTML/CSS and Javascript and is hosted locally on the Raspberry Pi 3 using Apache.</p>
+					<h3>Rotation</h3>
+					<p>Trotter has the ability to rotate to a specific location that the user requests on the globe. However, this funcitonality is only available through a projector using software means, which was the original route that was taken for the project. Because of issues encountered later in the development of this globe model -- particularly with magnetic levitation -- this method does not include an actual levitating object. The rotation script rotates an azimuthal equidistant image of the globe using Python. This image is projected through a fisheye lens which wraps it around a transparent sphere. This allows the user to see an actual globe on the sphere that rotates to the location requested. An example of the rotation script and projected globe are shown below.</p>
+					<div class="align-center">
+						<img src="images/projglobe.png"/>
+					</div>
 				</div>
 			</section>
 
