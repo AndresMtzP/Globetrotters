@@ -33,8 +33,9 @@
 						<h2>Hardware</h2>
 						<p>Magnetic levitation, feedback control systems, and user interaction</p>
 					</header>
+					<p>The main role of the hardware is to provide magnetic levitation to our globe and also gather user input in order to be processed by our software. Below is a high level diagram of how these hardware components interact in order to achieve magnetic levitation.</p>
 					<header class="align-center">
-						<h3>Hardware Flow Diagram</h3>
+						<h3>Magnetic Levitation Flow Diagram</h3>
 					</header>
 					<div class="align-center">
 						<img src="images/hardware_flow.png"/>
@@ -44,7 +45,7 @@
 							<li>Raspberry Pi 3</li>
 							<li>2x H-Bridges - VNH5019</li>
 							<li>Permanent base ring magnet and disk magnet</li>
-							<li>8x Hall effect sensors - SS49E</li>
+							<li>4x Hall effect sensors - SS49E</li>
 							<li>PIC24EP64GP202</li>
 							<li>4x Electromagnetic coils</li>
 							<li>7 Inch display</li>
@@ -53,8 +54,9 @@
 							<li>Echo Dot</li>
 							<li>Gesture Sensor - APDS-9960</li>
 							<li>Ultrasonic sensor - HC-SR04</li>
+							<li>Custom PCBs</li>
 						</ul>
-					<p>The list of components above are mainly used to provide magnetic levitation for our system and support user interaction with Trotter. The permanent base ring magnet is used to provide a static magnetic field to lift the permanent disk magnet. However, this does not provide stable magnetic levitation under Earshawn's Theorem. So, the H-Bridges, Hall Effect sensors, PIC microcontroller, and electromagnetic coils make up the feedback control system that varies the magnetic field and attempts to keep the magnet in the correct position. These components are responsible for correcting the movement of the floating disk magnet and insuring that the overall system is stable. All of these systems are being powered using a 24V power supply.</p>
+					<p>The list of components above are mainly used to provide magnetic levitation for our system and support user interaction with Trotter. The permanent base ring magnet is used to provide a static magnetic field to lift the permanent disk magnet. However, this does not provide stable magnetic levitation under Earnshaw's Theorem. So, the H-Bridges, Hall Effect sensors, PIC microcontroller, and electromagnetic coils make up the feedback control system that varies the magnetic field and attempts to keep the magnet in the correct position. These components are responsible for correcting the movement of the floating disk magnet and insuring that the overall system is stable. All of these systems are being powered using a 24V power supply.</p>
 					<p>The other components shown in the list above are used for supporting user interaction via gesture controls and voice commands. The Echo Dot is used with the Alexa Voice Service to provide custom voice commands that allow the user to interact with Trotter. The gesture and ultrasonic sensors are used to support gesture commands and user detection. Some gesture controls consist of swiping left and right or stopping to control the globes rotation. The globe and 7 inch display are both used to provide the user with visual feedback as a result from user commands. Below is a diagram that illustrates how these hardware components are connected and communicate with the rest of the system.</p>
 					<header class="align-center">
 						<h3>High-level Feedback Flow Diagram</h3>
