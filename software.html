@@ -33,7 +33,7 @@
 						<h2>Software Components</h2>
 						<p>Information gathering and presentation</p>
 					</header>
-					<p>The software portion of our project is responsible for user interaction via voice and gesture commands, gathering and formatting information about different locations, and also providing feedback to the user through a graphical user interface and voice. The following diagram illustrates at a high level how the all the software components are connected in order to achieve our goal of providing a good user experience.</p>
+					<p>The software portion of our project is responsible for user interaction via voice and gesture commands, gathering and formatting information about different locations, and also providing feedback to the user through a graphical user interface and voice. The following diagram illustrates at a high level how all the software components are connected in order to achieve our goal of providing a good user experience.</p>
 					<header class="align-center">
 						<h3>Software Flow Diagram</h3>
 					</header>
@@ -81,11 +81,12 @@
 						<img src="images/gui_display.png"/>
 					</div>
 					<br>
-					<p>The graphical user interface (GUI) is used to display relevant information about the location to the user. The first image on the left shows the main screen of the GUI after a user requests information about a location. The data shown is the general information about the location. The user can also request more detailed information about the location that they are currently on. In addition, the user also has the option to view more information about locations related to their request. This is shown in the second image on the right. The number of options extra locations is limited to 10. The GUI also contains additional pages such as Welcome, Help, and About, which gives the user more information about the project and also how to user Trotter. This is all shown on a 7 inch display and is coded using HTML/CSS and Javascript and is hosted locally on the Raspberry Pi 3 using Apache.</p>
+					<p>The graphical user interface (GUI) is used to display relevant information about the location to the user. The first image on the left shows the main screen of the GUI after a user requests information about a location. The data shown is the general information about the location. The user can also request more detailed information about the location that they are currently on. In addition, the user also has the option to view more information about locations related to their request. This is shown in the second image on the right. The number of extra locations is limited to 10. The GUI also contains additional pages such as Welcome, Help, and About, which gives the user more information about the project and also how to user Trotter. This is all shown on a 7 inch display and is coded using HTML/CSS and Javascript and is hosted locally on the Raspberry Pi 3 using Apache.</p>
 					<h3>Rotation</h3>
 					<p>Trotter has the ability to rotate to a specific location that the user requests on the globe. The rotation script rotates an azimuthal equidistant image of the globe in software using Python. This image is projected through a fisheye lens which wraps it around a transparent sphere. This allows the user to see an actual globe on the sphere that rotates to the location requested and is one of the key differences between the virtual globe and the physical globe. The physical globe uses hardware to rotate the globe as opposed to being fully implemented in software. An example of the rotation script and projected globe are shown below.</p>
 					<div class="align-center">
-						<img src="images/projglobe.png"/>
+						<img src="images/projglobe.png" width="600" height="360"/>
+						<img src="images/projtest4.png" width="400" height="360"/>
 					</div>
 				</div>
 			</section>
