@@ -1661,6 +1661,7 @@
 		margin: 0 0 1em 0;
 	}
 
+
 	body header p {
 		color: #6a6a6a;
 	}
@@ -3081,13 +3082,13 @@
 	}
 
 /* Style the Image Used to Trigger the Modal */
-	section div img {
+	.imgclick {
 	    border-radius: 5px;
 	    cursor: pointer;
 	    transition: 0.3s;
 	}
 
-	section div img:hover {opacity: 0.7;}
+	.imghover:hover {opacity: 0.7;}
 
 	/* The Modal (background) */
 	.modal {
@@ -3165,4 +3166,13 @@
 	    .modal-content {
 	        width: 100%;
 	    }
+	}
+
+	.divider {
+		display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 1px solid #ccc;
+	    margin: 1em 0;
+	    padding: 0; 
 	}
