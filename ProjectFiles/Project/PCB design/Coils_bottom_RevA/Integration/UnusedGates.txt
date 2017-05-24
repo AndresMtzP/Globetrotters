@@ -1,0 +1,8 @@
+Unused gates that are not in schematic from : Packager  26-Apr-2017  13:43
+BEGIN_PART_NUM 6_pin_sngl
+BEGIN_REF J2
+BEGIN_GATE
+PIN 1
+END_GATE
+END_REF
+END_PART_NUM

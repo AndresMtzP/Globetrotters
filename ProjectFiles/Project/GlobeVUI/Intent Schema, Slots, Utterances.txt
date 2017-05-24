@@ -1,0 +1,227 @@
+Intent Schema
+———————————————
+
+{
+
+    "intents": [{
+
+        "intent": "AMAZON.StopIntent"
+
+    }, {
+
+        "intent": "AMAZON.HelpIntent"
+
+    }, {
+
+        "intent": "VoiceHelpIntent"
+
+    }, {
+
+        "intent": "GestureHelpIntent"
+
+    }, {
+
+        "intent": "TrottersIntent"
+
+    }, {
+
+        "intent": "AboutIntent"
+
+    }, {
+
+        "intent": "HistoryIntent"
+
+    }, {
+
+        "intent": "DetailsIntent"
+
+    }, {
+
+        "intent": "ViewIntent"
+
+    }, {
+
+        "intent": "IntroIntent"
+
+    }, {
+
+        "intent": "OutroIntent"
+
+    }, {
+
+        "intent": "ListOptionsIntent"
+
+    }, {
+
+        "intent": "GoToIntent",
+
+        "slots": [{
+
+            "name": "location",
+
+            "type": "GEOLOCATIONS"
+
+        }]
+
+        }, {
+
+        "intent": "ZoomIntent",
+
+        "slots": [{
+
+            "name": "zoomOpt",
+
+            "type": "ZOOMOPTION"
+
+        }]
+
+        }, {
+
+        "intent": "SelOptionIntent",
+
+        "slots": [{
+
+            "name": "listOpt",
+
+            "type": "AMAZON.NUMBER"
+
+        }]
+
+        }, {
+
+        "intent": "RotateIntent",
+
+        "slots": [{
+
+            "name": "rotateopt",
+
+            "type": "ROTATEOPTION"
+
+        }]
+
+    }]
+
+}
+
+
+Utterances
+———————————
+AboutIntent what are you
+AboutIntent who are you
+AboutIntent what do you do
+AboutIntent what can you do
+AboutIntent what are your functions
+AboutIntent tell me your functions
+AboutIntent introduce herself
+AboutIntent introduce itself
+AboutIntent tell me about itself
+AboutIntent tell me about herself
+
+RotateIntent rotate {rotateopt}
+RotateIntent rotate to the {rotateopt}
+RotateIntent rotate the globe {rotateopt}
+RotateIntent rotate the globe to the {rotateopt}
+RotateIntent {rotateopt} rotating
+
+TrottersIntent who are the globetrotters
+TrottersIntent who are the globe trotters
+TrottersIntent who are the trotters
+TrottersIntent tell me about the globetrotters
+
+GoToIntent go to {location}
+GoToIntent show me {location}
+GoToIntent show {location}
+GoToIntent where is {location}
+GoToIntent take me to {location}
+GoToIntent locate {location}
+GoToIntent find {location}
+GoToIntent tell me about {location}
+
+IntroIntent begin the presentation
+IntroIntent start the presentation
+OutroIntent conclude the presentation
+OutroIntent finish the presentation
+
+HistoryIntent where have I visited
+HistoryIntent where have we visited
+HistoryIntent what locations have I visited
+HistoryIntent what locations have we visited
+HistoryIntent what locations did I go to
+HistoryIntent what locations did we go to
+HistoryIntent what locations have I looked at
+HistoryIntent what locations have we looked at
+HistoryIntent what locations have I seen
+HistoryIntent what locations have we seen
+HistoryIntent past locations
+
+DetailsIntent give me more details
+DetailsIntent tell me more details
+DetailsIntent give me more info
+DetailsIntent tell me more info
+
+ViewIntent switch the map view
+ViewIntent change the map view
+
+ZoomIntent zoom {zoomOpt}
+ZoomIntent zoom {zoomOpt} on map
+ZoomIntent zoomin on map
+ZoomIntent zoomin
+ZoomIntent {zoomOpt} zoom
+
+VoiceHelpIntent voice command help
+VoiceHelpIntent for voice command help
+VoiceHelpIntent for help with voice commands
+VoiceHelpIntent for help with voice input
+
+GestureHelpIntent gesture control help
+GestureHelpIntent gesture input help
+GestureHelpIntent for help with gesture input
+GestureHelpIntent for help with gesture control
+GestureHelpIntent for help with the gesture controller
+
+AMAZON.HelpIntent what can I say
+AMAZON.HelpIntent tell me what I can say
+AMAZON.HelpIntent tell me what I can do
+AMAZON.HelpIntent what can I do
+
+SelOptionIntent select option {listOpt}
+SelOptionIntent pick option {listOpt}
+SelOptionIntent choose option {listOpt}
+
+ListOptionsIntent what are my options
+ListOptionsIntent what are the options
+
+
+
+
+Custom Slot Types
+------------------
+GEOLOCATIONS
+txt file of countries, cities, and other locations
+
+ROTATEOPTION
+Left
+West
+Right
+East
+Up
+North
+Down
+South
+Fast
+Faster
+Quicker
+Slow
+Slower
+Slowly
+
+ZOOMOPTION
+In
+Out
+Reset
+
+
+
+
+
+

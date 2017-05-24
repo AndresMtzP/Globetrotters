@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       04:00 PM Sunday, November 15, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_xtal\XTAL_SMD_2P_.150X.450B.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       04:00 PM Sunday, November 15, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_xtal\XTAL_SMD_2P_.150X.450B.pcb
+

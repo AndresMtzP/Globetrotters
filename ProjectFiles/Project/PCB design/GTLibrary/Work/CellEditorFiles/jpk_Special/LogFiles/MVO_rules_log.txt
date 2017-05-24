@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Special\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Special\Layout\MVO_Rules.txt'

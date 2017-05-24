@@ -1,0 +1,28 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_Connector
+	Symbol 25_Pin_D
+	Symbol 2_Pin_termX2
+	Symbol 4_Pin_TermX2
+	Symbol Barrel_Power_Jack
+	Symbol Conn_Pin
+	Symbol Mini_Din_6
+	Symbol Phone_dual_Hosiden
+	Symbol Phone_Mono_TS
+	Symbol Phone_Mono_TS_sw
+	Symbol Phone_TRS_Neutrik_Rt
+	Symbol Phone_TSR
+	Symbol PWRCON
+	Symbol Screw_Term_Block
+	Symbol Terminal_Stud
+	Symbol USB_Conn
+	Symbol XLR_Combo
+SLB2LMC utility complete

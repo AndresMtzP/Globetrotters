@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\4 Layer Template\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\4 Layer Template\Layout\MVO_Rules.txt'

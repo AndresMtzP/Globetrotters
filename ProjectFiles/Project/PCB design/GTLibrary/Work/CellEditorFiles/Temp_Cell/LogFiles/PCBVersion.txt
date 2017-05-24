@@ -1,0 +1,17 @@
+Cell Editor Version: 2009.0.381.745
+
+
+
+Environment Variables:
+----------------------
+HOME = "C:\SPB_Data"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\john"
+LM_LICENSE_FILE = "1700@jason"
+MGC_HOME = "C:/CAD/MentorGraphics/2007.8EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\CAD\MentorGraphics\2007.8EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\2007.8EE\SDD_HOME\common\win32\lib;C:\Program Files\Microchip\MCC18\mpasm;C:\Program Files\Microchip\MCC18\bin;C:\Program Files\Microchip\MPLAB C32\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Microchip\MPLAB C32 Suite\bin;C:\Program Files\HI-TECH Software\PICC\PRO\9.65\bin;C:/CAD/MentorGraphics/2007.8EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/2007.8EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\2007.8EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\2007.8EE\MGC_HOME.ixn\lib;C:\Program Files\MATLAB\R2008b\bin;C:\Program Files\MATLAB\R2008b\bin\win32;C:\Program Files\IVI\bin;C:\VXIPNP\WinNT\Bin;C:\Program Files\QuickTime\QTSystem\;C:\CAD\OrCAD_16.3_Demo\tools\PSpice;C:\CAD\OrCAD_16.3_Demo\tools\PSpice\Library;C:\CAD\OrCAD_16.3_Demo\tools\Capture;C:\CAD\OrCAD_16.3_Demo\tools\bin;C:\CAD\OrCAD_16.3_Demo\OpenAccess\bin\win32\opt;C:\CAD\OrCAD_16.3_Demo\tools\fet\bin;C:\CAD\OrCAD_16.3_Demo\tools\pcb\bin;c:\cad\altera\91\quartus\bin;C:\cad\altera\91\modelsim_ase\win32aloem;C:\Program Files\Microchip\MCC18\mpasm;C:\Program Files\Microchip\MCC18\bin;C:\cad\modelsim\modeltech_6.6b\win32"
+QUARTUS_ROOTDIR = "c:\cad\altera\91\quartus"
+SDD_HOME = "C:\CAD\MentorGraphics\2007.8EE\SDD_HOME"
+TEMP = "C:\DOCUME~1\john\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\john\LOCALS~1\Temp"

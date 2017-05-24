@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       03:53 PM Sunday, February 20, 2011
+Job Name: E:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Transformer\Comtek_Signal_Trans_Wide.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       03:54 PM Sunday, February 20, 2011
+Job Name: E:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Transformer\Comtek_Signal_Trans_Wide.pcb
+

@@ -1,0 +1,221 @@
+/*********************************************************
+	Developer: Leon Tran
+	Date: 04/03/17
+	Contact: leontran95@gmail.com
+	
+	The style of the GUI. 
+	Content:-Table Format:-InfoTableContainer
+						  -rowHeader
+						  -rowInfo
+			-SlideShow Format:-SlideShowContainer
+							  -carousel-inner...img
+			-MapBox Format:-MapContainer
+							   -Map
+			-General Format:-body
+							-html
+			-List Image Icon:-Represents options available
+**********************************************************/
+
+/* General Format */
+html, body {
+	height: 100%;
+	width: 100%;
+	overflow:hidden;
+	font-family: sans-serif;
+	text-shadow: 0 0 0 #313140, 0 0 1px transparent;
+}
+
+/*Outer Box*/
+div.outerBox{
+    z-index: 0;
+	width: 50%;
+	right: 0px;
+	position: fixed;
+    box-shadow: -3px 2px 6px 0px rgba(60, 54, 60, 0.62);
+	margin: 3vh 1vw 5px 0px;
+}
+
+/************ Slideshow Style **************************************/
+/* Wrapper */
+div.SlideShowContainer{
+	height: 50vh;
+	position: relative;
+}
+
+img.imgSlides {
+	width: 100%;
+	height:100%;
+	margin: auto;
+	border-top: 1px solid #0f67a6;
+}
+
+/************ Table Style **************************************/
+div.noPadding{
+	padding: 0px !important;
+	height: 100%;
+}
+div.noPaddingHeader{
+	padding: 0px !important;
+	margin-right:0px;
+	margin-left:0px;
+}
+
+div.tableWrapper{
+	position: relative;
+	display: block;
+	background-color: rgba(134,137,158,.82);
+}
+div.rowHeader{
+   	font-size: 2.4vw;
+	color: #c7e1fd; 
+	padding: 0vh 0vw 0vh 1vw;		/* top right bottom left*/
+	letter-spacing: 3px;
+}
+
+div.rowInfo{
+   	font-size: 2.4vw;
+	font-weight: bold;
+	color: #fafcff;
+	padding: 0vh 0vw 0vh 1vw;		/* top right bottom left*/
+} 
+
+#Grid00_Content, #Grid00D_Content{
+    font-size: 3vw;
+    font-weight: bold;
+    color: #F2F2F0;
+    text-align: center;
+    background-color: rgba(34,133,204,0.43);
+    border-bottom: 4px outset #189BFA;
+    box-shadow: 6px 0px 12px -1px rgba(60, 54, 60, 0.62);
+    text-shadow: 3px 2px 5px #313140, 0 0 1px transparent;
+}
+
+#details{
+	position: relative;
+	display: none;
+}
+
+/************ Map Box Style **************************************/
+ #map {
+	height: 100%;
+	width: 100%;
+	position:fixed !important;
+}
+
+/************ Modal Style ****************************************************/
+
+/* The Modal (background) */
+.modal {
+	display: none;	 	/* Hidden by default */
+	position: fixed;	 	/* Stay in place */
+	z-index: 1; 			/* Sit on top */
+	padding-top: 8vh;	/* Location of the box */
+	overflow: auto;		/* Enable scroll if needed */
+	background-color: rgba(0, 0, 0, 0.46); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+	position: absolute;
+	left:15%;
+	max-width: 75%;
+    background-color: rgba(50, 55, 78, 0.66);
+    margin: auto;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+	border: 1px solid #303780;
+}
+
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {
+    top: -300px;
+    opacity: 0
+  }
+  to {
+    top: 0;
+    opacity: 1
+  }
+}
+
+.modal-header {
+	padding: 2px 16px;
+	//background-color: #189BFA;
+	color: white;
+	text-align: center;
+	font-size: 3vw;
+	font-weight: bold;
+	border-bottom: 0px outset #189BFA;
+	text-shadow: 3px 2px 11px #171717, 0 0 1px transparent;
+}
+
+.modal-body {
+	padding: 2px 1px;
+    text-align: center;
+    font-size: 2.3vw;
+}
+
+#helpContentModal{
+	background-color : black;
+	width: 50%;
+	height: 95%;
+	top: -3%;
+}
+
+#helpBodyModal{
+	padding: 0px;
+}
+
+div.listNumber{
+	font-size: 2.3vw;
+    text-align: right;
+    font-weight: bold;
+	border-right: 3.5px solid black;
+}
+
+div.listContent{
+	text-align: left;
+}
+
+.highlight {
+	background-color: #FFD460;
+}
+/************ List Image Style ****************************************************/
+table {
+	width: 100%;
+	color: rgb(215, 230, 239);
+}
+th {
+	font-size: 2.3vw;
+    font-weight: bold;
+	padding-left: 10px;
+//	border-right: 2.5px solid black;
+}
+td{
+	text-align: left;
+	padding: 3px 0px 0px 3vw;
+	letter-spacing: 1px;
+}
+
+#ListImage{
+	position: fixed;
+	width: 3vw;
+	left: 96.5vw;
+	top: 43vh;
+	visibility: hidden; 
+}
+
+#helpImage{
+	vertical-align: middle;
+    width: 100%;
+    height: 100%;
+}
+
+#LogoImage{
+	position: fixed;
+    width: 5vw;
+    left: 94.1vw;
+    top: 90vh;
+    z-index: 1;
+}

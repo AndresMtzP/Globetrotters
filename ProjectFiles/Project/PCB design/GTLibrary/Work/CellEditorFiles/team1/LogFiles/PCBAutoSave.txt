@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:01 AM Thursday, October 28, 2010
+Job Name: C:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\Team1\TDK_CC3.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:15 AM Thursday, October 28, 2010
+Job Name: C:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\Team1\TDK_CC3.pcb
+

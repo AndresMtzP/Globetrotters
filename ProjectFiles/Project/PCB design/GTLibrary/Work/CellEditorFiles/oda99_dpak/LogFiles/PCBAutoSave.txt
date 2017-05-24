@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         07:56 AM Tuesday, July 16, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_dpak\DPAK3_.258X.348B_PO=1,2,3.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         07:56 AM Tuesday, July 16, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_dpak\DPAK3_.258X.348B_PO=1,2,3.pcb
+

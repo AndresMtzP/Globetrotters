@@ -1,0 +1,408 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogFunc
+	Symbol 74HCT4046A
+	Symbol AD630
+	Symbol AD734
+	Symbol HEF4046B
+	Symbol LM565
+	Symbol NE564
+	Symbol NJ8822
+	Symbol TDA4950
+	Symbol TDA8172
+	Symbol TDA9102C
+	Symbol TDA9103
+	Symbol UPC1406HA
+SLB2LMC utility complete

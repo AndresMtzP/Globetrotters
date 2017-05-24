@@ -1,0 +1,15 @@
+Mon Apr 17 11:46:14 2017: iCDBReadSettings.
+Mon Apr 17 11:46:14 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTop\CoilsTop.prj, Application: iCDBBackup
+Mon Apr 17 11:46:14 2017: iCDBBackup complete
+Mon Apr 17 12:35:53 2017: iCDBReadSettings.
+Mon Apr 17 12:35:53 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTop\CoilsTop.prj, Application: iCDBBackup
+Mon Apr 17 12:50:32 2017: iCDBReadSettings.
+Mon Apr 17 12:50:32 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTop\CoilsTop.prj, Application: iCDBBackup
+Thu Apr 20 12:47:56 2017: iCDBReadSettings.
+Thu Apr 20 12:47:56 2017: iCDBBackup. ProjectFile: J:\CoilsTop\CoilsTop.prj, Application: iCDBBackup
+Thu Apr 20 12:47:56 2017: iCDBBackup complete
+Tue Apr 25 14:03:19 2017: iCDBReadSettings.
+Tue Apr 25 14:03:19 2017: iCDBBackup. ProjectFile: J:\CoilsTop\CoilsTop.prj, Application: iCDBBackup
+Tue Apr 25 14:03:19 2017: iCDBBackup complete
+Tue Apr 25 15:03:15 2017: iCDBReadSettings.
+Tue Apr 25 15:03:15 2017: iCDBBackup. ProjectFile: J:\CoilsTop\CoilsTop.prj, Application: iCDBBackup

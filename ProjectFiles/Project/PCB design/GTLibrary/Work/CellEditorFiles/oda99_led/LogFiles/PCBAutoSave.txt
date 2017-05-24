@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:31 PM Sunday, April 16, 2017
+Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\oda99_led\LED3_SMD_.079X.118B_RT.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:31 PM Sunday, April 16, 2017
+Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\oda99_led\LED3_SMD_.079X.118B_RT.pcb
+

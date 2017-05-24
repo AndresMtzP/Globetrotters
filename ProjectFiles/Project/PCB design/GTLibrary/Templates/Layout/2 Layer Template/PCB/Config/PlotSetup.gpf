@@ -1,0 +1,49 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB Gerber Output"
+.DATE "Monday, March 27, 2006 02:03 PM"
+
+.BaseUnits "1NM"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.DCodeToApertureFile "d:\\veribest\\VBExpPCB\\Config\\VBExpPCB\\GerberD-Codes.dac"
+.GerberMachineFormatFile ".\\Config\\GerberMachineFile1.gmf"
+
+.GerberOutputFile "Top.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "C:\\My_Data\\Design\\Mentor\\Libs\\JPK_Lib\\LayoutTemplates\\2 Layer Template\\PCB\\Output\\Gerber\\Top.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+ ..BoardItem BoardOutline
+
+.GerberOutputFile "Bot.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "C:\\My_Data\\Design\\Mentor\\Libs\\JPK_Lib\\LayoutTemplates\\2 Layer Template\\PCB\\Output\\Gerber\\Bot.gdo"
+ ..HeaderText
+   ...CommentLine "VeriBest Example Gerber Output Definition"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes

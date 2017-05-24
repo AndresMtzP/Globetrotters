@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         12:08 PM Friday, April 07, 2017
+     Job Name: L:\SDL_Lib\Work\CellEditorFiles\vbc_thru_connector\BERG3.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         12:09 PM Friday, April 07, 2017
+     Job Name: L:\SDL_Lib\Work\CellEditorFiles\vbc_thru_connector\BERG3.pcb
+

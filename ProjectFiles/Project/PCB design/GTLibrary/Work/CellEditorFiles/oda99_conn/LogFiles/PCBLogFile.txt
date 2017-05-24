@@ -1,0 +1,5 @@
+
+ Version: EXP2005.1_060615.00 2005.1
+
+Successfully read the design.
+The Graphics Settings file does not exist.

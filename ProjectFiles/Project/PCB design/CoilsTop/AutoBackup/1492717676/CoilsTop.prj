@@ -1,0 +1,241 @@
+SECTION ACEPlusProjectFiles
+LIST Types
+VALUE "Schematics(*.sbk)"
+VALUE "StateDiagrams(*.sdg)"
+VALUE "FlowCharts(*.sfc)"
+VALUE "TruthTables(*.tbl)"
+VALUE "HDL(*.v*)"
+VALUE "All(*.*)"
+ENDLIST
+LIST Schematics(*.sbk)
+ENDLIST
+LIST StateDiagrams(*.sdg)
+ENDLIST
+LIST FlowCharts(*.sfc)
+ENDLIST
+LIST TruthTables(*.tbl)
+ENDLIST
+LIST HDL(*.v*)
+ENDLIST
+LIST All(*.*)
+ENDLIST
+ENDSECTION
+SECTION ACEPlusFilePaths
+LIST Names
+VALUE "BOM_Configuration"
+VALUE "Border_Data"
+VALUE "Bus_Contents"
+VALUE "CDB_Discard"
+VALUE "EDIF_Configuration"
+VALUE "Fonts"
+VALUE "Global_Signals"
+VALUE "HDL_String_Map"
+VALUE "HPGL_Plot_Configuration"
+VALUE "HPGL2_Plot_Configuration"
+VALUE "Pin_Types"
+VALUE "PostScript_Plot_Configuration"
+VALUE "Project_Options"
+VALUE "CrossRef_Configuration"
+VALUE "Text_Properties"
+VALUE "Verification_Rules"
+VALUE "VerilogConfig"
+VALUE "VHDLConfig"
+VALUE "Windows_Plot_Configuration"
+ENDLIST
+LIST Fonts
+VALUE "${VBEST14PATH}\config\vbdc\vbdc.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\engineer.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\fancy.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt0.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt1.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt7.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt23.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt26.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt41.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt42.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt50.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt126.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt127.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\sdedbg.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\sbkdbg.fnt"
+ENDLIST
+LIST Text_Properties
+VALUE "${VBEST14PATH}\config\vbdc\vbdc.prp"
+ENDLIST
+LIST VerilogConfig
+ENDLIST
+LIST VHDLConfig
+ENDLIST
+LIST HDL_String_Map
+ENDLIST
+KEY Pin_Types "${VBEST14PATH}\config\vbdc\pintypes.asc"
+KEY Project_Options "${VBEST14PATH}\config\vbdc\vbdcsys.asc"
+KEY CrossRef_Configuration "${VBEST14PATH}\config\vbdc\crossref.asc"
+KEY CDB_Discard "${VBEST14PATH}\config\vbdc\discard.asc"
+KEY Verification_Rules "${VBEST14PATH}\config\vbdc\vbdcver.asc"
+KEY PostScript_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctops.pcf"
+KEY HPGL_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctohpgl.pcf"
+KEY HPGL2_Plot_Configuration "${VBEST14PATH}\config\vbdc\dc2hpgl2.pcf"
+KEY Windows_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctowin.pcf"
+KEY BOM_Configuration "${VBEST14PATH}\config\vbdc\cdb2bom.asc"
+KEY EDIF_Configuration "${VBEST14PATH}\config\edif\edifcnfg.asc"
+KEY Global_Signals "${VBEST14PATH}\config\vbdc\global"
+KEY Bus_Contents ".\conts.asc"
+KEY Border_Data ".\BorderData.asc"
+ENDSECTION
+SECTION IngrElecDesignInfo
+KEY SBKDir ".\"
+KEY UDBDir ".\udb"
+KEY CDBDir ".\CoilsTop.cdb"
+KEY ACEPlusHDLDir ".\hdl"
+KEY ACEPlusGeneratedHDLDir ".\genhdl"
+KEY ACEPlusDesignRootName "Schematic1.sbk"
+KEY ASICToolkit ""
+KEY AvoidInstance "1"
+ENDSECTION
+SECTION IngrElecLibraries
+LIST Names
+VALUE "Symbols"
+VALUE "PDBs"
+VALUE "2dCellLibraries"
+VALUE "VerilogSimulationLibraries"
+VALUE "VHDLSimulationLibraries"
+ENDLIST
+LIST VerilogSimulationLibraries
+ENDLIST
+LIST VHDLSimulationLibraries
+VALUE "IEEE"
+ENDLIST
+LIST SignalIntegrityLibrary
+ENDLIST
+LIST 2dCellLibraries
+ENDLIST
+LIST 3dCellLibraries
+ENDLIST
+LIST Symbols
+VALUE "${VBEST14PATH}\libelec\symlib\border.slb"
+VALUE "${VBEST14PATH}\libelec\symlib\"
+VALUE ".\"
+ENDLIST
+LIST PDBs
+ENDLIST
+KEY CentralLibrary "J:\SDL_Lib\SDL_Lib.lmc"
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION IEEE
+LIST Packages
+VALUE "std_logic_1164"
+VALUE "std_logic_arith"
+ENDLIST
+KEY Path ""
+KEY USEALL "0"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY SchematicDesignStatus "0"
+KEY VBPCBForwardAnno "0"
+KEY SchematicDesignBackAnno "0"
+KEY CADBackAnno "1"
+KEY FLATNETNAMEs "1"
+KEY UpdateJobPrefsDB "Sync"
+KEY UpdateNetClassDB "Sync"
+KEY UpdateNetPropsDB "Sync"
+KEY LayoutTemplate "2 Layer Generic Template"
+KEY UseCES "0"
+KEY SchematicConflict "FE"
+KEY CDBCRunning "0"
+KEY FwdAnnoExtractFlag "1"
+KEY FwdAnnoRebuildFlag "0"
+KEY FwdAnnoReplaceFlag "0"
+KEY FwdAnnoCleanBuildFlag "0"
+KEY UnusedPartsFlag "0"
+KEY DisableBackAnnoChanges "0"
+KEY FanoutSinglePinNets "0"
+KEY FwdAnnoSchematicRefDesChanges "1"
+KEY FwdAnnoRemoveTraces "1"
+KEY FwdAnnoRemoveHangers "1"
+KEY AllowAlpha "0"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY NetClassFile ""
+KEY VBPCBDesignPath "PCB\CoilsTop.pcb"
+ENDSECTION
+SECTION ConfigurationInfo
+LIST Configurations
+VALUE "Default"
+ENDLIST
+KEY ActiveConfiguration "Default"
+ENDSECTION
+SECTION Default
+LIST BlockViewMap
+VALUE "SCHEMATIC1,Schematic1.sbk,,0"
+ENDLIST
+LIST Types
+VALUE "FPGA(*.fpk)"
+VALUE "All(*.*)"
+VALUE "Verilog(*.v)"
+VALUE "VHDL(*.vhd)"
+VALUE "BlockSymbols(*.blk)"
+VALUE "TruthTables(*.tbl)"
+VALUE "FlowCharts(*.sfc)"
+VALUE "StateDiagrams(*.sdg)"
+VALUE "Schematics(*.sbk)"
+ENDLIST
+LIST FPGA(*.fpk)
+ENDLIST
+LIST All(*.*)
+ENDLIST
+LIST Verilog(*.v)
+ENDLIST
+LIST VHDL(*.vhd)
+ENDLIST
+LIST BlockSymbols(*.blk)
+ENDLIST
+LIST TruthTables(*.tbl)
+ENDLIST
+LIST FlowCharts(*.sfc)
+ENDLIST
+LIST StateDiagrams(*.sdg)
+ENDLIST
+LIST Schematics(*.sbk)
+VALUE "Schematic1.sbk"
+ENDLIST
+KEY HDLTechnology ""
+KEY VendorTechnology ""
+KEY ConfigDir ".\Default"
+KEY SimulationType "NONE"
+KEY VhdlFlavor "Undefined"
+KEY Vendor ""
+KEY iCDBDir ".\CoilsTop.icdb"
+KEY CDBDir ".\CoilsTop.cdb"
+KEY ConfigType "DC"
+KEY DisplayInstanceNames "0"
+KEY ActiveRoot "Schematic1"
+KEY RootBlock "Schematic1"
+ENDSECTION
+SECTION FlowSettings
+KEY FlowType "DC"
+ENDSECTION
+SECTION Versions
+KEY ProjectVersion "WG2002"
+ENDSECTION
+SECTION iCDB
+KEY DedicatedServerName ""
+KEY iCDBDir ".\CoilsTop.icdb"
+KEY FrontEndSnapshot "DCDV"
+ENDSECTION
+SECTION DesignInfo
+KEY FrontEndSnapshot "DCDV"
+ENDSECTION
+SECTION ICXProInfo
+KEY HighSpeedPathsVersion "1"
+KEY ICXProDir "./HighSpeed/ICXPro"
+KEY IBISModelMgrDir "./HighSpeed/ICXPro/Model_Manager"
+KEY VerifyDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyResultsDir "./HighSpeed/ICXPro/Verify/DataBases"
+KEY VerifyLogFilesDir "./HighSpeed/ICXPro/Verify/LogFiles"
+KEY VerifyWaveformsDir "./HighSpeed/ICXPro/Verify/Waveforms"
+KEY VerifySandBoxDir "./HighSpeed/ICXPro/Verify"
+KEY SimTemplatesDir "./HighSpeed/ICXPro/Simulation_Templates"
+KEY PostLayoutExplorerDir "./HighSpeed/ICXPro/PostLayoutExplorer"
+KEY PostLayoutLineSim "./HighSpeed/HyperLynx/PostLayoutLineSim"
+ENDSECTION

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        03:58 PM Saturday, April 15, 2017
+  Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\jpk_thru_ic\DIP40X_Module.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        03:59 PM Saturday, April 15, 2017
+  Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\jpk_thru_ic\DIP40X_Module.pcb
+

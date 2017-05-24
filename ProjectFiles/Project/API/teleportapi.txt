@@ -1,0 +1,27 @@
+Teleport API:
+After search request -
+_embedded -> city:search-results -> list (index with int)
+0 - fields: matching_full_name, _links -> city:item -> href (URL)
+
+-> After getting 1st URL
+population
+location -> latlon -> latitude/longitude
+
+embedded resources to prevent multiple API calls
+
+-Local Currency
+-Demographics
+  -Median Age
+  -Elderly Peopl
+  -Life Expectancy at Birth
+  -GDP
+  -Unemployment
+  -Primary Language
+-Climate Type
+-Good Country 
+  -Overall Ranking
+  -World Order
+  -Culture
+  -Science & Tech
+
+/var/www/html/Images/

@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Special_Pads\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Special_Pads\Layout\MVO_Rules.txt'

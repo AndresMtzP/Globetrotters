@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         07:18 PM Tuesday, June 09, 2015
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_conn\Phone_3.5_Mono_Thonkconn.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         07:18 PM Tuesday, June 09, 2015
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_conn\Phone_3.5_Mono_Thonkconn.pcb
+

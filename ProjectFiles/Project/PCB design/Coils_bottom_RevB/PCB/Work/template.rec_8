@@ -1,0 +1,15 @@
+* Version 1.0: Started on Monday, July 30, 2001 14:51:21
+* Current design file is: X:\ECECoreLIb\LayoutTemplates\2 Layer Template\PCB\template.pcb
+*
+w 0 0 0 2 3 <25,22><775,534><-1,-1>
+*
+* Set Mouse Buttons For New Mapping
+c 0 33156
+v 0 2 template <0, 0, 0, 0>, 0
+e 0 0 <80500027,74158028> 0 0 605661
+e 0 0 <81661832,74158028> 0 0 621574
+e 0 0 <7073951,111800510> 0 0 622265
+*
+* Exit
+c 0 57665
+* 

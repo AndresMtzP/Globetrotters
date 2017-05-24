@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                     11:46 AM Wednesday, September 20, 2006
+Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\vbc_smd_ic\PQFP208.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                     12:07 PM Wednesday, September 20, 2006
+Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\vbc_smd_ic\PQFP208.pcb
+

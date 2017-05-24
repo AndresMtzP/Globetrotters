@@ -1,0 +1,80 @@
+SECTION ConfigurationInfo
+LIST Configurations
+VALUE "Default"
+ENDLIST
+KEY ActiveConfiguration "Default"
+ENDSECTION
+SECTION Default
+LIST BlockViewMap
+ENDLIST
+LIST Types
+VALUE "FPGA(*.fpk)"
+VALUE "All(*.*)"
+VALUE "Verilog(*.v)"
+VALUE "VHDL(*.vhd)"
+VALUE "BlockSymbols(*.blk)"
+VALUE "TruthTables(*.tbl)"
+VALUE "FlowCharts(*.sfc)"
+VALUE "StateDiagrams(*.sdg)"
+VALUE "Schematics(*.sbk)"
+ENDLIST
+LIST FPGA(*.fpk)
+ENDLIST
+LIST All(*.*)
+ENDLIST
+LIST Verilog(*.v)
+ENDLIST
+LIST VHDL(*.vhd)
+ENDLIST
+LIST BlockSymbols(*.blk)
+ENDLIST
+LIST TruthTables(*.tbl)
+ENDLIST
+LIST FlowCharts(*.sfc)
+ENDLIST
+LIST StateDiagrams(*.sdg)
+ENDLIST
+LIST Schematics(*.sbk)
+ENDLIST
+ENDSECTION
+SECTION ICXProInfo
+KEY HighSpeedPathsVersion "1"
+KEY IBISModelMgrDir "./HighSpeed/ICXPro/Model_Manager"
+KEY ICXProDir "./HighSpeed/ICXPro"
+KEY PostLayoutExplorerDir "./HighSpeed/ICXPro/PostLayoutExplorer"
+KEY SimTemplatesDir "./HighSpeed/ICXPro/Simulation_Templates"
+KEY VerifyDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyLogFilesDir "./HighSpeed/ICXPro/Verify/LogFiles"
+KEY VerifyResultsDir "./HighSpeed/ICXPro/Verify/DataBases"
+KEY VerifySandBoxDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyWaveformsDir "./HighSpeed/ICXPro/Verify/Waveforms"
+ENDSECTION
+SECTION IngrElecLibraries
+KEY CentralLibrary "../../../JPK_Lib.lmc"
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY VBPCBDesignPath "Single_7seg.pcb"
+KEY VBPCBForeignNetlist "NetList.kyn"
+KEY VBPCBForeignNetlistFormat ".kyn"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY AllowAlpha "0"
+KEY CADBackAnno "0"
+KEY DisableBackAnnoChanges "0"
+KEY FLATNETNAMEs "0"
+KEY FanoutSinglePinNets "0"
+KEY FwdAnnoCleanBuildFlag "0"
+KEY FwdAnnoExtractFlag "1"
+KEY FwdAnnoRebuildFlag "0"
+KEY FwdAnnoRemoveHangers "1"
+KEY FwdAnnoRemoveTraces "1"
+KEY FwdAnnoReplaceFlag "0"
+KEY FwdAnnoSchematicRefDesChanges "1"
+KEY LayoutTemplate ""
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY UnusedPartsFlag "0"
+KEY UseCES "1"
+KEY VBPCBForwardAnno "0"
+ENDSECTION

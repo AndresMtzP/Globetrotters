@@ -1,0 +1,7 @@
+
+Expedition PCB - Pinnacle Version: PCB2005_051214.00 2005
+
+Successfully read the design.
+Cross Probe Disabled - Cannot Initiate Cross Probe Daemon
+Saved the design...
+Cannot Stop the Cross Probe Daemon

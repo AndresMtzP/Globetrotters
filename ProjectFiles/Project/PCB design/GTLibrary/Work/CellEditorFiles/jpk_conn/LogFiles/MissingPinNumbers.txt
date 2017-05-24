@@ -1,0 +1,15 @@
+
+            Added/Missing Pin Numbers in the cell 'USB_Mini_B_Molex'
+            --------------------------------------------------------
+
+                       06:40 PM Saturday, October 25, 2008
+           Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\JPK_Lib.lmc
+
+
+
+The following pin numbers are defined in the cell but are not defined
+by the part referencing the cell:
+
+    9
+
+The cell cannot be saved.

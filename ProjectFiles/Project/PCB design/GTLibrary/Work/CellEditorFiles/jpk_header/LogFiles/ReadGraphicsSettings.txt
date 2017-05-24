@@ -1,0 +1,7 @@
+
+Attempting to read Graphics Settings file <Graphics Settings.hkp>
+
+The full pathname is <C:\cad\CentralLibs\JPK_Lib\Work\CellEditorFiles\jpk_header\Config\Graphics Settings.hkp>
+
+
+Successful completion

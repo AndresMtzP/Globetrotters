@@ -1,0 +1,15 @@
+Cell Editor Version: 2011.0.446.514
+
+
+
+Environment Variables:
+----------------------
+HOME = "C:\CAD\SPB_Data"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\X"
+MGC_HOME = "C:/cad/MentorGraphics/7.9EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\CAD\Cadence\SPB_16.3\tools\pcb\bin;C:\CAD\Cadence\SPB_16.3\tools\fet\bin;C:\CAD\Cadence\SPB_16.3\tools\specctra\bin;C:\CAD\Cadence\SPB_16.3\tools\PSpice;C:\CAD\Cadence\SPB_16.3\tools\PSpice\Library;C:\CAD\Cadence\SPB_16.3\tools\Capture;C:\CAD\Cadence\SPB_16.3\tools\bin;C:\CAD\Cadence\SPB_16.3\OpenAccess\bin\win32\opt;C:\Program Files\Windows Live\Shared;C:\Program Files\Numerical Innovations\Fab3000V5\bin;C:/cad/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/cad/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\cad\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\cad\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\cad\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\cad\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\embedinc\com;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microchip\MPLAB C32 Suite\bin;C:\Program Files\HI-TECH Software\PICC\9.70\bin;c:\cad\altera\91\quartus\bin;C:\Program Files\HI-TECH Software\PICC\9.80\bin;C:\Program Files\HI-TECH Software\PICC\9.71a\bin;%QUARTUS_ROOTDIR%\bin;C:\CAD\Cadence\SPB_16.3\tools\pcb\bin;C:\CAD\Cadence\SPB_16.3\tools\fet\bin;C:\CAD\Cadence\SPB_16.3\tools\specctra\bin;C:\CAD\Cadence\SPB_16.3\tools\PSpice;C:\CAD\Cadence\SPB_16.3\tools\PSpice\Library;C:\CAD\Cadence\SPB_16.3\tools\Capture;C:\CAD\Cadence\SPB_16.3\tools\bin;C:\CAD\Cadence\SPB_16.3\OpenAccess\bin\win32\opt;C:\Program Files\Windows Live\Shared;C:\Program Files\Numerical Innovations\Fab3000V5\bin;C:/cad/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/cad/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\cad\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\cad\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\Program Files\QuickTime\QTSystem\;C:\cad\Qt\2010.02.1\bin;C:\cad\Qt\2010.02.1\mingw;C:\CAD\altera\91\modelsim_ase\win32aloem;C:\cad\modeltech_pe_6.6\win32pe;C:\cad\modeltech_6.6\win32;C:\cad\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib"
+SDD_HOME = "C:\cad\MentorGraphics\7.9EE\SDD_HOME"
+TEMP = "C:\Users\X\AppData\Local\Temp"
+TMP = "C:\Users\X\AppData\Local\Temp"

@@ -1,0 +1,11 @@
+
+Schematic unused pins from : Packager  25-Apr-2017  14:03
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part HallEffectSensor                 |
+ Part LED_SMD_1206                     |
+ Part Res_1206                         |
+ Part 10_pin_sngl                      |

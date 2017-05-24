@@ -1,0 +1,53 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-04-30 16:09:29) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-04-30 16:09:29) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,VoltReg;2,(2-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Header_block;2,(9-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Header_block;2,(14-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Header_block;2,(9-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Header_block;2,(14-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TerminalBlock;2,(2-11-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-04-30 16:09:29) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-04-30 16:09:29) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-04-30 16:09:29) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-04-30 16:09:29) 
+--------------------------------------------------------------------------------

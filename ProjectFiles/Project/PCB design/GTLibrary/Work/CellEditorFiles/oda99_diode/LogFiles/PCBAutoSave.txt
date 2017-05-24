@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         12:51 PM Tuesday, July 16, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_diode\DIODE_SMD_6420_6.38X2.01MMB.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         12:55 PM Tuesday, July 16, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_diode\DIODE_SMD_6420_6.38X2.01MMB.pcb
+

@@ -1,0 +1,17 @@
+.FILETYPE SILKSCREEN_GENERATOR_DEFINITION
+.VERSION "2.0"
+.DATE "Friday, April 28, 2017"
+
+.BaseUnits 0    ! kBaseUnit1NM
+
+.ProcessSide Top
+.ProcessSideTop
+ ..SilkOutline
+.ProcessAllPkgGroups
+.BreakUsing ConductivePads
+.BreakGraphicsPad 0, 0
+.BreakGraphicsVia 0, 0
+.BreakTextPad 0, 0
+.BreakTextVia 0, 0
+.BreakTextWidth 254000
+.BreakGraphicsWidth 254000

@@ -1,0 +1,35 @@
+
+                                 BackAnnotation
+                                 --------------
+
+                         04:11 PM Sunday, April 30, 2017
+              Job Name: C:\temp\GT_PowerBoard\PCB\GT_PowerBoard.pcb
+
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     There have been 2 pin number changes.
+
+     The Common DataBase has been successfully updated.
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Updating the CDB Properties
+     Finished updating the CDB Properties
+
+     Updating LogicDB Version from 1 to 2.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+     Completed Back Annotation

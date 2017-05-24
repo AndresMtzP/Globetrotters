@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         07:39 PM Sunday, March 25, 2012
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\vbc_thru_discrete\DIODE-380X210.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         07:40 PM Sunday, March 25, 2012
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\vbc_thru_discrete\DIODE-380X210.pcb
+

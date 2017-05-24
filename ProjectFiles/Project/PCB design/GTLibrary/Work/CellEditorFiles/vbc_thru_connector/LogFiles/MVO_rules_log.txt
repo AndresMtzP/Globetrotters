@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'L:\SDL_Lib\Work\CellEditorFiles\vbc_thru_connector\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'L:\SDL_Lib\Work\CellEditorFiles\vbc_thru_connector\Layout\MVO_Rules.txt'

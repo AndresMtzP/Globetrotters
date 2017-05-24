@@ -1,0 +1,8 @@
+
+Expedition PCB - Pinnacle Version: 05.010425.03 2000C
+
+Successfully read the design.
+Note: OPT inserted that has no defaults
+Cross Probe Disabled - Cannot Initiate Cross Probe Daemon
+The tsim executable tsim.exe does not exist!
+Cannot Stop the Cross Probe Daemon

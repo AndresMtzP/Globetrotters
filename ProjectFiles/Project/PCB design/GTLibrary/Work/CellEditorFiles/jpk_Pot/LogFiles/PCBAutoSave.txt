@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         06:02 PM Tuesday, June 09, 2015
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Pot\Slide 15mm Bourns PTA no mount pads.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         06:03 PM Tuesday, June 09, 2015
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Pot\Slide 15mm Bourns PTA no mount pads.pcb
+

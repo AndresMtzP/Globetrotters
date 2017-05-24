@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:09 PM Monday, July 15, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_cap\CAP_SMD_4343_4.3X4.3MMB.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:09 PM Monday, July 15, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_cap\CAP_SMD_4343_4.3X4.3MMB.pcb
+

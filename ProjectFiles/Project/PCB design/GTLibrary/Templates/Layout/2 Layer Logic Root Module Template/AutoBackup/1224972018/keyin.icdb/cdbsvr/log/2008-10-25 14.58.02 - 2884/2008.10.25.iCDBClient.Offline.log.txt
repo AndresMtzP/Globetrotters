@@ -1,0 +1,8 @@
+[2008.10.25 14:58:02] [0000m.00s.093ms] [0] WELCOME
+[2008.10.25 14:58:02] [0000m.00s.093ms] [1] iCDB Client ver.1.003, Ga54j1FLJtbGlgFkh2vD/g, build:310529 created 2008-10-07 17:07:17, sources stamp:Ga54j1FLJtbGlgFkh2vD/g
+[2008.10.25 14:58:02] [0000m.00s.093ms] [1] Copyright 2008 Mentor Graphics Corporation. All Rights Reserved.
+[2008.10.25 14:58:02] [0000m.00s.093ms] [1] Machine [x-5i0p7y88og87e]  User [x]  PID [2884]
+[2008.10.25 14:58:02] [0000m.00s.093ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (Build 2600)]
+[2008.10.25 14:58:02] [0000m.00s.093ms] [1] WDIR [c:\temp\WDIR\iCDB]
+[2008.10.25 14:58:02] [0000m.00s.093ms] [1] ServerProperties: Reading server properties for project [C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\keyin.icdb]
+[2008.10.25 14:58:02] [0000m.00s.093ms] [0] ServerProperties: Server properties:  Host [x-5i0p7y88og87e]  IP [127.0.0.1]  Port [10000]  GUID [b151-3e03-1bcc-2a84-2459-3096-4593-0940-ee6d-5091-1987-5723]  for project [C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\keyin.icdb] with GUID [e97f-015e-d64b-3fe6-d119-3091-2193-0940-ef1e-5091-1987-5723]

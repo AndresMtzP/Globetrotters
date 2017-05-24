@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'E:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Transformer\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'E:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Transformer\Layout\MVO_Rules.txt'

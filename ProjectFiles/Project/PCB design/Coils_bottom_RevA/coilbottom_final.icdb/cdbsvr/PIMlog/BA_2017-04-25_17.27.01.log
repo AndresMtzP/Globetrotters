@@ -1,0 +1,85 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-04-25 17:27:01) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (8-1-5)
+Parameters: BAConnectivity,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-04-25 17:27:01) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,coil_bottom;2,(8-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(64-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,coil_bottom;2,(8-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(64-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,coil_bottom;2,(8-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(64-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,coil_bottom;2,(8-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(64-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Single_HbdgBoard_VNH5019;3,(8-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(64-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Single_HbdgBoard_VNH5019;3,(8-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,PIC24_28Pin;2,(8-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,CAP;2,(8-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,CAP;2,(8-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,CAP;2,(8-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,RES;7,(8-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,IND;1,(8-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,HighCurrentHeader_2pin;2,(8-43-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-45-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-46-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-47-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-49-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-50-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(8-1-5)]  [O: FlatComp,Header_block;2,(8-51-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(64-1-8)]  [O: FlatPin,P1,(64-1-11)]
+	Property: Pin Number, Operation: Modify
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(64-2-8)]  [O: FlatPin,P1,(64-2-11)]
+	Property: Pin Number, Operation: Modify
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(64-3-8)]  [O: FlatPin,P1,(64-3-11)]
+	Property: Pin Number, Operation: Modify
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(64-4-8)]  [O: FlatPin,P1,(64-4-11)]
+	Property: Pin Number, Operation: Modify
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(64-5-8)]  [O: FlatPin,P1,(64-5-11)]
+	Property: Pin Number, Operation: Modify
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-04-25 17:27:01) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-04-25 17:27:01) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-04-25 17:27:01) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-04-25 17:27:01) 
+--------------------------------------------------------------------------------

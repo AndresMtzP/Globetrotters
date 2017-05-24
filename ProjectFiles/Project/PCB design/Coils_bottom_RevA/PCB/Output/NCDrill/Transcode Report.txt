@@ -1,0 +1,23 @@
+
+
+   ---- Transcoding 'K:\coilbottom_final_2.0\PCB\Output\NCDrill\ThruHoleNonPlated.ncd' ----   Wed Apr 26 16:51:38 2017
+
+T7   --> T11
+T8   --> T12
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'K:\coilbottom_final_2.0\PCB\Output\NCDrill\ThruHoleNonPlated.ncd' ----   Wed Apr 26 16:51:53 2017
+
+T7   --> T13
+T8   --> T14
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'K:\coilbottom_final_2.0\PCB\Output\NCDrill\ThruHolePlated.ncd' ----   Wed Apr 26 16:52:01 2017
+
+T3   --> T15
+T4   --> T16
+T5   --> T17
+T6   --> T18
+-----------------------------------------------------------------

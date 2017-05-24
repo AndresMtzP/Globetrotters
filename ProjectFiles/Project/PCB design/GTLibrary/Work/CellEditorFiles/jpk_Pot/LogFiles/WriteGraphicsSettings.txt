@@ -1,0 +1,7 @@
+
+Attempting to write Graphics Settings file <Graphics Settings.hkp>
+
+The full pathname is   <C:\cad\CentralLibs\JPK_Lib\Work\CellEditorFiles\jpk_Pot\Config\Graphics Settings.hkp>
+The backup pathname is <C:\cad\CentralLibs\JPK_Lib\Work\CellEditorFiles\jpk_Pot\Config\Graphics Settings.bak>
+
+Successful completion

@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-04-28 16:05:30) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-04-28 16:05:30) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RES;7,(9-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RES;7,(9-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,HDR2X20;1,(2-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,RGBLed;2,(2-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,HDR1X6;2,(2-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,Header_block;2,(2-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,Header_block;2,(2-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,Header_block;2,(2-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic,(2-1-5)]  [O: FlatComp,Header_block;2,(2-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(2-11-8)]  [O: FlatPin,P1,(2-95-11)]
+	Property: Pin Number, Operation: Modify
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(2-12-8)]  [O: FlatPin,P1,(2-96-11)]
+	Property: Pin Number, Operation: Modify
+[Ok][Modification] - [BE->FE] [P: FlatComp,Header_block;2,(2-13-8)]  [O: FlatPin,P1,(2-97-11)]
+	Property: Pin Number, Operation: Modify
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-04-28 16:05:30) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-04-28 16:05:30) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-04-28 16:05:30) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-04-28 16:05:30) 
+--------------------------------------------------------------------------------

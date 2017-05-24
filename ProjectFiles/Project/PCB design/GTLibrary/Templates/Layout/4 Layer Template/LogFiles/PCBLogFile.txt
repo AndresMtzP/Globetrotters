@@ -1,0 +1,8 @@
+
+Expedition PCB - Pinnacle Version: 2008.0.307.036
+
+Successfully read the design.
+Cross Probe Disabled - Cannot Initiate Cross Probe Daemon
+Time spent Generating UPG
+Saved the design...
+Cannot Stop the Cross Probe Daemon

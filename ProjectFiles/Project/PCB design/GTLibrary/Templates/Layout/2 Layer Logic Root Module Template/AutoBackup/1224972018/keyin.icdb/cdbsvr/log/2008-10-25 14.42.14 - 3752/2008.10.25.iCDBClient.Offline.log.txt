@@ -1,0 +1,11 @@
+[2008.10.25 14:42:14] [0000m.00s.078ms] [0] WELCOME
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] iCDB Client ver.1.003, Ga54j1FLJtbGlgFkh2vD/g, build:310529 created 2008-10-07 17:07:17, sources stamp:Ga54j1FLJtbGlgFkh2vD/g
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] Copyright 2008 Mentor Graphics Corporation. All Rights Reserved.
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] Machine [x-5i0p7y88og87e]  User [x]  PID [3752]
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (Build 2600)]
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] WDIR [c:\temp\WDIR\iCDB]
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] IC: Opened project [C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\keyin.icdb] with session [29] in read only mode [0]
+[2008.10.25 14:42:14] [0000m.00s.078ms] [1] IC: Adding sub-client [] with ID [1] to project [C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\keyin.icdb] with session [29]
+[2008.10.25 14:42:14] [0000m.00s.234ms] [1] IC: Removing sub-client [1] from project [C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\keyin.icdb] with session [29]
+[2008.10.25 14:42:14] [0000m.00s.234ms] [1] IC: Closing project [C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\keyin.icdb] with session [29] for sub-client [1]
+[2008.10.25 14:42:14] [0000m.00s.234ms] [0] STOP

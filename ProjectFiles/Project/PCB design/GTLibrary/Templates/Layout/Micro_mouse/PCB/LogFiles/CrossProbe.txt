@@ -1,0 +1,6 @@
+Mentor Graphics Corporation
+Cross Probe Log
+Date: Wednesday 07/03/02  Time: 15:47:40
+
+XPDAEMON - RELEASE NAME=01.981129.00
+Schematic called for in Design Capture project file does not exist

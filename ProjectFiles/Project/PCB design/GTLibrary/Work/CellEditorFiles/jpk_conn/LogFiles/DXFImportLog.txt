@@ -1,0 +1,16 @@
+
+                                    DXFImport
+                                    ---------
+
+                      08:58 AM Wednesday, November 12, 2003
+Job Name: D:\Data_2Oct03\vbprojects\CentralLibs\JPK_Lib\Work\CellEditorFiles\jpk_conn\XLR_Combo.pcb
+
+    DXFile "D:\Data_2Oct03\Dawings\Parts\Elec\210_187561.dxf" loaded successfully.
+    
+    DXFile D:\Data_2Oct03\Dawings\Parts\Elec\210_187561.dxf created 01/01/1990 at 00:00:00
+    
+
+    DXF data has been imported onto a new layer. 
+    To make this data visible select the checkbox for the new user layer in Display Control.    
+    DXFile "D:\Data_2Oct03\Dawings\Parts\Elec\210_187561.dxf" imported successfully.
+    

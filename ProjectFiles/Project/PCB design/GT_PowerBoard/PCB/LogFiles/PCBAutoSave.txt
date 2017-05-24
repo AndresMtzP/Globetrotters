@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:13 PM Sunday, April 30, 2017
+              Job Name: C:\temp\GT_PowerBoard\PCB\GT_PowerBoard.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         05:16 PM Sunday, April 30, 2017
+              Job Name: C:\temp\GT_PowerBoard\PCB\GT_PowerBoard.pcb
+

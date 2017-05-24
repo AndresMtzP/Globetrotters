@@ -1,0 +1,212 @@
+
+                        PCB Platform Translation Log File
+                        ---------------------------------
+
+                         02:01 PM Monday, March 27, 2006
+Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\template.pcb
+
+
+Current Platform: Undetermined
+Target Platform:  Windows
+
+
+Converting case-sensitive directories and filenames...
+
+
+Converting ASCII files...
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\AutoActive.lck"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\All Off.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\All On.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Assembly Bottom.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Assembly Top.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Drill Drawing.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\GerberMachineFile1.gmf"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Graphics Settings.bak"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Graphics Settings.hkp"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Placement.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\PlotSetup.gpf"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Routing.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Silk Bottom Generated.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Silk Bottom.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Silk Top Generated.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Silk Top.dcs"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\CrossProbe.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\FormulaErr.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\HazardHideDataLog.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\LogicDBInit.log"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\LogicDBLoad.log"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\LogicDBSave.log"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\PCBAutoSave.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\PCBInfoFile.txt"
+
+    ***** Conversion failed. Access is denied. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\PCBLogFile.txt"
+
+    ***** Conversion failed. Access is denied. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\PCBPlatformTranslation.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\PCBVersion.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\ReadGraphicsSettings.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\SIInitLog.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\tsim_log.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\LogFiles\WriteGraphicsSettings.txt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\template.pcb"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\template.prj"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\template.prk"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\BackupDatabase\layer.fsc"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\BackupDatabase\SysIndex.cbf"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\Layout_Temp\layer.fsc"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\Layout_Temp\LayoutTemp.tmp"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\Layout_Temp\SysIndex.cbf"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\PCBIndicators.caf"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\template.rec_6"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\template.rec_7"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\template.rec_8"
+
+    ***** Conversion was successful. *****
+
+
+Converting paths stored in files...
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\template.pcb"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\template.prj"
+
+    ***** Conversion failed. One or more paths were not converted. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\Layout_Temp\JobPrefsDB.jpf"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Work\Layout_Temp\LayoutDB.lyt"
+
+    ***** Conversion was successful. *****
+
+    Filename: "C:\My_Data\Design\Mentor\Libs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\PlotSetup.gpf"
+
+    ***** Conversion was successful. *****
+

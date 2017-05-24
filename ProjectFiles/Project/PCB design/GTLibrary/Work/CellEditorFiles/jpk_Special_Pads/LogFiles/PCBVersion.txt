@@ -1,0 +1,15 @@
+Cell Editor Version: 2010.0.426.267
+
+
+
+Environment Variables:
+----------------------
+HOME = "C:\CAD\Cadence\SPB_Data"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\John"
+MGC_HOME = "C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\Microchip\xc8\v1.20\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Microchip\mplabc30\v3.30b\bin;C:\CAD\Cadence\SPB_16.3\tools\PSpice;C:\CAD\Cadence\SPB_16.3\tools\PSpice\Library;C:\CAD\Cadence\SPB_16.3\tools\Capture;C:\CAD\Cadence\SPB_16.3\tools\bin;C:\CAD\Cadence\SPB_16.3\OpenAccess\bin\win32\opt;C:\CAD\Cadence\SPB_16.3\tools\fet\bin;C:\CAD\Cadence\SPB_16.3\tools\pcb\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\Intel\DMIX;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files (x86)\Microchip\MPLAB C32 Suite\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2011a\runtime\win64;C:\Program Files\MATLAB\R2011a\bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\VXIPNP\WINNT\BIN;C:\VXIPNP\WINNT\TekVISA\BIN"
+SDD_HOME = "C:\CAD\MentorGraphics\7.9EE\SDD_HOME"
+TEMP = "C:\Users\John\AppData\Local\Temp"
+TMP = "C:\Users\John\AppData\Local\Temp"

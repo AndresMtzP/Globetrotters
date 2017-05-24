@@ -1,0 +1,7 @@
+Tue Apr 25 14:57:57 2017: iCDBReadSettings.
+Tue Apr 25 14:57:57 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\CoilsTopRevB.prj, Application: iCDBBackup
+Tue Apr 25 14:57:57 2017: iCDBBackup complete
+Tue Apr 25 14:58:06 2017: iCDBReadSettings.
+Tue Apr 25 14:58:06 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\CoilsTopRevB.prj, Application: iCDBBackup
+Tue Apr 25 15:00:13 2017: iCDBReadSettings.
+Tue Apr 25 15:00:13 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\CoilsTopRevB.prj, Application: iCDBBackup

@@ -1,0 +1,680 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_SMPS
+	Symbol BOOST_CM
+	Symbol FLYBACK
+	Symbol ISO
+	Symbol OPAMP_S
+	Symbol SA_BB
+	Symbol SA_BOOST
+	Symbol SA_BUCK
+	Symbol SA_CUK
+	Symbol SA_FB
+	Symbol SA_FWRD
+	Symbol SA_FWRD2
+	Symbol SA_FWRD3
+	Symbol SA_OPTO1
+	Symbol SA_OPTO2
+	Symbol SG3524_S
+	Symbol SG3525_S
+	Symbol SG3527_S
+	Symbol SM_LOAD
+	Symbol TCOND_S
+	Symbol TL494_S
+	Symbol UC1825_S
+	Symbol UC3840_S
+	Symbol UC3842_S
+	Symbol UC3844_S
+	Symbol UC3846_S
+	Symbol V_FAIL
+	Symbol V_FAIL3
+	Symbol VSRC
+SLB2LMC utility complete

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       01:51 PM Monday, November 12, 2007
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_conn\CN_JACK_PWR_3P.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       01:51 PM Monday, November 12, 2007
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_conn\CN_JACK_PWR_3P.pcb
+

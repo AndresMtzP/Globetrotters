@@ -1,0 +1,30 @@
+
+Expedition PCB - Pinnacle Version: 2010.0.426.267
+
+Successfully read the design.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Part hazards exist.
+Saved the design...
+Saved the design...

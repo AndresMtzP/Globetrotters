@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         02:40 PM Saturday, May 24, 2014
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Fuse\Polyswitch.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         02:41 PM Saturday, May 24, 2014
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Fuse\Polyswitch.pcb
+

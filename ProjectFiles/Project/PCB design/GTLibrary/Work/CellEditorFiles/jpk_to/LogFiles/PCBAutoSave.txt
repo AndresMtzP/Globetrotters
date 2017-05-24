@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        04:53 PM Monday, August 25, 2014
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_to\TO263_Uni.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        04:53 PM Monday, August 25, 2014
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_to\TO263_Uni.pcb
+

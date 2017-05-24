@@ -1,0 +1,17 @@
+ Version: 2008.0.307.036
+
+
+
+Environment Variables:
+----------------------
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\x"
+LM_LICENSE_FILE = "1717@jason"
+MGC_HOME = "C:/CAD/MentorGraphics/2007EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\CAD\Xilinx\10.1\ISE\bin\nt;C:\CAD\Xilinx\10.1\ISE\lib\nt;C:\CAD\Xilinx\10.1\ISE\smartmodel\nt\installed_nt\lib\pcnt.lib;C:\Program Files\Microchip\MCC18\mpasm;C:\Program Files\Microchip\MCC18\bin;C:\Program Files\Microchip\MPLAB C32\bin;C:\CAD\MentorGraphics\2007EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\2007EE\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:/CAD/MentorGraphics/2007EE/MGC_HOME.ixn\bin;C:/CAD/MentorGraphics/2007EE/MGC_HOME.ixn\lib;C:\CAD\MentorGraphics\2007EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\2007EE\MGC_HOME.ixn\lib;c:\cad\altera\90\quartus\bin;C:\CAD\Xilinx\10.1\ChipScope\bin\nt;C:\Program Files\Microchip\MPLAB IDE\VDI;C:\Program Files\MATLAB\R2008b\bin;C:\Program Files\MATLAB\R2008b\bin\win32;C:\CAD\OrCAD\OrCAD_16.2\tools\PSpice;C:\CAD\OrCAD\OrCAD_16.2\tools\PSpice\Library;C:\CAD\OrCAD\OrCAD_16.2\tools\Capture;C:\CAD\OrCAD\OrCAD_16.2\tools\bin;C:\CAD\OrCAD\OrCAD_16.2\tools\fet\bin;C:\Program Files\Common Files\iZotope\Runtimes;C:\Program Files\Microchip\MPLAB C32 Suite\bin;C:\Program Files\Microchip\MPLAB C30\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\WinNT\Bin\;C:\PROGRA~1\IVIFOU~1\VISA\WinNT\Bin;C:\Program Files\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\HI-TECH Software\PICC\PRO\9.65\bin;C:\Program Files\Microchip\MCC18\mpasm;C:\Program Files\Microchip\MCC18\bin;C:\Program Files\IDM Computer Solutions\UltraEdit\;C:\CAD\Modeltech6.4a_de\win32pe;C:\CAD\modeltech_6.5a\win32"
+QUARTUS_ROOTDIR = "c:\cad\altera\90\quartus"
+SDD_HOME = "C:\CAD\MentorGraphics\2007EE\SDD_HOME"
+TEMP = "C:\DOCUME~1\x\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\x\LOCALS~1\Temp"
+XILINX = "C:\CAD\Xilinx\10.1\ISE"

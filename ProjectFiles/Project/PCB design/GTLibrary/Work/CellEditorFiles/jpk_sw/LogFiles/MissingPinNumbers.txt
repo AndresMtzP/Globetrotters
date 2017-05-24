@@ -1,0 +1,22 @@
+
+                Added/Missing Pin Numbers in the cell '2_pos_dip'
+                -------------------------------------------------
+
+                         04:52 PM Friday, April 20, 2012
+            Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\PL_Lib.lmc
+
+
+
+The following pin numbers are missing from the cell but are defined
+by the part referencing the cell:
+
+    9
+    10
+
+The following pin numbers are defined in the cell but are not defined
+by the part referencing the cell:
+
+    3
+    4
+
+The cell cannot be saved.

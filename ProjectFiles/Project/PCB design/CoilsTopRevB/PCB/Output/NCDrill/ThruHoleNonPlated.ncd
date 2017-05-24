@@ -1,0 +1,29 @@
+; Version : LOCAL
+; Job     : C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+; User    : E217PC09:e217
+; Date    : Tue Apr 25 16:50:11 2017
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Drill / Non-Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T03C0.2450
+T02C0.6300
+%
+M72
+G90
+G93X0Y0
+T03
+X0Y-0396
+X0396Y0
+X0
+X-0396
+X0Y0396
+T02
+X-007793Y-007775
+X007793
+X-007793Y007775
+X007793
+T00
+M30

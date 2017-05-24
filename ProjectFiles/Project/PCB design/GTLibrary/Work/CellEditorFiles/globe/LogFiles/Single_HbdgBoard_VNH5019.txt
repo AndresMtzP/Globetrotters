@@ -1,0 +1,25 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        Single_HbdgBoard_VNH5019
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    General
+Mount Type:       Through
+Number of Pins:   14
+        Placed:   14
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (10)  Round 65 Drill 40
+        (4)  Round 125 Drill 85
+
+Electronic Objects Used:
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Ref. Des.     Mount Side
+

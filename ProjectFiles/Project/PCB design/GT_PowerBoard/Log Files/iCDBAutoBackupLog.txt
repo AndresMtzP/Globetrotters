@@ -1,0 +1,13 @@
+Sun Apr 30 15:51:18 2017: iCDBReadSettings.
+Sun Apr 30 15:51:18 2017: iCDBBackup. ProjectFile: C:\temp\GT_PowerBoard\GT_PowerBoard.prj, Application: iCDBBackup
+Sun Apr 30 15:51:18 2017: iCDBBackup complete
+Sun Apr 30 16:04:47 2017: iCDBReadSettings.
+Sun Apr 30 16:04:47 2017: iCDBBackup. ProjectFile: C:\temp\GT_PowerBoard\GT_PowerBoard.prj, Application: iCDBBackup
+Sun Apr 30 16:08:10 2017: iCDBReadSettings.
+Sun Apr 30 16:08:10 2017: iCDBBackup. ProjectFile: C:\temp\GT_PowerBoard\GT_PowerBoard.prj, Application: iCDBBackup
+Sun Apr 30 16:10:53 2017: iCDBReadSettings.
+Sun Apr 30 16:10:53 2017: iCDBBackup. ProjectFile: C:\temp\GT_PowerBoard\GT_PowerBoard.prj, Application: iCDBBackup
+Sun Apr 30 16:13:02 2017: iCDBReadSettings.
+Sun Apr 30 16:13:02 2017: iCDBBackup. ProjectFile: C:\temp\GT_PowerBoard\GT_PowerBoard.prj, Application: iCDBBackup
+Sun Apr 30 17:16:05 2017: iCDBReadSettings.
+Sun Apr 30 17:16:05 2017: iCDBBackup. ProjectFile: C:\temp\GT_PowerBoard\GT_PowerBoard.prj, Application: iCDBBackup

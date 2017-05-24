@@ -1,0 +1,292 @@
+
+                               Forward Annotation
+                               ------------------
+
+                         09:14 AM Friday, April 11, 2008
+Job Name: C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 3
+          Part Numb: Res_1206 -> Vend Part: Res_1206 
+          Part Numb: 7seg_HDSP7503 -> Vend Part: 7seg_HDSP7503 
+          Part Numb: 10_pin_dbl_.1sp -> Vend Part: 10_pin_dbl_.1sp 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Part Name = RES
+     PartsDB Property: Part Name = Res_1206
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 10 Symbols:
+              10  *********
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     17 nets were found containing 35 pins
+     10 components were found
+
+
+     After augmentation of supply pins, there are 17 nets where 0 nets have only one pin.
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 24 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                         09:14 AM Friday, April 11, 2008
+Job Name: C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+Version:  02.11.12
+
+     Netloading the Layout.  Unused components will be changed to spares.
+
+     Unconnected pins will be set to net "(Net0)".
+
+     Schematic reference designator changes will be forward annotated.
+
+     The following 10 components have not been placed:
+
+        D1
+        H1
+        R1
+        R2
+        R3
+        R4
+        R5
+        R6
+        R7
+        R8
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+                              Variant data forward annotation log
+                              ================================
+
+
+Processing changes in variant group definitions...
+
+Processing changes in FMV function group definitions...
+
+Successful completion. No changes were found.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

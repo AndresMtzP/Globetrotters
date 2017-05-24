@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       12:29 PM Wednesday, March 26, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\vbc_smd_discrete\CDR13.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:29 PM Wednesday, March 26, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\vbc_smd_discrete\CDR13.pcb
+

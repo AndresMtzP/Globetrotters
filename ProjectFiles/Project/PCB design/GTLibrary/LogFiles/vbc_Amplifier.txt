@@ -1,0 +1,629 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Amplifier
+	Symbol AD521
+	Symbol AD524
+	Symbol AD602
+	Symbol AD625
+	Symbol HA2420
+	Symbol HA5320
+	Symbol HA5330
+	Symbol LF198
+	Symbol LM1201
+	Symbol LM1204
+	Symbol LM1208
+	Symbol LM1815
+	Symbol LM380
+	Symbol LM386
+	Symbol LM486x
+	Symbol M52307P
+	Symbol M52320SP
+	Symbol MC34119
+	Symbol SE592
+	Symbol SMP11
+	Symbol SSM2016
+	Symbol TDA7052
+	Symbol TDA8551
+	Symbol UA733
+	Symbol VCA610
+SLB2LMC utility complete

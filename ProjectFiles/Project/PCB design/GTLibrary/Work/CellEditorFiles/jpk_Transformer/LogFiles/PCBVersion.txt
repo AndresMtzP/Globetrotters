@@ -1,0 +1,16 @@
+Cell Editor Version: 2009.0.381.745
+
+
+
+Environment Variables:
+----------------------
+HOME = "C:\CAD\SPB_Data"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\X"
+MGC_HOME = "C:/cad/MentorGraphics/2007.8EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\embedinc\com;C:\cad\MentorGraphics\2007.8EE\SDD_HOME\common\win32\bin;C:\cad\MentorGraphics\2007.8EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microchip\MPLAB C32 Suite\bin;C:\Program Files\HI-TECH Software\PICC\9.70\bin;C:/cad/MentorGraphics/2007.8EE/MGC_HOME.ixn/bin;C:/cad/MentorGraphics/2007.8EE/MGC_HOME.ixn/lib;C:\cad\MentorGraphics\2007.8EE\MGC_HOME.ixn\bin;C:\cad\MentorGraphics\2007.8EE\MGC_HOME.ixn\lib;c:\cad\altera\91\quartus\bin;C:\CAD\OrCAD\OrCAD_16.3_Demo\tools\PSpice;C:\CAD\OrCAD\OrCAD_16.3_Demo\tools\PSpice\Library;C:\CAD\OrCAD\OrCAD_16.3_Demo\tools\Capture;C:\CAD\OrCAD\OrCAD_16.3_Demo\tools\bin;C:\CAD\OrCAD\OrCAD_16.3_Demo\OpenAccess\bin\win32\opt;C:\CAD\OrCAD\OrCAD_16.3_Demo\tools\fet\bin;C:\CAD\OrCAD\OrCAD_16.3_Demo\tools\pcb\bin;C:\Program Files\HI-TECH Software\PICC\9.80\bin;C:\Program Files\HI-TECH Software\PICC\9.71a\bin;c:\cad\altera\91\quartus\bin;C:\Program Files\QuickTime\QTSystem\;C:\CAD\Cadence\SPB_16.3\tools\pcb\bin;C:\CAD\Cadence\SPB_16.3\tools\fet\bin;C:\CAD\Cadence\SPB_16.3\tools\specctra\bin;C:\CAD\Cadence\SPB_16.3\tools\PSpice;C:\CAD\Cadence\SPB_16.3\tools\PSpice\Library;C:\CAD\Cadence\SPB_16.3\tools\Capture;C:\CAD\Cadence\SPB_16.3\tools\bin;C:\CAD\Cadence\SPB_16.3\OpenAccess\bin\win32\opt;C:\Program Files\Windows Live\Shared;C:\cad\Qt\2010.02.1\bin;C:\cad\Qt\2010.02.1\mingw;C:\CAD\altera\91\modelsim_ase\win32aloem;C:\cad\modeltech_pe_6.6\win32pe;C:\cad\modeltech_6.6\win32"
+QUARTUS_ROOTDIR = "c:\cad\altera\91\quartus"
+SDD_HOME = "C:\cad\MentorGraphics\2007.8EE\SDD_HOME"
+TEMP = "C:\Users\X\AppData\Local\Temp"
+TMP = "C:\Users\X\AppData\Local\Temp"

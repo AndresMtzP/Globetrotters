@@ -1,0 +1,8 @@
+Fri Apr 28 14:04:21 2017: iCDBReadSettings.
+Fri Apr 28 14:04:21 2017: iCDBBackup. ProjectFile: C:\temp\CommandModule\CommandModule.prj, Application: iCDBBackup
+Fri Apr 28 14:04:21 2017: iCDBBackup complete
+Fri Apr 28 15:01:01 2017: iCDBReadSettings.
+Fri Apr 28 15:01:01 2017: iCDBBackup. ProjectFile: C:\temp\CommandModule\CommandModule.prj, Application: iCDBBackup
+Fri Apr 28 18:58:16 2017: iCDBReadSettings.
+Fri Apr 28 18:58:16 2017: iCDBBackup. ProjectFile: C:\temp\CommandModule\CommandModule.prj, Application: iCDBBackup
+Fri Apr 28 18:58:16 2017: iCDBBackup complete

@@ -1,0 +1,476 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing Temp_Symbol
+	Symbol .0022uF
+	Symbol AMP_RJ45
+	Symbol CONNP
+	Symbol Header_block
+	Symbol LED
+	Symbol NPNBJT
+	Symbol OPAMP5
+	Symbol PNPBJT
+	Symbol PWR
+	Symbol RECTIFIER_DIODE
+	Symbol RES
+	Symbol SSM2017
+	Symbol TDA7294
+	Symbol That_4301
+	Symbol TRS_Chassis
+	Symbol XLR_Chassis
+SLB2LMC utility complete

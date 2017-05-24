@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         06:36 AM Tuesday, May 06, 2014
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_sw\ALPS Rot Enc No Sw.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         06:37 AM Tuesday, May 06, 2014
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_sw\ALPS Rot Enc No Sw.pcb
+

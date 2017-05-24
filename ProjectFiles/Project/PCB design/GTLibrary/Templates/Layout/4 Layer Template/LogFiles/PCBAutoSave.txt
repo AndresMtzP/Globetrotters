@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       02:08 PM Saturday, October 25, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\4 Layer Template\template.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       02:10 PM Saturday, October 25, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\4 Layer Template\template.pcb
+

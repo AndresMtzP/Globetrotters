@@ -1,0 +1,28 @@
+Tue Apr 25 15:01:46 2017: iCDBReadSettings.
+Tue Apr 25 15:01:46 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:06:57 2017: iCDBReadSettings.
+Tue Apr 25 15:06:57 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:11:45 2017: iCDBReadSettings.
+Tue Apr 25 15:11:45 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:11:52 2017: iCDBReadSettings.
+Tue Apr 25 15:11:52 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:11:58 2017: iCDBReadSettings.
+Tue Apr 25 15:11:58 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:12:49 2017: iCDBReadSettings.
+Tue Apr 25 15:12:49 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:14:17 2017: iCDBReadSettings.
+Tue Apr 25 15:14:17 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:18:01 2017: iCDBReadSettings.
+Tue Apr 25 15:18:01 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:21:03 2017: iCDBReadSettings.
+Tue Apr 25 15:21:03 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 15:21:06 2017: iCDBReadSettings.
+Tue Apr 25 15:21:06 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 16:31:27 2017: iCDBReadSettings.
+Tue Apr 25 16:31:27 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 16:33:28 2017: iCDBReadSettings.
+Tue Apr 25 16:33:28 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Tue Apr 25 16:37:04 2017: iCDBReadSettings.
+Tue Apr 25 16:37:04 2017: iCDBBackup. ProjectFile: C:\temp\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup
+Wed Apr 26 12:49:59 2017: iCDBReadSettings.
+Wed Apr 26 12:49:59 2017: iCDBBackup. ProjectFile: K:\CoilsTopRevB\PCB\Template_2_Layer.prj, Application: iCDBBackup

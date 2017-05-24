@@ -1,0 +1,35 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Fri Apr 11 09:57:18 2008}
+}
+{Environment
+	{ViewMetric	No}
+}
+{Layers
+	{Layer  1
+		{File		Top.gdo}
+		{LyrName	Top}
+		{Visibility	On}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		Bot.gdo}
+		{LyrName	Bot}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			No}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

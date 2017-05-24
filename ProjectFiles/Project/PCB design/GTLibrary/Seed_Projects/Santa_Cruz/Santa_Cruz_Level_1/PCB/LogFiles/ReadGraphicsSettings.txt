@@ -1,0 +1,7 @@
+
+Attempting to read Graphics Settings file <Graphics Settings.hkp>
+
+The full pathname is <C:\cad\CentralLibs\JPK_Lib\Seed_Projects\Santa_Cruz\Santa_Cruz_Level1\Santa_Cruz_Level1\PCB\Config\Graphics Settings.hkp>
+
+
+Successful completion

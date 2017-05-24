@@ -1,0 +1,69 @@
+
+                                    Packager
+                                    --------
+
+                       04:26 PM Saturday, October 25, 2008
+             Job Name: C:\Temp\Template_2_Layer\Template_2_Layer.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\2007EE\SDD_HOME\wg\win32\bin\Package.exe -j"C:\Temp\Template_2_Layer\Template_2_Layer.prj" -Add "
+
+     The Common Database is at "C:\Temp\Template_2_Layer\Template_2_Layer.icdb".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DCDV".
+
+     The PCB Design Path of this design is at "C:\Temp\Template_2_Layer\PCB\Template_2_Layer.pcb".
+
+     The Central Library is at "C:\My Data\Design\Mentor\Libs\JPK_Lib\JPK_Lib.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Parametric"
+       "Value2"
+       "IBIS"
+       "Model Suffix"
+       "VHDL Model"
+       "Verilog Model"
+       "Simulation Model"
+       "Value"
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     ERROR: No parts were specified.
+
+     ERROR:  Unable to create local PDB
+
+     ERROR:  Problem Making Local Parts DataBase
+
+
+     Testing of Packaging is being terminated with 3 errors and 0 warnings.
+      Design has NOT been packaged.
+
+     There have been 3 errors.

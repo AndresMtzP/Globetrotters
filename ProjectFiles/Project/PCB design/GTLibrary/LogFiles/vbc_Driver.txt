@@ -1,0 +1,408 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Driver
+	Symbol DS26C31C
+	Symbol DS34C87
+	Symbol DS8922A
+	Symbol DS8923A
+	Symbol TD62304AP
+	Symbol TD62382AP
+	Symbol TD62503P
+	Symbol TD62703P
+	Symbol UA9665
+	Symbol UA9666
+	Symbol UA9667
+	Symbol UA9668
+SLB2LMC utility complete

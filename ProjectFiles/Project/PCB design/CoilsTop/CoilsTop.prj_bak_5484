@@ -1,0 +1,79 @@
+SECTION IngrElecDesignInfo
+KEY SBKDir "C:\temp\CoilsTop"
+KEY ACEPlusHDLDir "C:\temp\CoilsTop\hdl"
+KEY ACEPlusGeneratedHDLDir "C:\temp\CoilsTop\genhdl"
+KEY AvoidInstance "1"
+ENDSECTION
+SECTION ConfigurationInfo
+LIST Configurations
+VALUE "Default"
+ENDLIST
+KEY ActiveConfiguration "Default"
+ENDSECTION
+SECTION Default
+LIST BlockViewMap
+ENDLIST
+LIST Types
+VALUE "FPGA(*.fpk)"
+VALUE "All(*.*)"
+VALUE "Verilog(*.v)"
+VALUE "VHDL(*.vhd)"
+VALUE "BlockSymbols(*.blk)"
+VALUE "TruthTables(*.tbl)"
+VALUE "FlowCharts(*.sfc)"
+VALUE "StateDiagrams(*.sdg)"
+VALUE "Schematics(*.sbk)"
+ENDLIST
+LIST FPGA(*.fpk)
+ENDLIST
+LIST All(*.*)
+ENDLIST
+LIST Verilog(*.v)
+ENDLIST
+LIST VHDL(*.vhd)
+ENDLIST
+LIST BlockSymbols(*.blk)
+ENDLIST
+LIST TruthTables(*.tbl)
+ENDLIST
+LIST FlowCharts(*.sfc)
+ENDLIST
+LIST StateDiagrams(*.sdg)
+ENDLIST
+LIST Schematics(*.sbk)
+ENDLIST
+KEY ConfigType "DC"
+KEY CDBDir ".\"
+KEY ConfigDir ".\Default"
+KEY iCDBDir ""
+KEY VendorPath ""
+ENDSECTION
+SECTION Versions
+KEY ProjectVersion "WG2002"
+ENDSECTION
+SECTION IngrElecTechnologyInfo
+KEY DesignKit ""
+ENDSECTION
+SECTION IngrElecLibraries
+LIST IbisModelIndexes
+ENDLIST
+LIST PDBs
+ENDLIST
+LIST 2dCellLibraries
+ENDLIST
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY VBPCBForeignNetlist ""
+KEY VBPCBForeignNetlistFormat ""
+KEY VBPCBDesignPath "C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY UseCES "0"
+ENDSECTION
+SECTION iCDB
+KEY DedicatedServerName ""
+ENDSECTION
+SECTION DesignInfo
+KEY CentralLibrary "C:\temp\SDL_Lib\SDL_Lib.lmc"
+ENDSECTION

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       02:53 PM Saturday, October 25, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\Single_7seg.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       03:00 PM Saturday, October 25, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\Single_7seg.pcb
+

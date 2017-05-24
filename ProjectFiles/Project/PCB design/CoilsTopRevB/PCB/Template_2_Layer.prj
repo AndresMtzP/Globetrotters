@@ -1,0 +1,44 @@
+SECTION IngrElecLibraries
+KEY SearchPathScheme "(Default)"
+KEY CentralLibrary "C:\temp\SDL_Lib\SDL_Lib.lmc"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY SchematicDesignStatus "0"
+KEY VBPCBForwardAnno "0"
+KEY SchematicDesignBackAnno "0"
+KEY CADBackAnno "0"
+KEY FLATNETNAMEs "0"
+KEY LayoutTemplate ""
+KEY FwdAnnoExtractFlag "0"
+KEY FwdAnnoRebuildFlag "1"
+KEY FwdAnnoReplaceFlag "0"
+KEY FwdAnnoCleanBuildFlag "0"
+KEY UnusedPartsFlag "0"
+KEY DisableBackAnnoChanges "0"
+KEY FanoutSinglePinNets "0"
+KEY FwdAnnoSchematicRefDesChanges "1"
+KEY FwdAnnoRemoveTraces "1"
+KEY FwdAnnoRemoveHangers "1"
+KEY AllowAlpha "0"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY VBPCBForeignNetlist "NetList.kyn"
+KEY VBPCBForeignNetlistFormat ".kyn"
+KEY VBPCBDesignPath "CoilsTopRevB.pcb"
+ENDSECTION
+SECTION DesignInfo
+KEY CentralLibrary "C:\temp\SDL_Lib\SDL_Lib.lmc"
+ENDSECTION
+SECTION ICXProInfo
+KEY HighSpeedPathsVersion "1"
+KEY ICXProDir "./HighSpeed/ICXPro"
+KEY IBISModelMgrDir "./HighSpeed/ICXPro/Model_Manager"
+KEY VerifyDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyResultsDir "./HighSpeed/ICXPro/Verify/DataBases"
+KEY VerifyLogFilesDir "./HighSpeed/ICXPro/Verify/LogFiles"
+KEY VerifyWaveformsDir "./HighSpeed/ICXPro/Verify/Waveforms"
+KEY VerifySandBoxDir "./HighSpeed/ICXPro/Verify"
+KEY SimTemplatesDir "./HighSpeed/ICXPro/Simulation_Templates"
+KEY PostLayoutExplorerDir "./HighSpeed/ICXPro/PostLayoutExplorer"
+KEY PostLayoutLineSim "./HighSpeed/HyperLynx/PostLayoutLineSim"
+ENDSECTION

@@ -1,0 +1,26 @@
+
+                                 BackAnnotation
+                                 --------------
+
+                        03:08 PM Tuesday, April 25, 2017
+                     Job Name: J:\CoilsTop\PCB\CoilsTop.pcb
+
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     Writing a list of routed plane pins to Logic\rtdplane.caf.
+
+     Finished updating the Logic Database.
+
+     Updating LogicDB Version from 3 to 4.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new Keyin Netlist (J:\CoilsTop\PCB\NetList.kyn)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new Keyin Netlist has been generated.
+
+     Completed Back Annotation

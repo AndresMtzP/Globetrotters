@@ -1,0 +1,14 @@
+Expedition PCB - Pinnacle Version: 2010.0.426.267
+
+
+
+Environment Variables:
+----------------------
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\e217"
+MGC_HOME = "C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\CAD\MentorGraphics\7.9EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\"
+SDD_HOME = "C:\CAD\MentorGraphics\7.9EE\SDD_HOME"
+TEMP = "C:\Users\e217\AppData\Local\Temp"
+TMP = "C:\Users\e217\AppData\Local\Temp"

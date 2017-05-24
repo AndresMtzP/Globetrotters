@@ -1,0 +1,71 @@
+.FILETYPE DXF_EXPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "04/07/2017 13:37:39"
+
+!  This file contains settings for the most recent DXF export session
+
+.OUTPUT_FILE "Single_HbdgBoard_VNH5019.dxf"
+.UNITS th
+
+.FILL_PADS 0
+
+.BOARD_CONTENTS 0
+
+.MIRROR_OUTPUT 0
+
+.ITEM "Assembly Part Numbers Top"
+ ..LAYER "Assembly_Part_Numbers_Top"
+ ..EXPORT 0
+
+.ITEM "Assembly Ref Des Top"
+ ..LAYER "Assembly_Ref_Des_Top"
+ ..EXPORT 0
+
+.ITEM "Board Origin"
+ ..LAYER "Board_Origin"
+ ..EXPORT 0
+
+.ITEM "Board Outline"
+ ..LAYER "Board_Outline"
+ ..EXPORT 0
+
+.ITEM "NC Drill Origin"
+ ..LAYER "NC_Drill_Origin"
+ ..EXPORT 0
+
+.ITEM "Part Holes Layer 1"
+ ..LAYER "Part_Holes_Layer_Top"
+ ..EXPORT 0
+
+.ITEM "Part Holes Layer 2"
+ ..LAYER "Part_Holes_Layer_Bottom"
+ ..EXPORT 0
+
+.ITEM "Part Pads Layer 1"
+ ..LAYER "Part_Pads_Layer_Top"
+ ..EXPORT 0
+
+.ITEM "Part Pads Layer 2"
+ ..LAYER "Part_Pads_Layer_Bottom"
+ ..EXPORT 0
+
+.ITEM "Pin Numbers Top"
+ ..LAYER "Pin_Numbers_Top"
+ ..EXPORT 0
+
+.ITEM "Placement Outlines Top"
+ ..LAYER "Placement_Outlines_Top"
+ ..EXPORT 0
+
+.ITEM "Silkscreen Ref Des Top"
+ ..LAYER "Silkscreen_Ref_Des_Top"
+ ..EXPORT 0
+
+.ITEM "Soldermask Pads Btm"
+ ..LAYER "Soldermask_Pads_Btm"
+ ..EXPORT 0
+
+.ITEM "Soldermask Pads Top"
+ ..LAYER "Soldermask_Pads_Top"
+ ..EXPORT 0
+

@@ -1,0 +1,40 @@
+ ----------------------------
+|    Gerber Plotting Log     |
+|          Started           |
+|  Fri Apr 28 17:08:02 2017  |
+ ----------------------------
+
+
+Processing Top.gdo
+    Number of Apertures     = 9
+    Number of Moves         = 354
+    Number of Draws         = 2518
+    Number of Arcs          = 1160
+    Number of Flashes       = 108
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 15
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 166.163 (IN)
+    Total Move Length       = 202.792 (IN)
+
+Processing Bot.gdo
+    Number of Apertures     = 7
+    Number of Moves         = 140
+    Number of Draws         = 200
+    Number of Arcs          = 834
+    Number of Flashes       = 64
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 19
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 97.4011 (IN)
+    Total Move Length       = 96.5231 (IN)
+
+ ---------------------------
+|    Gerber Plotting Log     |
+|          Finished          |
+|  Fri Apr 28 17:08:02 2017  |
+ ----------------------------

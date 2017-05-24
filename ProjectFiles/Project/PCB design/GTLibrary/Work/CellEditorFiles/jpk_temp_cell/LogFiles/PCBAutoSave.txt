@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        09:10 AM Thursday, March 30, 2006
+Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_temp_cell\x.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                        09:12 AM Thursday, March 30, 2006
+Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_temp_cell\x.pcb
+

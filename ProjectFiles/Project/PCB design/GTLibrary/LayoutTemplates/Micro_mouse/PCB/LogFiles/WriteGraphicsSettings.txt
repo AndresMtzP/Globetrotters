@@ -1,0 +1,7 @@
+
+Attempting to write Graphics Settings file <Graphics Settings.hkp>
+
+The full pathname is   <C:\cad\CentralLibs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Graphics Settings.hkp>
+The backup pathname is <C:\cad\CentralLibs\JPK_Lib\LayoutTemplates\2 Layer Template\PCB\Config\Graphics Settings.bak>
+
+Successful completion

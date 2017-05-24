@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       03:53 PM Friday, February 06, 2015
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_smd_ic\CS4330.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       04:01 PM Friday, February 06, 2015
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_smd_ic\CS4330.pcb
+

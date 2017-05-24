@@ -1,0 +1,331 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing jpk_microcontroller
+	Symbol 89C51
+	Symbol MC9S12C32
+	Symbol PIC16F876
+	Symbol PIC32MX340F128H-XXX/PT
+	Symbol PIC_14Pin
+	Symbol PIC_16F616
+	Symbol PIC_28Pin_QFN
+	Symbol PIC_44Pin
+SLB2LMC utility complete

@@ -1,0 +1,16 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        05:31 PM Saturday, April 15, 2017
+             Job Name: C:\temp\Coils_bottom_2\PCB\Coils_bottom_2.pcb
+
+Autosave pending at 18:31:25 Sat  Attempting...
+Autosave completed successfully.  18:31:25 Sat
+
+                               Autosave log closed
+                               -------------------
+
+                        06:35 PM Saturday, April 15, 2017
+             Job Name: C:\temp\Coils_bottom_2\PCB\Coils_bottom_2.pcb
+

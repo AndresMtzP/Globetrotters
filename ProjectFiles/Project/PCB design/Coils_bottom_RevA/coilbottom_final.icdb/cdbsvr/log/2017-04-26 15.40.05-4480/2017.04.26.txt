@@ -1,0 +1,99 @@
+[2017.04.26 15:40:05] [0000m.00s.046ms] [0] WELCOME
+[2017.04.26 15:40:05] [0000m.00s.078ms] [1] iCDB Server ver.1.091, 0XsVZbnMvCAokxoWCsr9pA, build:426267 created 2010-10-27 08:24:21, sources stamp:0XsVZbnMvCAokxoWCsr9pA
+[2017.04.26 15:40:05] [0000m.00s.078ms] [1] Copyright 2010 Mentor Graphics Corporation. All Rights Reserved.
+[2017.04.26 15:40:05] [0000m.00s.078ms] [1] Base flow version [7.9.1]
+[2017.04.26 15:40:05] [0000m.00s.078ms] [1] GBS Install Id [16609], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2017.04.26 15:40:05] [0000m.00s.078ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Machine [E217PC11]  User [e217]  PID [4480]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Operating system [Microsoft Windows 7 Enterprise Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Current working dir [K:\coilbottom_final_2.0\PCB]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] PATH [C:\CAD\MentorGraphics\7.9EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] SDD_HOME [C:\CAD\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] SDD_PLATFORM [win32]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Local iCDB working dir [C:\CAD\MentorGraphics\iCDB] on file system [NTFS]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] S: Config file name [ServerWG.cfg]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [2] S: Loading config files
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Config: WARNING: Line [98]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [90]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Config: WARNING: Line [98]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [90]
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Config file [K:\coilbottom_final_2.0\coilbottom_final.icdb\cdbsvr\ServerWG.cfg] not found
+[2017.04.26 15:40:05] [0000m.00s.093ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2017.04.26 15:40:05] [0000m.00s.109ms] [3] S: Config loaded
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Project path [K:\coilbottom_final_2.0\coilbottom_final.icdb] on file system [FAT32]
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Multi-user mode (config)
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Event polling mode autodetection
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Started up automatically by iCDB Client: E217PC11:e217:4812
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Auto close mode
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Database ID [e1a1-ce8d-13a7-2346-1c12-1096-c121-0950-d01e-9c1c-2e3e-2cd8]
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: START
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Server startup lock file created
+[2017.04.26 15:40:05] [0000m.00s.124ms] [0] S: Listening for client connections on port [10000]
+[2017.04.26 15:40:05] [0000m.00s.140ms] [0] S: Server network ID [E217PC11:130.191.161.190,E217PC11,E217PC11.engineering.sdsu:10000]
+[2017.04.26 15:40:05] [0000m.00s.140ms] [0] S: Server GUID [e61c-73db-16c8-603a-5c12-109a-c121-0950-52ee-9c1c-2e3e-2cd8]
+[2017.04.26 15:40:05] [0000m.00s.156ms] [0] S: Project GUID [e1a1-ce8d-13a7-2346-1c12-1096-c121-0950-d01e-9c1c-2e3e-2cd8]
+[2017.04.26 15:40:05] [0000m.00s.218ms] [0] S: Wrote data to server address file
+[2017.04.26 15:40:05] [0000m.00s.218ms] [0] S: Server startup lock file removed
+[2017.04.26 15:40:05] [0000m.00s.249ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.04.26 15:40:05] [0000m.00s.249ms] [0] S: Local disc access time: 97 us
+[2017.04.26 15:40:05] [0000m.00s.249ms] [0] S: File server access time: 372 us
+[2017.04.26 15:40:05] [0000m.00s.265ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.26 15:40:05] [0000m.00s.280ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.26 15:40:05] [0000m.00s.280ms] [0] SingleFile: [cec1-7b30-1307-587f] SFI version check [1008] [1008]
+[2017.04.26 15:40:05] [0000m.00s.280ms] [0] iCDB Server PI: Server & plugin session [108]
+[2017.04.26 15:40:05] [0000m.00s.280ms] [0] iCDB Server PI: Opening database [K:\coilbottom_final_2.0\coilbottom_final.icdb]
+[2017.04.26 15:40:05] [0000m.00s.280ms] [0] iCDB Server PI: Database [K:\coilbottom_final_2.0\coilbottom_final.icdb] opened
+[2017.04.26 15:40:05] [0000m.00s.296ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.04.26 15:40:05] [0000m.00s.296ms] [0] iCDB Database: Checking constraint definitions version
+[2017.04.26 15:40:05] [0000m.00s.327ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6] up to date
+[2017.04.26 15:40:05] [0000m.00s.327ms] [0] iCDB Server PI: Initializing plugins
+[2017.04.26 15:40:05] [0000m.00s.327ms] [0] iCDB Server PI: Plugins initialized
+[2017.04.26 15:40:05] [0000m.00s.327ms] [0] S: iCDB database loaded
+[2017.04.26 15:40:05] [0000m.00s.327ms] [0] S: Starting threads
+[2017.04.26 15:40:05] [0000m.00s.327ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.04.26 15:40:05] [0000m.00s.327ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.04.26 15:40:06] [0000m.00s.343ms] [0] IT: Session [109] for host [E217PC11] user [e217] with process ID [4812] created
+[2017.04.26 15:40:06] [0000m.00s.343ms] [1] SC[109]: Registered sub-client [Expedition PCB_624460567] with ID [1] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:40:06] [0000m.00s.436ms] [1] CMT: There are [1] clients now
+[2017.04.26 15:40:10] [0000m.04s.508ms] [1] SC[109]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:40:39] [0000m.33s.715ms] [0] DFAMT: File server access time: 745 us
+[2017.04.26 15:41:38] [0001m.32s.557ms] [1] SC[109]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:38] [0001m.32s.557ms] [1] SC[109]: Registered sub-client [EEVM_EEVM_1634728] with ID [3] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:38] [0001m.32s.557ms] [1] SC[109]: UnRegistered sub-client [EEVM_EEVM_1634728] with ID [3] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:39] [0001m.33s.774ms] [0] IT: Session [110] for host [E217PC11] user [e217] with process ID [8664] created
+[2017.04.26 15:41:39] [0001m.33s.774ms] [1] SC[110]: Registered sub-client [Packager_624554433] with ID [1] for session ID [110] host [E217PC11] user [e217] process ID [8664]
+[2017.04.26 15:41:39] [0001m.33s.792ms] [1] CMT: There are [2] clients now
+[2017.04.26 15:41:40] [0001m.34s.743ms] [1] SC[110]: UnRegistered sub-client [Packager_624554433] with ID [1] for session ID [110] host [E217PC11] user [e217] process ID [8664]
+[2017.04.26 15:41:40] [0001m.34s.806ms] [1] CMT: Removed client [110]
+[2017.04.26 15:41:40] [0001m.34s.806ms] [1] CMT: There are [1] clients now
+[2017.04.26 15:41:42] [0001m.36s.381ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\coilbottom_final_2.0\coilbottom_final.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.04.26 15:41:42] [0001m.36s.381ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\coilbottom_final_2.0\coilbottom_final.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2017.04.26 15:41:42] [0001m.36s.381ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [K:\coilbottom_final_2.0\coilbottom_final.icdb\s2\cdbcnfgs\8000000010000050.blk\cesatl.v] - auto-saving it
+[2017.04.26 15:41:43] [0001m.37s.692ms] [0] IT: Session [111] for host [E217PC11] user [e217] with process ID [10392] created
+[2017.04.26 15:41:43] [0001m.37s.692ms] [1] SC[111]: Registered sub-client [Expedition_624558286] with ID [1] for session ID [111] host [E217PC11] user [e217] process ID [10392]
+[2017.04.26 15:41:43] [0001m.37s.754ms] [1] CMT: There are [2] clients now
+[2017.04.26 15:41:43] [0001m.37s.941ms] [1] SC[111]: UnRegistered sub-client [Expedition_624558286] with ID [1] for session ID [111] host [E217PC11] user [e217] process ID [10392]
+[2017.04.26 15:41:43] [0001m.37s.973ms] [1] CMT: Removed client [111]
+[2017.04.26 15:41:43] [0001m.37s.973ms] [1] CMT: There are [1] clients now
+[2017.04.26 15:41:50] [0001m.44s.558ms] [1] SC[109]: Registered sub-client [EEVM_EEVM_142562660] with ID [4] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.573ms] [1] SC[109]: UnRegistered sub-client [EEVM_EEVM_142562660] with ID [4] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.573ms] [1] SC[109]: Registered sub-client [EEVM_EEVM_142562660] with ID [5] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.573ms] [1] SC[109]: UnRegistered sub-client [EEVM_EEVM_142562660] with ID [5] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.573ms] [1] SC[109]: Registered sub-client [EEVM_EEVM_142562660] with ID [6] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.589ms] [1] SC[109]: UnRegistered sub-client [EEVM_EEVM_142562660] with ID [6] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.854ms] [1] SC[109]: UnRegistered sub-client [Expedition PCB_624460567] with ID [1] for session ID [109] host [E217PC11] user [e217] process ID [4812]
+[2017.04.26 15:41:50] [0001m.44s.963ms] [1] CMT: Removed client [109]
+[2017.04.26 15:41:50] [0001m.44s.963ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.26 15:41:52] [0001m.46s.383ms] [0] CMT: Starting server auto-close
+[2017.04.26 15:41:52] [0001m.46s.430ms] [0] S: Closing server
+[2017.04.26 15:41:52] [0001m.46s.539ms] [0] iCDB Server PI: Closing plugins
+[2017.04.26 15:41:52] [0001m.46s.539ms] [0] iCDB Server PI: Plugins closed
+[2017.04.26 15:41:52] [0001m.46s.539ms] [0] iCDB Server PI: Unloading database
+[2017.04.26 15:41:52] [0001m.46s.539ms] [0] iCDB Server PI: Saving storage
+[2017.04.26 15:41:52] [0001m.46s.539ms] [0] iCDB Server PI: Closing database
+[2017.04.26 15:41:52] [0001m.46s.539ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[4%] data[73%]
+[2017.04.26 15:41:52] [0001m.46s.539ms] [1] iCDB Server PI: Stats: Database file size [91784] bytes
+[2017.04.26 15:41:53] [0001m.47s.600ms] [0] iCDB Server PI: Database closed
+[2017.04.26 15:41:53] [0001m.47s.600ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1097] ticks
+[2017.04.26 15:41:53] [0001m.47s.600ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [375] microseconds
+[2017.04.26 15:41:53] [0001m.47s.600ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [5]
+[2017.04.26 15:41:53] [0001m.47s.600ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13321] commands per second
+[2017.04.26 15:41:53] [0001m.47s.725ms] [0] S: STOP

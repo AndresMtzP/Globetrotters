@@ -1,0 +1,132 @@
+Thu Apr 13 19:22:01 2017
+
+Project path: C:\temp\SDL_Lib\Templates\Layout\2 Layer Generic Template\keyin.icdb
+
+Before global upgrade from version:  to version: 7.10.6
+
+Constraints definition "CUSTOM_DESCRIPTION" added.
+Constraints definition "CUSTOM_VALUE" added.
+Constraints definition "CE2PARTS" added (default value: 254000).
+Constraints definition "CE2NONPLANECONDUCTOR" added (default value: 254000).
+Constraints definition "CE2PLANECONDUCTOR" added (default value: 254000).
+Constraints definition "CE2CE" added (default value: 254000).
+Constraints definition "DSN_CON_AUTO_CONTROL" added (default value: 0).
+Constraints definition "DSN_DEF_PROPAGATION_DELAY" added (default value: 165).
+Constraints definition "REUSE_BLOCK_TMP_ID" added.
+Constraints definition "USERDEFINED" added (default value: FALSE).
+Constraints definition "TPC2TPC" added (default value: 1016000).
+Constraints definition "TPC2TPE" added (default value: 635000).
+Constraints definition "TPC2CTP" added (default value: 1016000).
+Constraints definition "TPC2CSP" added (default value: 1016000).
+Constraints definition "TPC2CPOU" added (default value: 508000).
+Constraints definition "SIM_DELAY_MATCH_TO" added (default value: (None)).
+Constraints definition "PIN_PACKAGE_DELAY" added.
+Constraints definition "HLT_POWER_DISSIPATION" added.
+Constraints definition "HLT_POWER_SCALING_FACT" added (default value: 1.000000000000000).
+Constraints definition "HLT_THETA_JC" added.
+Constraints definition "HLT_CASING_TLIMIT" added.
+Constraints definition "HLT_CASING_TACT" added.
+Constraints definition "HLT_JUNCTION_TLIMIT" added.
+Constraints definition "HLT_JUNCTION_TACT" added.
+BeforeGlobalUpgrade took 0ms, 0s
+
+Upgrade snapshot DCDV
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "DIELCONST" default value set to: 1.000000000000000.
+Constraints definition "DP_CDT" default value set to: 635000.
+Constraints definition "DP_MDC" default value set to: 2540000.
+Constraints definition "DP_MSD" default value set to: 0.
+Constraints definition "DSN_DEF_DISTANCE_TOL" default value set to: 254000.
+Constraints definition "LOSS_TAN" default value set to: 0.020000000000000.
+Constraints definition "CMH2PC" deleted.
+Constraints definition "Z_TRACE_TO_TRACE" levels updated.
+Constraints definition "Z_TRACE_TO_PAD" levels updated.
+Constraints definition "Z_TRACE_TO_VIA" levels updated.
+Constraints definition "Z_TRACE_TO_PLANE" levels updated.
+Constraints definition "Z_SMDPAD_TO_TRACE" levels updated.
+Constraints definition "ORDER_TYPE" levels updated.
+Constraints definition "TOPO_PIN_NET" levels updated.
+Constraints definition "TOPO_PIN_MODEL" levels updated.
+Constraints definition "TOPO_ASSIGN_PIN_GROUP" levels updated.
+Constraints definition "TOPO_PINSET_TYPE" levels updated.
+Constraints definition "TOPO_PINSET_PINS" levels updated.
+Constraints definition "TOPO_NET_ECLASS" levels updated.
+Constraints definition "TOPO_NET_PCLASS" levels updated.
+Constraints definition "TOPO_XTALK" levels updated.
+Constraints definition "TOPO_XTALK_STATE" levels updated.
+Constraints definition "TOPO_CSET" levels updated.
+Constraints definition "TOPO_DESC" levels updated.
+Constraints definition "TOPO_BOUNDARY_PINS" levels updated.
+Constraints definition "TOPO_USERDEFINED" levels updated.
+Constraints definition "TOPO_PIN_GROUP" levels updated.
+Constraints definition "TOPO_ORIG_NAME" levels updated.
+Constraints definition "TOPO_DEVICE" levels updated.
+Constraints definition "TOPO_MODEL" levels updated.
+Constraints definition "TOPO_VALUE" levels updated.
+Constraints definition "TOPO_PIN_TYPE" levels updated.
+Constraints definition "TOPO_PIN_NUMBER" levels updated.
+Constraints definition "TOPO_ORDERED" levels updated.
+Constraints definition "STUB_LENGTH" levels updated.
+Constraints definition "MAX_VIAS" levels updated.
+Constraints definition "EXT_LAYER_LENGTH" levels updated.
+Constraints definition "INT_LAYER_LENGTH" levels updated.
+Constraints definition "FT_LAYER" levels updated.
+Constraints definition "FT_TRACE_WIDTH" levels updated.
+Constraints definition "DELAY_TYPE" levels updated.
+Constraints definition "MIN_DELAY" levels updated.
+Constraints definition "MAX_DELAY" levels updated.
+Constraints definition "MATCH_GROUP" levels updated.
+Constraints definition "MATCH_TOLERANCE" levels updated.
+Constraints definition "COMPLEX_FORMULA" levels updated.
+Constraints definition "MAX_STATIC_LO_OVERSHOOT" levels updated.
+Constraints definition "MAX_STATIC_HI_OVERSHOOT" levels updated.
+Constraints definition "MAX_DYN_LO_OVERSHOOT" levels updated.
+Constraints definition "MAX_DYN_HI_OVERSHOOT" levels updated.
+Constraints definition "MAX_HIGH_RINGBACK" levels updated.
+Constraints definition "MAX_LOW_RINGBACK" levels updated.
+Constraints definition "MONOTONIC_EDGE" levels updated.
+Constraints definition "IMPEDANCE" levels updated.
+Constraints definition "IMPEDANCE_TOL" levels updated.
+Constraints definition "SIM_SETTINGS" levels updated.
+Constraints definition "SIM_STIM" levels updated.
+Constraints definition "SIM_DELAY_TYPE" levels updated.
+Constraints definition "SIM_MIN_DELAY" levels updated.
+Constraints definition "SIM_MAX_DELAY" levels updated.
+Constraints definition "SIM_MAX_RANGE" levels updated.
+Constraints definition "SIM_DELAY_MATCH" levels updated.
+Constraints definition "SIM_DELAY_OFFSET" levels updated.
+Constraints definition "SIM_MATCH_TOL" levels updated.
+Constraints definition "IO_STANDARD" levels updated.
+Constraints definition "RB_REMAP_CL_DEF" levels updated.
+Constraints definition "RB_REMAP_DEF_INS" levels updated.
+Constraints definition "RB_DATA" levels updated.
+Constraints definition "Z_TRACE_TO_TRACE" parents updated.
+Constraints definition "Z_TRACE_TO_PAD" parents updated.
+Constraints definition "Z_TRACE_TO_VIA" parents updated.
+Constraints definition "Z_TRACE_TO_PLANE" parents updated.
+Constraints definition "Z_SMDPAD_TO_TRACE" parents updated.
+Constraints definition "MATCH_GROUP" parents updated.
+Constraints definition "MATCH_TOLERANCE" parents updated.
+Constraints definition "MAX_STATIC_LO_OVERSHOOT" parents updated.
+Constraints definition "MAX_STATIC_HI_OVERSHOOT" parents updated.
+Constraints definition "MAX_DYN_LO_OVERSHOOT" parents updated.
+Constraints definition "MAX_DYN_HI_OVERSHOOT" parents updated.
+Constraints definition "MAX_HIGH_RINGBACK" parents updated.
+Constraints definition "MAX_LOW_RINGBACK" parents updated.
+Constraints definition "SIM_DELAY_MATCH" parents updated.
+Constraints definition "SIM_DELAY_OFFSET" parents updated.
+Constraints definition "SIM_MATCH_TOL" parents updated.
+Constraints definition "DP_SPACE" parents updated.
+Constraints definition "RB_REMAP_CL_DEF" parents updated.
+Constraints definition "RB_REMAP_DEF_INS" parents updated.
+Constraints definition "RB_DATA" parents updated.
+AfterGlobalUpgrade took 0ms, 0s
+

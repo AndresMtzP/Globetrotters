@@ -1,0 +1,11 @@
+
+/* Sym: 84317824  Path 1: Schematic1  Page 1: Schematic1(1) */
+CHANGE 'Schematic1(1)' 	INSTANCE
+  SELECT EXT XCMP77                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '1'                /* was:  */
+  SELECT EXT XCMP78                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '2'                /* was:  */

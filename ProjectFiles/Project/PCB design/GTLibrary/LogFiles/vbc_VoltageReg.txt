@@ -1,0 +1,20 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_VoltageReg
+	Symbol GS1084
+	Symbol ICL7663
+	Symbol LM105
+	Symbol LM2927
+	Symbol LM2984
+	Symbol UA723
+	Symbol VREGADJ
+	Symbol VREGFIX
+SLB2LMC utility complete

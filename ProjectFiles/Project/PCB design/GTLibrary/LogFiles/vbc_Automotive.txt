@@ -1,0 +1,1428 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Automotive
+	Symbol A_1P1TC
+	Symbol A_1P1TO
+	Symbol A_1P2T
+	Symbol A_1P2TR
+	Symbol A_1P3T
+	Symbol A_1P4T
+	Symbol A_1PRC
+	Symbol A_1PRO
+	Symbol A_2P2TR
+	Symbol A_2PMX
+	Symbol A_3PMX
+	Symbol A_4PMX
+	Symbol A_AAALARM
+	Symbol A_ABSC
+	Symbol A_AC_TACH
+	Symbol A_ALLPASS1
+	Symbol A_ALLPASS2
+	Symbol A_ALLPASS3
+	Symbol A_ATALARM
+	Symbol A_BACKLASH
+	Symbol A_BANGBANG
+	Symbol A_BIQUAD
+	Symbol A_BLKBODY
+	Symbol A_CCR
+	Symbol A_CCTPM
+	Symbol A_CLIPINT
+	Symbol A_COND
+	Symbol A_COST
+	Symbol A_CU_WIRE
+	Symbol A_DC_M30
+	Symbol A_DC_MA
+	Symbol A_DC_MF
+	Symbol A_DC_TACH
+	Symbol A_DG4T
+	Symbol A_DL_COMP
+	Symbol A_DZON
+	Symbol A_FUSE
+	Symbol A_GAINDLY
+	Symbol A_GAINZD
+	Symbol A_HALLSW
+	Symbol A_HSW
+	Symbol A_IALARM
+	Symbol A_IGRATE
+	Symbol A_LAG
+	Symbol A_LAMP1F
+	Symbol A_LAMP2F21-5
+	Symbol A_LEADACID
+	Symbol A_LEADLAG
+	Symbol A_LIM
+	Symbol A_MAGPICK
+	Symbol A_MAX
+	Symbol A_MIN
+	Symbol A_MLOAD
+	Symbol A_MSW
+	Symbol A_MULT
+	Symbol A_N1211-2
+	Symbol A_PALARM
+	Symbol A_PERSW
+	Symbol A_PI_COMP
+	Symbol A_RAPOLY1
+	Symbol A_RAPOLY2
+	Symbol A_RAPOLY3
+	Symbol A_REEDSW
+	Symbol A_REL1_2P
+	Symbol A_SINT
+	Symbol A_SQRTC
+	Symbol A_SUM
+	Symbol A_TCAP
+	Symbol A_THERMRC
+	Symbol A_TRES
+	Symbol A_VALARM
+	Symbol A_WIRE
+SLB2LMC utility complete
