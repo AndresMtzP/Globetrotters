@@ -1,0 +1,28 @@
+Cell Status
+
+Cell Type:        Package Cell
+Cell Name:        ALPS 15C50KX2B50K
+Cell Description: 
+Number Of Layers: 2
+Units:            th
+
+Package Group:    General
+Mount Type:       Through
+Number of Pins:   7
+        Placed:   9
+Height:           0
+Underside Space:  0
+
+Pin Padstack Names:
+        (9)  Square 85 Drill 47
+
+Electronic Objects Used:
+        Assembly Outline       Mount Side
+        Assembly Part Number
+        Assembly Ref. Des.
+        Placement Outline
+        Silkscreen Outline       Mount Side
+        Silkscreen Ref. Des.     Mount Side
+
+Requirements needed before the cell can be saved:
+        -2 pins are not placed.

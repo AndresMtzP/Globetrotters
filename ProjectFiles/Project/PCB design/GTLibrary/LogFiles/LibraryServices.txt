@@ -1,0 +1,16 @@
+
+                                Library Services
+                                ----------------
+
+                         07:36 AM Friday, March 23, 2012
+            Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\PL_Lib.lmc
+
+
+
+Operation: Deleting Cells from Library 'E:\Dropbox\Pulp Logic\Library\PL_Lib\PL_Lib.lmc',
+           Cell partition 'jpk_Fuse'
+
+Cell '.1uF_cer_std' was deleted
+
+Operation completed successfully.
+---------------------------------

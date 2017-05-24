@@ -1,0 +1,122 @@
+<!--*********************************************************
+	Developer: Leon Tran
+	Date: 04/04/17
+	Contact: leontran95@gmail.com
+	
+	View of the GUI. Has 4 Elements: 
+		-MapBox
+		-InfoTable
+		-Image Slides
+		-Modal for Available Location
+		
+**********************************************************-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- bootstrap & jquery references -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="./js.cookie.js"></script>
+
+  <!-- GUI Aesthetics -->
+  <link rel="stylesheet" type="text/css" href="./GUIStyle.css">
+</head>
+
+<body>
+	<div id='map'></div>				
+
+	<div class="outerBox">
+		<div class= "tableWrapper" id ="mainInfo">
+			 <!-- Information about the Location -->
+			<div class ="row noPaddingHeader">
+				<div class= "col-xs-12" id = "Grid00_Content"></div>
+			</div>
+			<div class ="row noPaddingHeader">
+				<div class= "rowHeader col-xs-6" id = "Grid10_Header"></div>
+				<div class= "rowHeader col-xs-6" id = "Grid11_Header"></div>
+				<div class= "rowInfo col-xs-6" id = "Grid10_Content"></div>
+				<div class= "rowInfo col-xs-6" id = "Grid11_Content"></div>
+			</div>
+			<div class ="row noPaddingHeader">
+				<div class= "rowHeader col-xs-6" id = "Grid20_Header"></div>
+				<div class= "rowHeader col-xs-6" id = "Grid21_Header"></div>
+				<div class= "rowInfo col-xs-6" id = "Grid20_Content"></div>
+				<div class= "rowInfo col-xs-6" id = "Grid21_Content"></div>
+			</div>
+			<div class ="row noPaddingHeader">
+				<div class= "rowHeader col-xs-12" id = "Grid30_Header"></div>
+				<div class= "rowInfo col-xs-12" id = "Grid30_Content"></div>
+			</div>
+		</div>
+		
+		<div class= "tableWrapper" id = "details">
+			<!-- Information about the Location -->
+			<div class ="row noPaddingHeader">
+				<div class= "col-xs-12" id = "Grid00D_Content"></div>
+			</div>
+			<div class ="row noPaddingHeader">
+				<div class= "rowHeader col-xs-12" id = "Grid10D_Header"></div>
+				<div class= "rowInfo col-xs-12" id = "Grid10D_Content"></div>
+			</div>
+			<div class ="row noPaddingHeader">
+				<div class= "rowHeader col-xs-12" id = "Grid20D_Header"></div>
+				<div class= "rowInfo col-xs-12" id = "Grid20D_Content"></div>
+			</div>
+			<div class ="row noPaddingHeader">
+				<div class= "rowHeader col-xs-12" id = "Grid30D_Header"></div>
+				<div class= "rowInfo col-xs-12" id = "Grid30D_Content"></div>
+			</div>
+		</div>
+				
+		<!-- Wrapper for Slideshow -->											
+		<div class="SlideShowContainer">
+			<img class="imgSlides" src="./Icons/unavailable.png" onerror="this.src='./Icons/unavailable.png';" id="Image0">
+			<img class="imgSlides" src="./Icons/unavailable.png" onerror="this.src='./Icons/unavailable.png';" id="Image1">
+			<img class="imgSlides" src="./Icons/unavailable.png" onerror="this.src='./Icons/unavailable.png';" id="Image2">
+		</div>
+	</div>
+
+	<!-- The Location List -->
+	<div id="selectionModal" class="modal">
+	  <!-- Modal content -->
+	  <div class="modal-content">
+		<div class="modal-header">Available Locations</div>
+		<div class="modal-body">
+			<table id = "locationList">
+				<tr><th id ="Loc0Num"></th><td id ="Loc0"></td></tr>
+				<tr><th id ="Loc1Num"></th><td id ="Loc1"></td></tr>
+				<tr><th id ="Loc2Num"></th><td id ="Loc2"></td></tr>
+				<tr><th id ="Loc3Num"></th><td id ="Loc3"></td></tr>
+				<tr><th id ="Loc4Num"></th><td id ="Loc4"></td></tr>
+				<tr><th id ="Loc5Num"></th><td id ="Loc5"></td></tr>
+				<tr><th id ="Loc6Num"></th><td id ="Loc6"></td></tr>
+				<tr><th id ="Loc7Num"></th><td id ="Loc7"></td></tr>
+				<tr><th id ="Loc8Num"></th><td id ="Loc8"></td></tr>
+				<tr><th id ="Loc9Num"></th><td id ="Loc9"></td></tr>
+			</table>
+		</div>
+	  </div>
+	</div>
+	 
+	<!-- The Location List -->
+<!-- 	<div id="helpModal" class="modal">
+ -->	  <!-- Modal content -->
+	 <!--  <div class="modal-content" id = "helpContentModal">
+		<div class="modal-header">Help</div>
+		<div class="modal-body" id = "helpBodyModal">	
+			<img src="./Icons/help.gif" id="helpImage">
+		</div>
+	  </div>
+	 </div> -->
+
+ <!-- Google Map Controls -->
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6FWGMSGbUXgrWl_YbvBsLzWAJNA7mhzg"></script> 
+<script src = "./GUIFunctions.js"> </script>
+
+</body>
+</html>

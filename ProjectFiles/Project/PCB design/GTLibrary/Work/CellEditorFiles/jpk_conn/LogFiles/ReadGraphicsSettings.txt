@@ -1,0 +1,352 @@
+
+                         Read Graphics Settings Log File
+                         -------------------------------
+
+                       02:03 PM Monday, November 12, 2007
+                                   Job Name: 
+
+
+Attempting to read Graphics Settings file <Graphics Settings.hkp>
+
+The settings file full pathname is <C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_conn\Config\Graphics Settings.hkp>
+
+Error: Unknown keyword <..BUSUNPACKEDAREA_HZD_CLR> at line # 1410
+Error: Bad keyword hierarchy above line # 1412
+   The following keyword construct was ignored:
+  ..BUSBITWIDTH_HZD_CLR 16777215 
+
+Error: Unknown keyword <..BUSPIN_DISTANCE_HZD_CLR> at line # 1412
+Error: Keyword <..TARGETAREAS_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1416
+Error: Keyword <..ROUTETARGETS_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1417
+Error: Keyword <..SLIS_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1418
+Error: Keyword <..SLISUMMARY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1419
+Error: Keyword <..CLEARANCE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1420
+Error: Keyword <..ELECNET_LENGTHSUMMARY_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1421
+Error: Keyword <..ELECNET_DELAYSUMMARY_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1422
+Error: Keyword <..SIGNALPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1423
+Error: Keyword <..PLANEPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1424
+Error: Keyword <..DRILLPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1425
+Error: Keyword <..SOLDERMASKPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1426
+Error: Keyword <..SOLDERMASKCL_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1427
+Error: Keyword <..EXPOSUREPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1428
+Error: Keyword <..SILKSCREENPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1429
+Error: Keyword <..SIGNALSIZETRACEWIDTH_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1430
+Error: Keyword <..SIGNALSIZETRACELENGTH_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1431
+Error: Keyword <..SIGNALSIZETRACE_L_W_R_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1432
+Error: Keyword <..SIGNALSIZETEXT_S_W_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1433
+Error: Keyword <..THERMALSPOKE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1434
+Error: Keyword <..DRILLMINANNRING_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1435
+Error: Keyword <..MINHOLESIZE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1436
+Error: Keyword <..HOLEREGISTRATION_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1437
+Error: Keyword <..SOLKMASKCOVERAGE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1438
+Error: Keyword <..SILKSCREENSIZE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1439
+Error: Keyword <..SOLDERPASTEPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1440
+Error: Keyword <..ONLINEPROXIMITY_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1441
+Error: Keyword <..SEVERE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1442
+Error: Keyword <..WARNING_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1443
+Error: Keyword <..MODERATE_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1444
+Error: Keyword <..SIGNALRATIOSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1445
+Error: Keyword <..SIGNALPADENTRYSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1446
+Error: Keyword <..SIGNALACUTEASLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1447
+Error: Keyword <..SIGNALPAD2PADSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1448
+Error: Keyword <..PLANERATIOSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1449
+Error: Keyword <..PLANEPADENTRYSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1450
+Error: Keyword <..PLANEACUTEASLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1451
+Error: Keyword <..PLANEPAD2PADSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1452
+Error: Keyword <..SOLDERMASKRATIOSLIVER_HZD_CLR> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1453
+Error: Keyword <..COMPONENT_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1454
+Error: Keyword <..OPENFANOUTS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1455
+Error: Keyword <..NETOPENCOUNTS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1456
+Error: Keyword <..TRACEWIDTH_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1457
+Error: Keyword <..PADENTRY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1458
+Error: Keyword <..LAYERCONSTRAINT_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1459
+Error: Keyword <..VIASPERNET_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1460
+Error: Keyword <..VIAUSAGE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1461
+Error: Keyword <..MULTIVIAPADENTRY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1462
+Error: Keyword <..VIAGRID_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1463
+Error: Keyword <..TEARDROP_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1464
+Error: Keyword <..ROUTEGRID_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1465
+Error: Keyword <..JUMPERGRID_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1466
+Error: Keyword <..TESTPOINTGRID_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1467
+Error: Keyword <..PLACEMENTGRID_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1468
+Error: Keyword <..PLACEMENTROTATE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1469
+Error: Keyword <..STUB_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1470
+Error: Keyword <..MAXLENGTH_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1471
+Error: Keyword <..GROUPMATCHLENGTH_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1472
+Error: Keyword <..LENGTHSUMMARY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1473
+Error: Keyword <..MAXDELAY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1474
+Error: Keyword <..GROUPMATCHDELAY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1475
+Error: Keyword <..DELAYSUMMARY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1476
+Error: Keyword <..FORMULAS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1477
+Error: Keyword <..PARALLELISM_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1478
+Error: Keyword <..CROSSTALK_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1479
+Error: Keyword <..PROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1480
+Error: Keyword <..HANGERS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1481
+Error: Keyword <..TRACELOOPS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1482
+Error: Keyword <..TRACEWIDTHS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1483
+Error: Keyword <..PLANEISLANDS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1484
+Error: Keyword <..SINGLEPOINTNETS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1485
+Error: Keyword <..PARTIALNETS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1486
+Error: Keyword <..DANGLING_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1487
+Error: Keyword <..UNPLATEDCONNECTEDPINS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1488
+Error: Keyword <..VIASUNDERPARTS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1489
+Error: Keyword <..TESTPOINTCENTERS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1490
+Error: Keyword <..VIASUNDERSMDPADS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1491
+Error: Keyword <..MINANNULARRING_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1492
+Error: Keyword <..MISSINGCONDPADS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1493
+Error: Keyword <..MISSINGMASKPADS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1494
+Error: Keyword <..MISSINGPASTEPADS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1495
+Error: Keyword <..VERIFY_UNABLETOSIMULATE_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1496
+Error: Keyword <..VERIFY_OVERSHOOT_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1497
+Error: Keyword <..VERIFY_RINGBACK_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1498
+Error: Keyword <..VERIFY_NONMONOTONIC_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1499
+Error: Keyword <..VERIFY_CHAR_IMPEDANCE_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1500
+Error: Keyword <..VERIFY_MAXMINSIMDELAYS_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1501
+Error: Keyword <..VERIFY_MATCHEDSIMDELAYS_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1502
+Error: Keyword <..VERIFY_SIMCROSSTALK_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1503
+Error: Keyword <..VERIFY_SIMDELAYSUMMARY_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1504
+Error: Keyword <..VERIFY_SIM_XTALK_SUM_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1505
+Error: Keyword <..UNABLETOSIMULATE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1506
+Error: Keyword <..WRCINVALIDSTATE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1507
+Error: Keyword <..WRCINCOMPLETE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1508
+Error: Keyword <..NETSNEEDSIM_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1509
+Error: Keyword <..WRCOVERSHOOT_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1510
+Error: Keyword <..WRCUNDERSHOOT_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1511
+Error: Keyword <..WRCNONMONOTONIC_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1512
+Error: Keyword <..WRCDELAYSUMMARY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1513
+Error: Keyword <..WRCTOFDELAY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1514
+Error: Keyword <..WRCCROSSTALK_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1515
+Error: Keyword <..DPCONVERGENCE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1516
+Error: Keyword <..DPCONVERGENCETOL_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1517
+Error: Keyword <..DPCLEARANCE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1518
+Error: Keyword <..DPDELAYTOL_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1519
+Error: Keyword <..DPLENGTHTOL_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1520
+Error: Keyword <..BUSNETLINESPAN_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1521
+Error: Keyword <..BUSSPACING_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1522
+Error: Bad constant value <..BUSUNPACKEDAREA_HZD_ON>
+   in keyword <..BUSSPACING_HZD_ON> at line # 1523
+Error: Too many arguments <2>
+   in keyword <..BUSSPACING_HZD_ON> above line # 1523
+Error: Keyword <..BUSBITWIDTH_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1524
+Error: Bad constant value <..BUSPIN_DISTANCE_HZD_ON>
+   in keyword <..BUSBITWIDTH_HZD_ON> at line # 1525
+Error: Bad constant value <..BUSMIN_LENGTH_HZD_ON>
+   in keyword <..BUSBITWIDTH_HZD_ON> at line # 1526
+Error: Bad constant value <..BUSSHIELDING_HZD_ON>
+   in keyword <..BUSBITWIDTH_HZD_ON> at line # 1527
+Error: Too many arguments <4>
+   in keyword <..BUSBITWIDTH_HZD_ON> above line # 1527
+Error: Keyword <..EPVIO_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1528
+Error: Keyword <..TARGETAREAS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1529
+Error: Keyword <..ROUTETARGETS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1530
+Error: Keyword <..SLIS_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1531
+Error: Keyword <..SLISUMMARY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1532
+Error: Keyword <..CLEARANCE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1533
+Error: Keyword <..ELECNET_LENGTHSUMMARY_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1534
+Error: Keyword <..ELECNET_DELAYSUMMARY_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1535
+Error: Keyword <..SIGNALPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1536
+Error: Keyword <..PLANEPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1537
+Error: Keyword <..DRILLPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1538
+Error: Keyword <..SOLDERMASKPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1539
+Error: Keyword <..SOLDERMASKCL_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1540
+Error: Keyword <..EXPOSUREPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1541
+Error: Keyword <..SILKSCREENPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1542
+Error: Keyword <..SIGNALSIZETRACEWIDTH_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1543
+Error: Keyword <..SIGNALSIZETRACELENGTH_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1544
+Error: Keyword <..SIGNALSIZETRACE_L_W_R_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1545
+Error: Keyword <..SIGNALSIZETEXT_S_W_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1546
+Error: Keyword <..THERMALSPOKE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1547
+Error: Keyword <..DRILLMINANNRING_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1548
+Error: Keyword <..MINHOLESIZE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1549
+Error: Keyword <..HOLEREGISTRATION_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1550
+Error: Keyword <..SOLKMASKCOVERAGE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1551
+Error: Keyword <..SILKSCREENSIZE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1552
+Error: Keyword <..SOLDERPASTEPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1553
+Error: Keyword <..ONLINEPROXIMITY_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1554
+Error: Keyword <..SIGNALRATIOSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1555
+Error: Keyword <..SIGNALPADENTRYSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1556
+Error: Keyword <..SIGNALACUTEASLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1557
+Error: Keyword <..SIGNALPAD2PADSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1558
+Error: Keyword <..PLANERATIOSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1559
+Error: Keyword <..PLANEPADENTRYSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1560
+Error: Keyword <..PLANEACUTEASLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1561
+Error: Keyword <..PLANEPAD2PADSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1562
+Error: Keyword <..SOLDERMASKRATIOSLIVER_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1563
+Error: Keyword <..HAZARD_ONLINE_COLLAPSED> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1564
+Error: Keyword <..HAZARD_BATCH_COLLAPSED> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1565
+Error: Keyword <..HAZARD_DFFBATCH_COLLAPSED> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1566
+Error: Keyword <..HAZARD_SIM_COLLAPSED> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1567
+Error: Keyword <..COLOR_BY_HAZARD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1568
+Error: Keyword <..HAZARD_GRAPHICS_ENABLED> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1569
+Error: Keyword <..HAZARD_SHADOWMODE_ENABLED> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1570
+Error: Keyword <..SHOW_SEVERE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1571
+Error: Keyword <..SHOW_MODERATE_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1572
+Error: Keyword <..SHOW_WARNING_HZD_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1573
+Error: Keyword <..HZD_COLORBYSEVERITY_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1574
+Error: Keyword <..SLVR_HZD_FILL_ON> not allowed
+   in keyword <..EPVIO_HZD_CLR> at line # 1575
+Error: Bad keyword hierarchy above line # 1578
+   The following keyword construct was ignored:
+  ..EPVIO_HZD_CLR 16777215 
+
+Error: Bad constant value <..BUS_ALL_UNPACKEDAREAS_ON>
+   in keyword <..BUS_ALL_RT_PLNG_ITEMS_ENABLED> at line # 1669
+Error: Too many arguments <2>
+   in keyword <..BUS_ALL_RT_PLNG_ITEMS_ENABLED> above line # 1669
+
+Errors encountered: 168

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         11:54 AM Thursday, May 28, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_coils\Drv_Coil_1.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         11:58 AM Thursday, May 28, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_coils\Drv_Coil_1.pcb
+

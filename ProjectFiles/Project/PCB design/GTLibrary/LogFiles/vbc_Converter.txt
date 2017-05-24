@@ -1,0 +1,425 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Converter
+	Symbol AD654
+	Symbol AD7247
+	Symbol AD9002
+	Symbol AD9012
+	Symbol BT121KPJ50
+	Symbol BT218KP20
+	Symbol CD4041
+	Symbol MAX543
+	Symbol MC12040
+	Symbol MC4044
+	Symbol TSC9400
+	Symbol VFC62
+	Symbol XR4151
+SLB2LMC utility complete

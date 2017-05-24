@@ -1,0 +1,5 @@
+
+Expedition PCB - Pinnacle Version: 05.010425.03 2000C
+
+Successfully read the design.
+The tsim executable tsim.exe does not exist!

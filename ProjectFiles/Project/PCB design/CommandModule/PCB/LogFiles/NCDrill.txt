@@ -1,0 +1,23 @@
+ ----------------------------
+|      Drill Engine Log      |
+|          Started           |
+|  Fri Apr 28 16:38:05 2017  |
+ ----------------------------
+
+Removing Output/NCDrill/ThruHolePlated.ncd
+
+Created drill file "Output/NCDrill/ThruHolePlated.ncd" for span from 1 to 2
+Total holes, contours in this file 60, 0
+
+    Tool   Size (IN)    Tolerance (IN)     Plated   Count
+    ----   ---------   -----------------   ------   -----
+     02     0.0230        +/- 0.0030        YES     8
+     01     0.0350        +/- 0.0030        YES     50
+     03     0.1290        +/- 0.0080        YES     2
+
+
+ ----------------------------
+|      Drill Engine Log      |
+|          Finished          |
+|  Fri Apr 28 16:38:05 2017  |
+ ----------------------------

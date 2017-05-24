@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       12:42 PM Thursday, January 27, 2011
+Job Name: C:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_to\TO220_3P_H_PO=1,2,3.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:43 PM Thursday, January 27, 2011
+Job Name: C:\Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_to\TO220_3P_H_PO=1,2,3.pcb
+

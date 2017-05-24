@@ -1,0 +1,9 @@
+
+/* Sym: 93316352  Path 1: Schematic  Page 1: Schematic(1) */
+CHANGE 'Schematic(1)' 	INSTANCE
+  SELECT COMP XCMP18                 /* Reference Desig is R2 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R2'         /* Reference Desig was (null) */
+  SELECT COMP XCMP17                 /* Reference Desig is R1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R1'         /* Reference Desig was (null) */

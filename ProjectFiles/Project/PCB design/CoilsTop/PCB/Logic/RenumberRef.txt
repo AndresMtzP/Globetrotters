@@ -1,0 +1,188 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:14 AM Friday, April 11, 2008
+Job Name: C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:46 AM Friday, April 11, 2008
+Job Name: C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         09:53 AM Friday, April 11, 2008
+Job Name: C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:00 AM Friday, April 11, 2008
+Job Name: C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:32 PM Saturday, October 25, 2008
+Job Name: F:\Logic Root\Hardware\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:56 PM Saturday, October 25, 2008
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Logic Root Module Template\Single_7seg.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         11:46 AM Monday, April 17, 2017
+                   Job Name: C:\temp\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:19 PM Monday, April 17, 2017
+                   Job Name: C:\temp\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:35 PM Monday, April 17, 2017
+                   Job Name: C:\temp\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:50 PM Monday, April 17, 2017
+                   Job Name: C:\temp\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:02 PM Tuesday, April 25, 2017
+                     Job Name: J:\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:03 PM Tuesday, April 25, 2017
+                     Job Name: J:\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:31 PM Tuesday, April 25, 2017
+                     Job Name: J:\CoilsTop\PCB\CoilsTop.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN IMPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:05 PM Tuesday, April 25, 2017
+                     Job Name: J:\CoilsTop\PCB\CoilsTop.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:08 PM Tuesday, April 25, 2017
+                     Job Name: J:\CoilsTop\PCB\CoilsTop.pcb
+

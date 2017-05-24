@@ -1,0 +1,20 @@
+; Version : LOCAL
+; Job     : C:\temp\GT_PowerBoard\PCB\GT_PowerBoard.pcb
+; User    : E217PC08:e217
+; Date    : Sun Apr 30 17:14:00 2017
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Drill / Non-Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T03C0.0950
+%
+M72
+G90
+G93X0Y0
+T03
+X00984Y01575
+X02953
+T00
+M30

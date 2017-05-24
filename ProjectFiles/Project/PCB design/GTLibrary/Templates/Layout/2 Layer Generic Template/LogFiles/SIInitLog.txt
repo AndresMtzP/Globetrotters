@@ -1,0 +1,132 @@
+
+=======================================================================
+SI Initialization Report
+Fri Sep 12 09:19:13 2008
+=======================================================================
+
+Simulation problem(s) found for electrical net : A^^^
+
+    Pin: R7-1 Part Number: Res_1206
+      Value not found
+    Pin: H1-3 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-10 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R7-2 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : B^^^
+
+    Pin: R5-1 Part Number: Res_1206
+      Value not found
+    Pin: H1-4 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-9 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R5-2 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : C^^^
+
+    Pin: R3-1 Part Number: Res_1206
+      Value not found
+    Pin: H1-5 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-8 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R3-2 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : D^^^
+
+    Pin: R8-2 Part Number: Res_1206
+      Value not found
+    Pin: H1-6 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-5 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R8-1 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : dp^^^
+
+    Pin: R1-1 Part Number: Res_1206
+      Value not found
+    Pin: H1-10 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-7 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R1-2 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : E^^^
+
+    Pin: R6-2 Part Number: Res_1206
+      Value not found
+    Pin: H1-7 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-4 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R6-1 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : F^^^
+
+    Pin: R2-2 Part Number: Res_1206
+      Value not found
+    Pin: H1-8 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-2 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R2-1 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : G^^^
+
+    Pin: R4-2 Part Number: Res_1206
+      Value not found
+    Pin: H1-9 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+    Pin: D1-3 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: R4-1 Part Number: Res_1206
+      Value not found
+
+Simulation problem(s) found for electrical net : GND
+
+    Pin: D1-6 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: D1-1 Part Number: 7seg_HDSP7503
+      Unable to find IBIS model for the component : D1.
+    Pin: H1-2 Part Number: 10_pin_dbl_.1sp
+      Unable to find IBIS model for the component : H1.
+
+Simulation cannot be run on this board.
+    There are no supply voltages given for any of the nets.
+      Check supply voltage settings in Net Properties.
+
+IBIS Models Assignment
+======================
+
+    	component has no Part.
+    	component has no Part.
+    D1	Part Number: 7seg_HDSP7503
+       has no simulation model.
+    H1	Part Number: 10_pin_dbl_.1sp
+       has no simulation model.
+    R1	Part Number: Res_1206
+      0.0000ohm resistor
+    R2	Part Number: Res_1206
+      0.0000ohm resistor
+    R3	Part Number: Res_1206
+      0.0000ohm resistor
+    R4	Part Number: Res_1206
+      0.0000ohm resistor
+    R5	Part Number: Res_1206
+      0.0000ohm resistor
+    R6	Part Number: Res_1206
+      0.0000ohm resistor
+    R7	Part Number: Res_1206
+      0.0000ohm resistor
+    R8	Part Number: Res_1206
+      0.0000ohm resistor

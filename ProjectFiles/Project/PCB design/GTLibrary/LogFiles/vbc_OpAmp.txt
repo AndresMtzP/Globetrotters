@@ -1,0 +1,680 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_OpAmp
+	Symbol AD844
+	Symbol CA3140
+	Symbol CLC200
+	Symbol L144
+	Symbol LM709
+	Symbol LT1223
+	Symbol LTC1050
+	Symbol OPAMP10BH
+	Symbol OPAMP5
+	Symbol OPAMP6DB
+	Symbol OPAMP6DC
+	Symbol OPAMP6UI
+	Symbol OPAMP7C
+	Symbol OPAMP7D
+	Symbol OPAMP7DB
+	Symbol OPAMP7U
+	Symbol OPAMP8CX
+	Symbol OPAMP8D
+	Symbol OPAMP8D3
+	Symbol OPAMP8DD
+	Symbol OPAMP8SUB
+	Symbol OPAMP8U
+	Symbol OPAMP8U3
+	Symbol OPAMP8U3C
+	Symbol OPAMP8UI
+	Symbol OPAMP8UO
+	Symbol TL070
+	Symbol TLC261
+SLB2LMC utility complete

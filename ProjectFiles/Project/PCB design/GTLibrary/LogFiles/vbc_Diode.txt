@@ -1,0 +1,374 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Diode
+	Symbol DIODE
+	Symbol DIODE_BI
+	Symbol DIODE_CTN
+	Symbol DIODE_CTP
+	Symbol DIODE_DBL
+	Symbol SCHOTTKY
+	Symbol SCHOTTKY2
+	Symbol SCHOTTKY_DBL
+	Symbol VARACTOR
+	Symbol ZENER
+SLB2LMC utility complete

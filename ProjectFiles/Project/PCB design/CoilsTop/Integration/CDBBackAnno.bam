@@ -1,0 +1,67 @@
+
+/* Sym: 92457440  Path 1: Schematic1  Page 1: Schematic1(1) */
+CHANGE 'Schematic1(1)' 	INSTANCE
+  SELECT COMP XCMP21                 /* Reference Desig is R1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R1'         /* Reference Desig was (null) */
+  SELECT COMP XCMP20                 /* Reference Desig is D2 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'D2'         /* Reference Desig was (null) */
+  SELECT COMP XCMP19                 /* Reference Desig is D1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'D1'         /* Reference Desig was (null) */
+  SELECT EXT XCMP18                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '2'                /* was:  */
+  SELECT EXT XCMP17                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '4'                /* was:  */
+  SELECT EXT XCMP16                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '7'                /* was:  */
+  SELECT EXT XCMP15                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '10'                /* was:  */
+  SELECT EXT XCMP14                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '8'                /* was:  */
+  SELECT EXT XCMP13                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '6'                /* was:  */
+  SELECT EXT XCMP12                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '5'                /* was:  */
+  SELECT EXT XCMP11                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '9'                /* was:  */
+  SELECT COMP XCMP28                 /* Reference Desig is R4 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R4'         /* Reference Desig was (null) */
+  SELECT COMP XCMP27                 /* Reference Desig is R3 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R3'         /* Reference Desig was (null) */
+  SELECT COMP XCMP26                 /* Reference Desig is D4 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'D4'         /* Reference Desig was (null) */
+  SELECT COMP XCMP25                 /* Reference Desig is D3 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'D3'         /* Reference Desig was (null) */
+  SELECT EXT XCMP24                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '1'                /* was:  */
+  SELECT EXT XCMP23                  /* Reference Desig is J1 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'J1'         /* Reference Desig was (null) */
+    PIN_PARAM 'P1' 4 = '3'                /* was:  */
+  SELECT COMP XCMP22                 /* Reference Desig is R2 */
+    PARAM 23 = DELETE                    /* Component Fix flag */
+    PARAM 15 = 'R2'         /* Reference Desig was (null) */

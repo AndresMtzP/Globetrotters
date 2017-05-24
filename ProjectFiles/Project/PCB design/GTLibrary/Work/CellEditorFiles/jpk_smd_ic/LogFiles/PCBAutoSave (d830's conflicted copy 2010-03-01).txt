@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         08:12 AM Friday, June 05, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_smd_ic\QFN8.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         09:46 AM Friday, June 05, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_smd_ic\QFN8.pcb
+

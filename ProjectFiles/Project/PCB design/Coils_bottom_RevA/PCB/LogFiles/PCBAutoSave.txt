@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       01:43 PM Wednesday, April 26, 2017
+            Job Name: C:\temp\coilbottom_final\PCB\Coils_bottom_2.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       01:44 PM Wednesday, April 26, 2017
+            Job Name: C:\temp\coilbottom_final\PCB\Coils_bottom_2.pcb
+

@@ -1,0 +1,493 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Buffer
+	Symbol BUFF
+	Symbol BUFF_OC
+	Symbol BUFF_ST
+	Symbol BUFFD
+	Symbol BUFFD_OC
+	Symbol BUFFD_ST
+	Symbol BUFFHI_3S
+	Symbol BUFFLO_3S
+	Symbol INV
+	Symbol INV_OC
+	Symbol INV_ST
+	Symbol INVD
+	Symbol INVD_OC
+	Symbol INVD_ST
+	Symbol LH0033A
+	Symbol LM110
+	Symbol LT1010
+SLB2LMC utility complete

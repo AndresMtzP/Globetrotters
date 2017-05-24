@@ -1,0 +1,408 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_AnalogSW
+	Symbol AH5011C
+	Symbol DG211
+	Symbol HI201
+	Symbol HI201HS
+	Symbol SWITCH4
+	Symbol SWITCH6
+	Symbol SWITCH7
+	Symbol SWITCH7A
+	Symbol SWITCH8A
+	Symbol SWITCH8B
+	Symbol SWITCH9A
+	Symbol SWITCH9B
+SLB2LMC utility complete

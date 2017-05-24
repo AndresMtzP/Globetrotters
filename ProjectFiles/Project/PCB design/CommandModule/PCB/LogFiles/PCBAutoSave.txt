@@ -1,0 +1,16 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         03:01 PM Friday, April 28, 2017
+              Job Name: C:\temp\CommandModule\PCB\CommandModule.pcb
+
+Autosave pending at 18:08:02 Fri  Attempting...
+Autosave completed successfully.  18:08:02 Fri
+
+                               Autosave log closed
+                               -------------------
+
+                         06:58 PM Friday, April 28, 2017
+              Job Name: C:\temp\CommandModule\PCB\CommandModule.pcb
+

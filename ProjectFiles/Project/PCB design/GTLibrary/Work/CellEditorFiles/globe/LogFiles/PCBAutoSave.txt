@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         03:29 PM Sunday, April 30, 2017
+     Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\globe\TerminalBlock.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         03:31 PM Sunday, April 30, 2017
+     Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\globe\TerminalBlock.pcb
+

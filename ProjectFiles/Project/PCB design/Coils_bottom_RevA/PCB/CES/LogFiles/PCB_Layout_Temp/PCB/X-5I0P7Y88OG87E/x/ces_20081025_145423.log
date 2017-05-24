@@ -1,0 +1,15 @@
+Sat Oct 25 14:54:23 2008
+
+Note: ICDB version: ver.1.003 (build 310529 created 2008-10-07 17:07:17)
+Note: ICDB engine version: ver.1.055 (build 310529 created 2008-10-07 17:07:17)
+CES client info: address: x-5i0p7y88og87e:x:2260, session id: 0x20
+List of all iCDB clients:
+ => Client info: address: x-5i0p7y88og87e:x:764, session id: 0x1F, offline: 0, offline seconds: 0
+    (*) Sub-client: Expedition PCB_4640593
+    (*) Sub-client: ExpeditionCrossProber
+ => Client info: address: x-5i0p7y88og87e:x:2260, session id: 0x20, offline: 0, offline seconds: 0
+    (*) Sub-client: x (BE CES)
+Loading C:\MentorGraphics\2007EE\SDD_HOME\standard\ce_ee.cns
+Note: Central Library: C:\My Data\Design\Mentor\Libs\JPK_Lib
+Note: iCDB connection status changed to: OnLine
+Note: iCDB server address: localhost

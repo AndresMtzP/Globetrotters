@@ -1,0 +1,85 @@
+
+Schematic Net Listing
+-------------------------------- -------------------------------- --- --- --- --- --- ---- --- - -------------------- ---
+Part                             Reference                        Sym Sub Pin Eqv Sub Pin  Pin Phantom    Net         Net
+Number                           Designator                       Num Typ Id  Cls Pak Text Num Flag       Name        Num
+-------------------------------- -------------------------------- --- --- --- --- --- ---- --- - -------------------- ---
+14_pin_dbl_.1sp                  H2                                 1   1   1   1   1 1      1 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   2   2   1 2      2 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   3   3   1 3      3 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   4   4   1 4      4 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   5   5   1 5      5 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   6   6   1 6      6 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   7   7   1 7      7 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   8   8   1 8      8 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1   9   9   1 9      9 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1  10  10   1 10    10 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1  11  11   1 11    11 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1  12  12   1 12    12 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1  13  13   1 13    13 0                        0
+14_pin_dbl_.1sp                  H2                                 1   1  14  14   1 14    14 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   1   1   1 1      1 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   2   2   1 2      2 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   3   3   1 3      3 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   4   4   1 4      4 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   5   5   1 5      5 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   6   6   1 6      6 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   7   7   1 7      7 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   8   8   1 8      8 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1   9   9   1 9      9 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  10  10   1 10    10 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  11  11   1 11    11 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  12  12   1 12    12 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  13  13   1 13    13 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  14  14   1 14    14 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  15  15   1 15    15 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  16  16   1 16    16 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  17  17   1 17    17 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  18  18   1 18    18 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  19  19   1 19    19 0                        0
+20_pin_dbl_.1sp                  H3                                 3   1  20  20   1 20    20 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   1   1   1 1      1 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   2   2   1 2      2 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   3   3   1 3      3 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   4   4   1 4      4 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   5   5   1 5      5 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   6   6   1 6      6 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   7   7   1 7      7 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   8   8   1 8      8 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1   9   9   1 9      9 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  10  10   1 10    10 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  11  11   1 11    11 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  12  12   1 12    12 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  13  13   1 13    13 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  14  14   1 14    14 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  15  15   1 15    15 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  16  16   1 16    16 0                        0
+Schematic Net Listing
+-------------------------------- -------------------------------- --- --- --- --- --- ---- --- - -------------------- ---
+Part                             Reference                        Sym Sub Pin Eqv Sub Pin  Pin Phantom    Net         Net
+Number                           Designator                       Num Typ Id  Cls Pak Text Num Flag       Name        Num
+-------------------------------- -------------------------------- --- --- --- --- --- ---- --- - -------------------- ---
+40_pin_dbl_.1sp                  H1                                 2   1  17  17   1 17    17 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  18  18   1 18    18 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  19  19   1 19    19 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  20  20   1 20    20 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  21  21   1 21    21 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  22  22   1 22    22 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  23  23   1 23    23 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  24  24   1 24    24 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  25  25   1 25    25 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  26  26   1 26    26 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  27  27   1 27    27 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  28  28   1 28    28 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  29  29   1 29    29 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  30  30   1 30    30 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  31  31   1 31    31 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  32  32   1 32    32 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  33  33   1 33    33 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  34  34   1 34    34 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  35  35   1 35    35 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  36  36   1 36    36 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  37  37   1 37    37 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  38  38   1 38    38 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  39  39   1 39    39 0                        0
+40_pin_dbl_.1sp                  H1                                 2   1  40  40   1 40    40 0                        0

@@ -1,0 +1,75 @@
+[2017.04.25 14:59:51] [0000m.00s.031ms] [0] WELCOME
+[2017.04.25 14:59:51] [0000m.00s.031ms] [1] iCDB Server ver.1.091, 0XsVZbnMvCAokxoWCsr9pA, build:426267 created 2010-10-27 08:24:21, sources stamp:0XsVZbnMvCAokxoWCsr9pA
+[2017.04.25 14:59:51] [0000m.00s.031ms] [1] Copyright 2010 Mentor Graphics Corporation. All Rights Reserved.
+[2017.04.25 14:59:51] [0000m.00s.031ms] [1] Base flow version [7.9.1]
+[2017.04.25 14:59:51] [0000m.00s.031ms] [1] GBS Install Id [16609], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2017.04.25 14:59:51] [0000m.00s.031ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] Machine [E217PC09]  User [e217]  PID [7272]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] Operating system [Microsoft Windows 7 Enterprise Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] Current working dir [C:\temp\CoilsTopRevB\PCB]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] PATH [C:\CAD\MentorGraphics\7.9EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\PuTTY\]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] SDD_HOME [C:\CAD\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] SDD_PLATFORM [win32]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] Local iCDB working dir [C:\CAD\MentorGraphics\iCDB] on file system [NTFS]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [2] S: Loading config files
+[2017.04.25 14:59:51] [0000m.00s.046ms] [1] Config file [C:\temp\CoilsTopRevB\CoilsTopRevB.icdb\cdbsvr\Server.cfg] not found
+[2017.04.25 14:59:51] [0000m.00s.046ms] [3] S: Config loaded
+[2017.04.25 14:59:51] [0000m.00s.046ms] [0] S: Project path [C:\temp\CoilsTopRevB\CoilsTopRevB.icdb] on file system [NTFS]
+[2017.04.25 14:59:51] [0000m.00s.046ms] [0] S: Single-user mode (auto)
+[2017.04.25 14:59:51] [0000m.00s.046ms] [0] S: Event polling mode autodetection
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Started up automatically by iCDB Client: E217PC09:e217:6392
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Auto close mode
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Database ID [eae0-9987-758e-62e1-815c-ff8d-15cf-f850-d33e-9c1c-2e2e-7c59]
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: START
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Server startup lock file created
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Listening for client connections on port [10000]
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Server network ID [E217PC09:130.191.161.186,E217PC09,E217PC09.engineering.sdsu:10000]
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Server GUID [b1b8-d7b2-3b7e-cc32-7d6c-ff8c-d6cf-f850-d2fe-9c1c-2e2e-7c59]
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Project GUID [eae0-9987-758e-62e1-815c-ff8d-15cf-f850-d33e-9c1c-2e2e-7c59]
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Wrote data to server address file
+[2017.04.25 14:59:51] [0000m.00s.062ms] [0] S: Server startup lock file removed
+[2017.04.25 14:59:51] [0000m.00s.093ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.04.25 14:59:51] [0000m.00s.093ms] [0] S: Local disc access time: 97 us
+[2017.04.25 14:59:51] [0000m.00s.093ms] [0] S: File server access time: 100 us
+[2017.04.25 14:59:51] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.25 14:59:51] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.25 14:59:51] [0000m.00s.093ms] [0] SingleFile: [307b-2631-c87c-e79b] SFI version check [1008] [1008]
+[2017.04.25 14:59:51] [0000m.00s.109ms] [0] iCDB Server PI: Server & plugin session [30]
+[2017.04.25 14:59:51] [0000m.00s.109ms] [0] iCDB Server PI: Opening database [C:\temp\CoilsTopRevB\CoilsTopRevB.icdb]
+[2017.04.25 14:59:51] [0000m.00s.109ms] [0] iCDB Server PI: Database [C:\temp\CoilsTopRevB\CoilsTopRevB.icdb] opened
+[2017.04.25 14:59:51] [0000m.00s.109ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.04.25 14:59:51] [0000m.00s.109ms] [0] iCDB Database: Checking constraint definitions version
+[2017.04.25 14:59:51] [0000m.00s.140ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6] up to date
+[2017.04.25 14:59:51] [0000m.00s.140ms] [0] iCDB Server PI: Initializing plugins
+[2017.04.25 14:59:51] [0000m.00s.140ms] [0] iCDB Server PI: Plugins initialized
+[2017.04.25 14:59:51] [0000m.00s.140ms] [0] S: iCDB database loaded
+[2017.04.25 14:59:51] [0000m.00s.156ms] [0] S: Starting threads
+[2017.04.25 14:59:51] [0000m.00s.156ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.04.25 14:59:51] [0000m.00s.156ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.04.25 14:59:51] [0000m.00s.156ms] [0] IT: Session [31] for host [E217PC09] user [e217] with process ID [6392] created
+[2017.04.25 14:59:51] [0000m.00s.156ms] [1] SC[31]: Registered sub-client [EEVM] with ID [1] for session ID [31] host [E217PC09] user [e217] process ID [6392]
+[2017.04.25 14:59:51] [0000m.00s.171ms] [1] SC[31]: UnRegistered sub-client [EEVM] with ID [1] for session ID [31] host [E217PC09] user [e217] process ID [6392]
+[2017.04.25 14:59:51] [0000m.00s.265ms] [1] CMT: There are [1] clients now
+[2017.04.25 14:59:51] [0000m.00s.265ms] [1] CMT: Removed client [31]
+[2017.04.25 14:59:51] [0000m.00s.265ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.25 14:59:52] [0000m.01s.076ms] [0] IT: Session [32] for host [E217PC09] user [e217] with process ID [6392] created
+[2017.04.25 14:59:52] [0000m.01s.076ms] [1] SC[32]: Registered sub-client [Expedition PCB_1522166136] with ID [1] for session ID [32] host [E217PC09] user [e217] process ID [6392]
+[2017.04.25 14:59:53] [0000m.01s.404ms] [1] SC[32]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [32] host [E217PC09] user [e217] process ID [6392]
+[2017.04.25 15:00:13] [0000m.22s.108ms] [1] SC[32]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [32] host [E217PC09] user [e217] process ID [6392]
+[2017.04.25 15:00:14] [0000m.22s.389ms] [1] SC[32]: UnRegistered sub-client [Expedition PCB_1522166136] with ID [1] for session ID [32] host [E217PC09] user [e217] process ID [6392]
+[2017.04.25 15:00:14] [0000m.22s.436ms] [1] CMT: Removed client [32]
+[2017.04.25 15:00:14] [0000m.22s.436ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.25 15:00:16] [0000m.24s.401ms] [0] CMT: Starting server auto-close
+[2017.04.25 15:00:16] [0000m.24s.448ms] [0] S: Closing server
+[2017.04.25 15:00:16] [0000m.24s.557ms] [0] iCDB Server PI: Closing plugins
+[2017.04.25 15:00:16] [0000m.24s.557ms] [0] iCDB Server PI: Plugins closed
+[2017.04.25 15:00:16] [0000m.24s.557ms] [0] iCDB Server PI: Unloading database
+[2017.04.25 15:00:16] [0000m.24s.557ms] [0] iCDB Server PI: Saving storage
+[2017.04.25 15:00:16] [0000m.24s.557ms] [0] iCDB Server PI: Closing database
+[2017.04.25 15:00:16] [0000m.24s.557ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[2%] data[95%]
+[2017.04.25 15:00:16] [0000m.24s.557ms] [1] iCDB Server PI: Stats: Database file size [56504] bytes
+[2017.04.25 15:00:16] [0000m.24s.573ms] [0] iCDB Server PI: Database closed
+[2017.04.25 15:00:16] [0000m.24s.573ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [0] ticks
+[2017.04.25 15:00:16] [0000m.24s.573ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [0] microseconds
+[2017.04.25 15:00:16] [0000m.24s.573ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [0]
+[2017.04.25 15:00:16] [0000m.24s.729ms] [0] S: STOP

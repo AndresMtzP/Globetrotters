@@ -1,0 +1,21 @@
+
+Schematic unused pins from : Packager  26-Apr-2017  13:43
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part Cap_1206                         |
+ Part coil_bottom                      |
+ Part Ferrite_1206                     |
+ Part HighCurrentHeader_2pin           |
+ Part PIC24_28Pin                      |
+ Part Res_1206                         |
+ Part Single_HbdgBoard_VNH5019         |
+  U5                                   | (P)  2 3 6 7 9
+  U6                                   | (P)  2 3 6 7 9
+ Part 2_pin_sngl                       |
+ Part 6_pin_sngl                       |
+  J2                                   | (G)  1
+ Part 10_pin_sngl                      |
+ Part 14_pin_sngl                      |

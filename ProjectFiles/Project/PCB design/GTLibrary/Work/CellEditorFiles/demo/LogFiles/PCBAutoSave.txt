@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          05:51 PM Monday, May 09, 2011
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\Demo\LittleFuse_460_5x20.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          05:52 PM Monday, May 09, 2011
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\Demo\LittleFuse_460_5x20.pcb
+

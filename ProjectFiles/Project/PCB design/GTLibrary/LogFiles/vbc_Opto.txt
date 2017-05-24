@@ -1,0 +1,425 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Opto
+	Symbol 7SEGCOMAN
+	Symbol 7SEGCOMCAT
+	Symbol HCPL3700
+	Symbol LED
+	Symbol LED7SEG
+	Symbol LH1511
+	Symbol LH1523
+	Symbol LIGHTBAR
+	Symbol OPTO4
+	Symbol OPTO5
+	Symbol OPTO5AC
+	Symbol OPTO6
+	Symbol PC900
+SLB2LMC utility complete

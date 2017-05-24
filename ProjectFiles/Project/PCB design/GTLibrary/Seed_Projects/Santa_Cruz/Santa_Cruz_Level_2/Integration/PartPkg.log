@@ -1,0 +1,116 @@
+
+                                    Packager
+                                    --------
+
+                        04:16 PM Wednesday, July 03, 2002
+Job Name: C:\cad\CentralLibs\JPK_Lib\Seed_Projects\Santa_Cruz\Santa_Cruz_Level1\Santa_Cruz_Level1\Santa_Cruz_Level1.prj
+
+
+     Packager     Version: 06.001207.00
+
+     The root of this design is at "C:\cad\CentralLibs\JPK_Lib\Seed_Projects\Santa_Cruz\Santa_Cruz_Level1\Santa_Cruz_Level1\Santa_Cruz_1.sbk".
+
+     The FLATNETNAMEs status indicates that the present set
+      of schematic netnames should be used to update the
+      FLATNETNAMEs.
+
+     The Disable Repackage status indicates that 
+      Repackaging should be allowed.
+
+     The PCB Design Path this design is at "C:\cad\CentralLibs\JPK_Lib\Seed_Projects\Santa_Cruz\Santa_Cruz_Level1\Santa_Cruz_Level1\PCB\Santa_Cruz_Level1.pcb".
+
+     The Central Library is at "C:\cad\CentralLibs\JPK_Lib\JPK_Lib.lmc".
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the CDB and to replace any duplicates found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Value2"
+       "IBIS"
+       "Model Suffix"
+       "VHDL Model"
+       "Verilog Model"
+       "Simulation Model"
+       "Value"
+
+     The present Common DataBase is up to date with the schematic
+      source files.
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 3
+          Part Numb: 14_pin_dbl_.1sp -> Vend Part: 14_pin_dbl_.1sp 
+          Part Numb: 20_pin_dbl_.1sp -> Vend Part: 20_pin_dbl_.1sp 
+          Part Numb: 40_pin_dbl_.1sp -> Vend Part: 40_pin_dbl_.1sp 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 3 Symbols:
+               3  **
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     0 nets were found containing 0 pins
+     3 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+     After augmentation of supply pins, there are 0 nets where 0 nets have only one pin.
+
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+     The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE CDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

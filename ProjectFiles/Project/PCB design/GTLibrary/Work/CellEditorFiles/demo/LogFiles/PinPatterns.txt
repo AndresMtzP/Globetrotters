@@ -1,0 +1,7 @@
+
+                            PinPatterns.txt ParseLog
+                            ------------------------
+
+                        10:10 AM Thursday, March 22, 2007
+Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\demo\QRD1114.pcb
+

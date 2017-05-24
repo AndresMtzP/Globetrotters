@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:58 AM Thursday, August 26, 2010
+Job Name: C:\My Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_ind\IND_THRU_AXIAL_.4SP_.10X.30B.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:58 AM Thursday, August 26, 2010
+Job Name: C:\My Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_ind\IND_THRU_AXIAL_.4SP_.10X.30B.pcb
+

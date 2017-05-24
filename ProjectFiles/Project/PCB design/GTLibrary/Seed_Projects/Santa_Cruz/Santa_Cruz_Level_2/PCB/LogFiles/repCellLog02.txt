@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 05.010425.03 2000C
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\cad\CentralLibs\JPK_Lib\Seed_Projects\Santa_Cruz\Santa_Cruz_Level_2\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog02.txt
+
+Wed Jul 03 16:29:13 2002
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Wed Jul 03 16:29:13 2002  ---------------
+
+
+
+
+---------------    Wed Jul 03 16:29:13 2002  ---------------
+
+

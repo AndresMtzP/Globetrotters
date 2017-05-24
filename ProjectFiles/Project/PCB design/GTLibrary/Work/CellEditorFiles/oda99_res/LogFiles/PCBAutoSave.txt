@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:15 AM Thursday, August 26, 2010
+Job Name: C:\My Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_res\RES_THRU_AXIAL_.7SP_.225X.520B.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       10:15 AM Thursday, August 26, 2010
+Job Name: C:\My Dropbox\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_res\RES_THRU_AXIAL_.7SP_.225X.520B.pcb
+

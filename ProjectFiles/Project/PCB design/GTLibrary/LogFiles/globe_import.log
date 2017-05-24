@@ -1,0 +1,13 @@
+
+
+			Import Symbols
+			---------------
+
+Central library: C:\CAD\Lib\SDL_Lib\SDL_Lib.lmc
+Importing from symbol library: C:\CAD\Lib\SDL_Lib\SymbolLibs\globe.slb
+Importing to symbol partition: globe
+
+	Symbol 'PIC24_28Pin' was imported successfully.
+
+
+Finished importing symbols.

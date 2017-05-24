@@ -1,0 +1,31 @@
+
+                              SILKSCREEN GENERATOR
+                              --------------------
+
+                         04:53 PM Friday, April 28, 2017
+              Job Name: C:\temp\CommandModule\PCB\CommandModule.pcb
+
+
+    Silkscreen Side To Process           : TOP
+
+    Process All Cell Types               : YES
+
+    Top Silkscreen For Selected Cells    : Silkscreen Outline Top
+
+    Break Silkscreen Using               : Conductive Pads
+
+    Break Graphics Pad Clearance         : NA
+
+    Break Graphics Via Clearance         : NA
+
+    Break Text Pad Clearance             : NA
+
+    Break Text Via Clearance             : NA
+
+    Broken Graphics Line Width           : 10th
+
+    Broken Text Line Width               : 10th
+    
+
+
+    TOP Silkscreen Data Created Successfully (3 Geometries).

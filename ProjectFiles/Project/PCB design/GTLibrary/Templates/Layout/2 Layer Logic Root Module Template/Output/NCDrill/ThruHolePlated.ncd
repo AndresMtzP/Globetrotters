@@ -1,0 +1,44 @@
+; Version : LOCAL
+; Job     : C:\My Data\Projects\Logic Root\PCB\Header Modules\7seg_Header\Single_7seg\PCB\Single_7seg.pcb
+; User    : E521:x
+; Date    : Fri Apr 11 09:57:27 2008
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Drill / Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T03C0.0190
+T02C0.0315
+T01C0.0354
+%
+M72
+G90
+G93X0Y0
+T03
+X000457Y005803
+X003172Y005434
+T02
+X001Y0014
+X002
+X003
+X004
+X005
+X001Y0034
+X002
+X003
+X004
+X005
+T01
+X005Y0105
+X004
+X003
+X002
+X001
+Y0115
+X002
+X003
+X004
+X005
+T00
+M30

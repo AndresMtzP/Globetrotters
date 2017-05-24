@@ -1,0 +1,540 @@
+
+                               Forward Annotation
+                               ------------------
+
+                        03:44 PM Saturday, April 15, 2017
+             Job Name: C:\temp\Coils_bottom_2\PCB\Coils_bottom_2.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to refresh with newer data any duplicates found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 13
+          Part Numb: Cap_1206 -> Vend Part: Cap_1206 
+          Part Numb: coil_bottom -> Vend Part: coil_bottom 
+          Part Numb: Ferrite_1206 -> Vend Part: Ferrite_1206 
+          Part Numb: HallEffectSensor -> Vend Part: HallEffectSensor 
+          Part Numb: HighCurrentHeader_2pin -> Vend Part: HighCurrentHeader_2pin 
+          Part Numb: INA122 -> Vend Part: INA122 
+          Part Numb: LED_SMD_1206 -> Vend Part: LED_SMD_1206 
+          Part Numb: PIC24_28Pin -> Vend Part: PIC24_28Pin 
+          Part Numb: Res_1206 -> Vend Part: Res_1206 
+          Part Numb: Single_HbdgBoard_VNH5019 -> Vend Part: Single_HbdgBoard_VNH5019 
+          Part Numb: 2_pin_sngl -> Vend Part: 2_pin_sngl 
+          Part Numb: 3_pin_sing_.1sp -> Vend Part: 3_pin_sing_.1sp 
+          Part Numb: 6_pin_sngl -> Vend Part: 6_pin_sngl 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = coil_bottom
+      Symbol Property: Part Label = L2
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = coil_bottom
+      Symbol Property: Part Label = L1
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = coil_bottom
+      Symbol Property: Part Label = L4
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP1:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = coil_bottom
+      Symbol Property: Part Label = L3
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Single_HbdgBoard_VNH5019
+      Symbol Property: Part Label = HB2
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Single_HbdgBoard_VNH5019
+      Symbol Property: Part Label = HB1
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HallEffectSensor
+      Symbol Property: Part Label = HE_bottom3
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HallEffectSensor
+      Symbol Property: Part Label = HE_bottom4
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HallEffectSensor
+      Symbol Property: Part Label = HE_bottom2
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HallEffectSensor
+      Symbol Property: Part Label = HE_bottom1
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP68:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP68:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP67:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP67:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP66:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP66:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP65:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP65:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Type = CAP
+     PartsDB Property: Type = Capacitor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Cap_1206
+      Symbol Property: Description = Capacitor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP53:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP53:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP52:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP52:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP51:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP51:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP50:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP50:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP49:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP49:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP48:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP48:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Description = Resistor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Res_1206
+      Symbol Property: Type = RES
+     PartsDB Property: Type = Resistor
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Ferrite_1206
+      Symbol Property: Description = Inductor
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = Ferrite_1206
+      Symbol Property: Type = IND
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP60:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Description = LED, Photoemissive Diode
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP60:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Type = DIODE
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP59:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Description = LED, Photoemissive Diode
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP59:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Type = DIODE
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP58:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Description = LED, Photoemissive Diode
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP58:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Type = DIODE
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP57:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Description = LED, Photoemissive Diode
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP57:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Type = DIODE
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP56:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Description = LED, Photoemissive Diode
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP56:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Type = DIODE
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP55:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Description = LED, Photoemissive Diode
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP55:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_SMD_1206
+      Symbol Property: Type = DIODE
+     PartsDB Property: Type = IC
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP64:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = INA122
+      Symbol Property: Part Label = Diff4
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP63:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = INA122
+      Symbol Property: Part Label = Diff3
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP62:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = INA122
+      Symbol Property: Part Label = Diff2
+     PartsDB Property: Part Label = 
+
+    WARNING: Block Schematic1, Page 1, Symbol XCMP61:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = INA122
+      Symbol Property: Part Label = Diff1
+     PartsDB Property: Part Label = 
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 51 Symbols:
+              51  
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     51 nets were found containing 153 pins
+     45 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 64 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                        03:44 PM Saturday, April 15, 2017
+             Job Name: C:\temp\Coils_bottom_2\PCB\Coils_bottom_2.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+	WARNING:  "J2" is being removed from the Layout since it is no longer in the schematic.
+
+     The following 17 components have not been placed:
+
+        C4
+        C5
+        C6
+        C7
+        D1
+        D2
+        D3
+        D4
+        D5
+        D6
+        J1
+        R6
+        R7
+        R8
+        R9
+        R10
+        R11
+
+     Netload completed successfully with 1 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

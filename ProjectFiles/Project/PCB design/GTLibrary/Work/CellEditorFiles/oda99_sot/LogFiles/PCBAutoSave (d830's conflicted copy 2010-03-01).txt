@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       11:52 AM Sunday, November 15, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_sot\SOT223_4P_.250X.276B_PO=1,2,3,4.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       12:33 PM Sunday, November 15, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_sot\SOT223_4P_.250X.276B_PO=1,2,3,4.pcb
+

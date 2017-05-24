@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       03:15 PM Friday, November 14, 2014
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Modules\DKA30.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       03:15 PM Friday, November 14, 2014
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Modules\DKA30.pcb
+

@@ -1,0 +1,21 @@
+.HoleName  "Rnd 19 +Tol 0 -Tol -3" 
+  ..AssignmentMethod  kUseDrlsymFromList 
+  ..DrillSymbolType  kCirclePlusDrlsym 
+  ..SymbolSize  609600 
+  ..SymbolName  "" 
+
+
+.HoleName  "T302_31.5th" 
+  ..AssignmentMethod  kUseDrlsymFromList 
+  ..DrillSymbolType  kCirclePlusDrlsym 
+  ..SymbolSize  800100 
+  ..SymbolName  "" 
+
+
+.HoleName  "T303_35.4th" 
+  ..AssignmentMethod  kUseDrlsymFromList 
+  ..DrillSymbolType  kCirclePlusDrlsym 
+  ..SymbolSize  899160 
+  ..SymbolName  "" 
+
+

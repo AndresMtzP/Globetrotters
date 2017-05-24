@@ -1,0 +1,35 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Transistor
+	Symbol 2N6908
+	Symbol 2N6911
+	Symbol BSM50GB100D
+	Symbol ICL7667
+	Symbol NJFET
+	Symbol NJFET2
+	Symbol NMESFET
+	Symbol NMOSH
+	Symbol NMOSL
+	Symbol NMOSL2
+	Symbol NPNARRAY
+	Symbol NPNARRAY2
+	Symbol NPNBJT
+	Symbol NPNDARL
+	Symbol NPNDIGL
+	Symbol PJFET
+	Symbol PJFET2
+	Symbol PMESFET
+	Symbol PMOSH
+	Symbol PMOSL
+	Symbol PNPBJT
+	Symbol PNPDARL
+	Symbol PNPDIGL
+SLB2LMC utility complete

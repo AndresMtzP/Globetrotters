@@ -1,0 +1,26 @@
+Fri Apr 14 17:02:02 2017: iCDBReadSettings.
+Fri Apr 14 17:02:02 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Fri Apr 14 17:02:02 2017: iCDBBackup complete
+Fri Apr 14 17:02:23 2017: iCDBReadSettings.
+Fri Apr 14 17:02:23 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Fri Apr 14 17:04:22 2017: iCDBReadSettings.
+Fri Apr 14 17:04:22 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 14:52:16 2017: iCDBReadSettings.
+Sat Apr 15 14:52:16 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 14:52:16 2017: iCDBBackup complete
+Sat Apr 15 15:13:01 2017: iCDBReadSettings.
+Sat Apr 15 15:13:01 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 15:34:00 2017: iCDBReadSettings.
+Sat Apr 15 15:34:00 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 15:36:08 2017: iCDBReadSettings.
+Sat Apr 15 15:36:08 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 15:43:07 2017: iCDBReadSettings.
+Sat Apr 15 15:43:07 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 15:44:13 2017: iCDBReadSettings.
+Sat Apr 15 15:44:13 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 16:55:00 2017: iCDBReadSettings.
+Sat Apr 15 16:55:00 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 17:21:25 2017: iCDBReadSettings.
+Sat Apr 15 17:21:25 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup
+Sat Apr 15 18:35:06 2017: iCDBReadSettings.
+Sat Apr 15 18:35:06 2017: iCDBBackup. ProjectFile: C:\temp\Coils_bottom_2\Coils_bottom_2.prj, Application: iCDBBackup

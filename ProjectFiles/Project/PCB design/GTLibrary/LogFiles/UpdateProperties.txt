@@ -1,0 +1,12 @@
+
+                          Update Properties log file.
+
+                          ----------------------------
+
+                       03:43 PM Tuesday, January 24, 2012
+            Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\PL_Lib.lmc
+
+The origional .prp file C:\Dropbox\Pulp Logic\Library\PL_Lib\CentLib.prp has been backed up in C:\Dropbox\Pulp Logic\Library\PL_Lib\CentLib.bak
+
+Updates coming from file C:\CAD\MentorGraphics\7.9.2EE\SDD_HOME\standard\config\pcb\DcCentLib.prp.
+

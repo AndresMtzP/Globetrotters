@@ -1,0 +1,408 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Comparator
+	Symbol AN6912
+	Symbol AN6914
+	Symbol CMP05
+	Symbol ICL8038
+	Symbol LT1016
+	Symbol SE527
+	Symbol VCOMP5
+	Symbol VCOMP5G
+	Symbol VCOMP6
+	Symbol VCOMP7
+	Symbol VCOMP8A
+	Symbol VCOMP8B
+SLB2LMC utility complete

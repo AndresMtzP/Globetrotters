@@ -1,0 +1,20 @@
+ Version: EXP2005.1_060615.00 2005.1
+
+
+
+Environment Variables:
+----------------------
+GW2ODB_DIR = "C:\CAD\Valor\GW2ODB"
+HOME = "C:\Documents and Settings\Administrator"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\Administrator"
+LM_LICENSE_FILE = "1717@jason"
+MGC_HOME = "C:/CAD/MentorGraphics/2005EXP/MGC_HOME.ixn"
+MGLS_DLL = "C:\mgc\embedded\edge\bin\lib\mgls.dll"
+MGLS_PKGINFO_FILE = "C:\mgc\embedded\edge\bin\lib\mgc.pkginfo"
+OS = "Windows_NT"
+PATH = "C:\CAD\MentorGraphics\2005EXP\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\2005EXP\SDD_HOME\common\win32\lib;C:\CAD\MentorGraphics\2005EXP\SDD_HOME\common\win32\_bin;C:\CAD\MentorGraphics\2005EXP\SDD_HOME\wg\win32\bin;C:\CAD\MentorGraphics\2005EXP\SDD_HOME\wg\win32\lib;C:\CAD\MentorGraphics\2005EXP\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\2005EXP\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Adaptec Shared\System;C:\PROGRA~1\MENTOR~1\LICENS~1;C:\MATLAB7\bin\win32;C:\Xilinx\bin\nt;C:/CAD/MentorGraphics/2005EXP/MGC_HOME.ixn\bin;C:/CAD/MentorGraphics/2005EXP/MGC_HOME.ixn\lib;C:/CAD/MentorGraphics/2005EXP/MGC_HOME.ixn\bin;C:/CAD/MentorGraphics/2005EXP/MGC_HOME.ixn\lib;C:\VXIPNP\WinNT\Bin;C:\Program Files\QuickTime\QTSystem\"
+SDD_HOME = "C:\CAD\MentorGraphics\2005EXP\SDD_HOME"
+TEMP = "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp"
+XILINX = "C:\Xilinx"

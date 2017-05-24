@@ -1,0 +1,7 @@
+Wikipedia:
+Grab only first section of text from wiki page (increase overall response time)
+
+Google:
+
+MySQL:
+CityId, CityName, Population, Lat, Lng, CountryName

@@ -1,0 +1,191 @@
+[2017.04.28 14:04:10] [0000m.00s.040ms] [0] WELCOME
+[2017.04.28 14:04:10] [0000m.00s.040ms] [1] iCDB Server ver.1.091, 0XsVZbnMvCAokxoWCsr9pA, build:426267 created 2010-10-27 08:24:21, sources stamp:0XsVZbnMvCAokxoWCsr9pA
+[2017.04.28 14:04:10] [0000m.00s.040ms] [1] Copyright 2010 Mentor Graphics Corporation. All Rights Reserved.
+[2017.04.28 14:04:10] [0000m.00s.040ms] [1] Base flow version [7.9.1]
+[2017.04.28 14:04:10] [0000m.00s.040ms] [1] GBS Install Id [16609], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2017.04.28 14:04:10] [0000m.00s.041ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] Machine [E217PC02]  User [E217]  PID [3348]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] Operating system [Microsoft Windows 7 Enterprise Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] Current working dir [C:\temp\CommandModule\PCB]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] PATH [C:\CAD\MentorGraphics\7.9EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2014b\runtime\win64;C:\Program Files\MATLAB\R2014b\bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] SDD_HOME [C:\CAD\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] SDD_PLATFORM [win32]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [1] Local iCDB working dir [C:\CAD\MentorGraphics\iCDB] on file system [NTFS]
+[2017.04.28 14:04:10] [0000m.00s.044ms] [2] S: Loading config files
+[2017.04.28 14:04:10] [0000m.00s.046ms] [1] Config file [C:\temp\CommandModule\CommandModule.icdb\cdbsvr\Server.cfg] not found
+[2017.04.28 14:04:10] [0000m.00s.048ms] [3] S: Config loaded
+[2017.04.28 14:04:10] [0000m.00s.050ms] [0] S: Project path [C:\temp\CommandModule\CommandModule.icdb] on file system [NTFS]
+[2017.04.28 14:04:10] [0000m.00s.050ms] [0] S: Single-user mode (auto)
+[2017.04.28 14:04:10] [0000m.00s.050ms] [0] S: Event polling mode autodetection
+[2017.04.28 14:04:10] [0000m.00s.053ms] [0] S: Started up automatically by iCDB Client: E217PC02:E217:10372
+[2017.04.28 14:04:10] [0000m.00s.053ms] [0] S: Auto close mode
+[2017.04.28 14:04:10] [0000m.00s.053ms] [0] S: Database ID [5804-c608-6e4f-2756-cfda-3091-0ea3-0950-954d-9c1c-2e3e-6ce8]
+[2017.04.28 14:04:10] [0000m.00s.053ms] [0] S: START
+[2017.04.28 14:04:10] [0000m.00s.053ms] [0] S: Server startup lock file created
+[2017.04.28 14:04:10] [0000m.00s.054ms] [0] S: Listening for client connections on port [10000]
+[2017.04.28 14:04:10] [0000m.00s.056ms] [0] S: Server network ID [E217PC02:130.191.161.195,E217PC02,E217PC02.engineering.sdsu:10000]
+[2017.04.28 14:04:10] [0000m.00s.056ms] [0] S: Server GUID [5582-8ea2-2782-9f29-a4ea-309f-4ea3-0950-519f-9c1c-2e3e-6ce8]
+[2017.04.28 14:04:10] [0000m.00s.057ms] [0] S: Project GUID [5804-c608-6e4f-2756-cfda-3091-0ea3-0950-954d-9c1c-2e3e-6ce8]
+[2017.04.28 14:04:10] [0000m.00s.058ms] [0] S: Wrote data to server address file
+[2017.04.28 14:04:10] [0000m.00s.058ms] [0] S: Server startup lock file removed
+[2017.04.28 14:04:10] [0000m.00s.084ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.04.28 14:04:10] [0000m.00s.084ms] [0] S: Local disc access time: 77 us
+[2017.04.28 14:04:10] [0000m.00s.084ms] [0] S: File server access time: 83 us
+[2017.04.28 14:04:10] [0000m.00s.085ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.28 14:04:10] [0000m.00s.087ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.28 14:04:10] [0000m.00s.087ms] [0] SingleFile: [ad2c-93b5-9a31-ac9f] SFI version check [1008] [1008]
+[2017.04.28 14:04:10] [0000m.00s.090ms] [0] iCDB Server PI: Server & plugin session [3]
+[2017.04.28 14:04:10] [0000m.00s.090ms] [0] iCDB Server PI: Opening database [C:\temp\CommandModule\CommandModule.icdb]
+[2017.04.28 14:04:10] [0000m.00s.090ms] [0] iCDB Server PI: Database [C:\temp\CommandModule\CommandModule.icdb] opened
+[2017.04.28 14:04:10] [0000m.00s.096ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.04.28 14:04:10] [0000m.00s.096ms] [0] iCDB Database: Checking constraint definitions version
+[2017.04.28 14:04:10] [0000m.00s.119ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6] up to date
+[2017.04.28 14:04:10] [0000m.00s.120ms] [0] iCDB Server PI: Initializing plugins
+[2017.04.28 14:04:10] [0000m.00s.123ms] [0] iCDB Server PI: Plugins initialized
+[2017.04.28 14:04:10] [0000m.00s.123ms] [0] S: iCDB database loaded
+[2017.04.28 14:04:10] [0000m.00s.124ms] [0] S: Starting threads
+[2017.04.28 14:04:10] [0000m.00s.139ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.04.28 14:04:10] [0000m.00s.139ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.04.28 14:04:10] [0000m.00s.155ms] [0] IT: Session [4] for host [E217PC02] user [E217] with process ID [10372] created
+[2017.04.28 14:04:10] [0000m.00s.155ms] [1] SC[4]: Registered sub-client [EEVM] with ID [1] for session ID [4] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:10] [0000m.00s.155ms] [1] SC[4]: UnRegistered sub-client [EEVM] with ID [1] for session ID [4] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:10] [0000m.00s.249ms] [1] CMT: There are [1] clients now
+[2017.04.28 14:04:10] [0000m.00s.249ms] [1] CMT: Removed client [4]
+[2017.04.28 14:04:10] [0000m.00s.249ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.28 14:04:11] [0000m.01s.165ms] [0] IT: Session [5] for host [E217PC02] user [E217] with process ID [10372] created
+[2017.04.28 14:04:11] [0000m.01s.181ms] [1] SC[5]: Registered sub-client [Expedition PCB_140285537] with ID [1] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:11] [0000m.01s.196ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.04.28 14:04:11] [0000m.01s.196ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2017.04.28 14:04:11] [0000m.01s.196ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2017.04.28 14:04:14] [0000m.04s.704ms] [1] SC[5]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:18] [0000m.08s.311ms] [1] SC[5]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:18] [0000m.08s.311ms] [1] SC[5]: Registered sub-client [EEVM_EEVM_1634728] with ID [3] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:18] [0000m.08s.311ms] [1] SC[5]: UnRegistered sub-client [EEVM_EEVM_1634728] with ID [3] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:18] [0000m.08s.596ms] [0] IT: Session [6] for host [E217PC02] user [E217] with process ID [9420] created
+[2017.04.28 14:04:18] [0000m.08s.596ms] [1] SC[6]: Registered sub-client [Packager_140292962] with ID [1] for session ID [6] host [E217PC02] user [E217] process ID [9420]
+[2017.04.28 14:04:18] [0000m.08s.650ms] [1] CMT: There are [2] clients now
+[2017.04.28 14:04:18] [0000m.08s.767ms] [1] SC[6]: UnRegistered sub-client [Packager_140292962] with ID [1] for session ID [6] host [E217PC02] user [E217] process ID [9420]
+[2017.04.28 14:04:18] [0000m.08s.768ms] [1] CMT: Removed client [6]
+[2017.04.28 14:04:18] [0000m.08s.768ms] [1] CMT: There are [1] clients now
+[2017.04.28 14:04:19] [0000m.09s.483ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.04.28 14:04:19] [0000m.09s.483ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2017.04.28 14:04:19] [0000m.09s.483ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2017.04.28 14:04:19] [0000m.09s.725ms] [0] IT: Session [7] for host [E217PC02] user [E217] with process ID [7128] created
+[2017.04.28 14:04:19] [0000m.09s.725ms] [1] SC[7]: Registered sub-client [Expedition_140294101] with ID [1] for session ID [7] host [E217PC02] user [E217] process ID [7128]
+[2017.04.28 14:04:19] [0000m.09s.740ms] [1] CMT: There are [2] clients now
+[2017.04.28 14:04:19] [0000m.09s.740ms] [1] SC[7]: UnRegistered sub-client [Expedition_140294101] with ID [1] for session ID [7] host [E217PC02] user [E217] process ID [7128]
+[2017.04.28 14:04:19] [0000m.09s.820ms] [1] CMT: Removed client [7]
+[2017.04.28 14:04:19] [0000m.09s.820ms] [1] CMT: There are [1] clients now
+[2017.04.28 14:04:21] [0000m.11s.594ms] [1] SC[5]: Registered sub-client [EEVM_EEVM_274454412] with ID [4] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.610ms] [1] SC[5]: UnRegistered sub-client [EEVM_EEVM_274454412] with ID [4] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.610ms] [1] SC[5]: Registered sub-client [EEVM_EEVM_274454412] with ID [5] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.610ms] [1] SC[5]: UnRegistered sub-client [EEVM_EEVM_274454412] with ID [5] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.626ms] [1] SC[5]: Registered sub-client [EEVM_EEVM_274454412] with ID [6] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.626ms] [1] SC[5]: UnRegistered sub-client [EEVM_EEVM_274454412] with ID [6] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.711ms] [1] SC[5]: Registered sub-client [iCDBBackup] with ID [7] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.712ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[E217PC02] # ClientUserName[E217] # ClientProcessID[10372] # SessionID[5]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[7]]] ProjectPath[C:\temp\CommandModule\CommandModule.icdb] BackupPath[C:\temp\CommandModule\AutoBackup\1493413461\CommandModule.icdb] WithLogFiles[1] Overwrite[0]
+[2017.04.28 14:04:21] [0000m.11s.717ms] [1] SC[5]: UnRegistered sub-client [iCDBBackup] with ID [7] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.720ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[E217PC02] # ClientUserName[E217] # ClientProcessID[10372] # SessionID[5]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[7]]] BackupPath[C:\temp\CommandModule\AutoBackup\1493413461] WithLogFiles[1] Overwrite[0]
+[2017.04.28 14:04:21] [0000m.11s.721ms] [1] SC[5]: UnRegistered sub-client [Expedition PCB_140285537] with ID [1] for session ID [5] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:21] [0000m.11s.837ms] [1] CMT: Removed client [5]
+[2017.04.28 14:04:21] [0000m.11s.837ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.28 14:04:22] [0000m.12s.203ms] [0] IT: Session [8] for host [E217PC02] user [E217] with process ID [10372] created
+[2017.04.28 14:04:22] [0000m.12s.203ms] [1] SC[8]: Registered sub-client [Expedition PCB_140296581] with ID [1] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:22] [0000m.12s.493ms] [1] SC[8]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 14:04:37] [0000m.27s.896ms] [0] DFAMT: File server access time: 213 us
+[2017.04.28 14:24:30] [0020m.20s.869ms] [0] IT: Session [9] for host [E217PC02] user [E217] with process ID [5708] created
+[2017.04.28 14:24:30] [0020m.20s.869ms] [1] SC[9]: Registered sub-client [ICDBC] with ID [1] for session ID [9] host [E217PC02] user [E217] process ID [5708]
+[2017.04.28 14:24:30] [0020m.20s.923ms] [1] CMT: There are [2] clients now
+[2017.04.28 14:24:31] [0020m.21s.256ms] [1] SC[9]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [9] host [E217PC02] user [E217] process ID [5708]
+[2017.04.28 14:24:31] [0020m.21s.257ms] [1] CMT: Removed client [9]
+[2017.04.28 14:24:31] [0020m.21s.257ms] [1] CMT: There are [1] clients now
+[2017.04.28 15:00:58] [0056m.48s.390ms] [1] SC[8]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:00:58] [0056m.48s.390ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_1634728] with ID [3] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:00:58] [0056m.48s.390ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_1634728] with ID [3] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:00:58] [0056m.48s.641ms] [0] IT: Session [10] for host [E217PC02] user [E217] with process ID [1244] created
+[2017.04.28 15:00:58] [0056m.48s.641ms] [1] SC[10]: Registered sub-client [Packager_143692957] with ID [1] for session ID [10] host [E217PC02] user [E217] process ID [1244]
+[2017.04.28 15:00:58] [0056m.48s.711ms] [1] CMT: There are [2] clients now
+[2017.04.28 15:00:58] [0056m.48s.805ms] [1] SC[10]: UnRegistered sub-client [Packager_143692957] with ID [1] for session ID [10] host [E217PC02] user [E217] process ID [1244]
+[2017.04.28 15:00:58] [0056m.48s.852ms] [1] CMT: Removed client [10]
+[2017.04.28 15:00:58] [0056m.48s.852ms] [1] CMT: There are [1] clients now
+[2017.04.28 15:00:59] [0056m.49s.494ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.04.28 15:00:59] [0056m.49s.495ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2017.04.28 15:00:59] [0056m.49s.495ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\temp\CommandModule\CommandModule.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2017.04.28 15:00:59] [0056m.49s.679ms] [0] IT: Session [11] for host [E217PC02] user [E217] with process ID [5340] created
+[2017.04.28 15:00:59] [0056m.49s.680ms] [1] SC[11]: Registered sub-client [Expedition_143694002] with ID [1] for session ID [11] host [E217PC02] user [E217] process ID [5340]
+[2017.04.28 15:00:59] [0056m.49s.723ms] [1] SC[11]: UnRegistered sub-client [Expedition_143694002] with ID [1] for session ID [11] host [E217PC02] user [E217] process ID [5340]
+[2017.04.28 15:00:59] [0056m.49s.772ms] [1] CMT: There are [2] clients now
+[2017.04.28 15:00:59] [0056m.49s.772ms] [1] CMT: Removed client [11]
+[2017.04.28 15:00:59] [0056m.49s.772ms] [1] CMT: There are [1] clients now
+[2017.04.28 15:01:01] [0056m.51s.617ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_274427644] with ID [4] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.632ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_274427644] with ID [4] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.632ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_274427644] with ID [5] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.632ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_274427644] with ID [5] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.632ms] [1] SC[8]: Registered sub-client [EEVM_EEVM_274427644] with ID [6] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.648ms] [1] SC[8]: UnRegistered sub-client [EEVM_EEVM_274427644] with ID [6] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.743ms] [1] SC[8]: UnRegistered sub-client [Expedition PCB_140296581] with ID [1] for session ID [8] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:01] [0056m.51s.791ms] [1] CMT: Removed client [8]
+[2017.04.28 15:01:01] [0056m.51s.791ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.28 15:01:02] [0056m.52s.372ms] [0] IT: Session [12] for host [E217PC02] user [E217] with process ID [10372] created
+[2017.04.28 15:01:02] [0056m.52s.373ms] [1] SC[12]: Registered sub-client [Expedition PCB_143696686] with ID [1] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 15:01:02] [0056m.52s.683ms] [1] SC[12]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:03] [0116m.53s.163ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_1635388] with ID [3] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:03] [0116m.53s.163ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_1635388] with ID [3] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:03] [0116m.53s.305ms] [0] IT: Session [13] for host [E217PC02] user [E217] with process ID [1464] created
+[2017.04.28 16:01:03] [0116m.53s.306ms] [1] SC[13]: Registered sub-client [Expedition_147297828] with ID [1] for session ID [13] host [E217PC02] user [E217] process ID [1464]
+[2017.04.28 16:01:03] [0116m.53s.353ms] [1] SC[13]: UnRegistered sub-client [Expedition_147297828] with ID [1] for session ID [13] host [E217PC02] user [E217] process ID [1464]
+[2017.04.28 16:01:03] [0116m.53s.375ms] [1] CMT: There are [2] clients now
+[2017.04.28 16:01:03] [0116m.53s.375ms] [1] CMT: Removed client [13]
+[2017.04.28 16:01:03] [0116m.53s.375ms] [1] CMT: There are [1] clients now
+[2017.04.28 16:01:05] [0116m.55s.275ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_274455732] with ID [4] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:05] [0116m.55s.284ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_274455732] with ID [4] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:05] [0116m.55s.285ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_274455732] with ID [5] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:05] [0116m.55s.286ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_274455732] with ID [5] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:05] [0116m.55s.287ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_274455732] with ID [6] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:01:05] [0116m.55s.287ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_274455732] with ID [6] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:28] [0121m.18s.563ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_1635388] with ID [7] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:28] [0121m.18s.563ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_1635388] with ID [7] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:28] [0121m.18s.686ms] [0] IT: Session [14] for host [E217PC02] user [E217] with process ID [3872] created
+[2017.04.28 16:05:28] [0121m.18s.687ms] [1] SC[14]: Registered sub-client [Expedition_147563217] with ID [1] for session ID [14] host [E217PC02] user [E217] process ID [3872]
+[2017.04.28 16:05:28] [0121m.18s.731ms] [1] SC[14]: UnRegistered sub-client [Expedition_147563217] with ID [1] for session ID [14] host [E217PC02] user [E217] process ID [3872]
+[2017.04.28 16:05:28] [0121m.18s.775ms] [1] CMT: There are [2] clients now
+[2017.04.28 16:05:28] [0121m.18s.775ms] [1] CMT: Removed client [14]
+[2017.04.28 16:05:28] [0121m.18s.775ms] [1] CMT: There are [1] clients now
+[2017.04.28 16:05:30] [0121m.20s.638ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_274429492] with ID [8] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:30] [0121m.20s.647ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_274429492] with ID [8] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:30] [0121m.20s.648ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_274429492] with ID [9] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:30] [0121m.20s.648ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_274429492] with ID [9] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:30] [0121m.20s.649ms] [1] SC[12]: Registered sub-client [EEVM_EEVM_274429492] with ID [10] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 16:05:30] [0121m.20s.649ms] [1] SC[12]: UnRegistered sub-client [EEVM_EEVM_274429492] with ID [10] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 18:58:15] [0294m.05s.822ms] [1] SC[12]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 18:58:16] [0294m.06s.088ms] [1] SC[12]: Registered sub-client [iCDBBackup] with ID [11] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 18:58:16] [0294m.06s.088ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[E217PC02] # ClientUserName[E217] # ClientProcessID[10372] # SessionID[12]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[11]]] ProjectPath[C:\temp\CommandModule\CommandModule.icdb] BackupPath[C:\temp\CommandModule\AutoBackup\1493431096\CommandModule.icdb] WithLogFiles[1] Overwrite[0]
+[2017.04.28 18:58:16] [0294m.06s.088ms] [1] SC[12]: UnRegistered sub-client [iCDBBackup] with ID [11] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 18:58:16] [0294m.06s.103ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[E217PC02] # ClientUserName[E217] # ClientProcessID[10372] # SessionID[12]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[11]]] BackupPath[C:\temp\CommandModule\AutoBackup\1493431096] WithLogFiles[1] Overwrite[0]
+[2017.04.28 18:58:16] [0294m.06s.134ms] [1] SC[12]: UnRegistered sub-client [Expedition PCB_143696686] with ID [1] for session ID [12] host [E217PC02] user [E217] process ID [10372]
+[2017.04.28 18:58:16] [0294m.06s.213ms] [1] CMT: Removed client [12]
+[2017.04.28 18:58:16] [0294m.06s.213ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.04.28 18:58:18] [0294m.08s.071ms] [0] CMT: Starting server auto-close
+[2017.04.28 18:58:18] [0294m.08s.180ms] [0] S: Closing server
+[2017.04.28 18:58:18] [0294m.08s.336ms] [0] iCDB Server PI: Closing plugins
+[2017.04.28 18:58:18] [0294m.08s.336ms] [0] iCDB Server PI: Plugins closed
+[2017.04.28 18:58:18] [0294m.08s.336ms] [0] iCDB Server PI: Unloading database
+[2017.04.28 18:58:18] [0294m.08s.336ms] [0] iCDB Server PI: Saving storage
+[2017.04.28 18:58:18] [0294m.08s.336ms] [0] iCDB Server PI: Closing database
+[2017.04.28 18:58:18] [0294m.08s.336ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[27%] data[64%]
+[2017.04.28 18:58:18] [0294m.08s.336ms] [1] iCDB Server PI: Stats: Database file size [78600] bytes
+[2017.04.28 18:58:18] [0294m.08s.336ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.04.28 18:58:18] [0294m.08s.352ms] [0] iCDB Server PI: Database closed
+[2017.04.28 18:58:18] [0294m.08s.352ms] [0] iCDB Server PI: Defragmenting database
+[2017.04.28 18:58:18] [0294m.08s.352ms] [0] iCDB Server PI: Backuping database [C:\temp\CommandModule\CommandModule.icdb] to file [C:\temp\CommandModule\CommandModule.icdb\cdbback\2017-04-28 18.58.18-3348-d.zip]
+[2017.04.28 18:58:18] [0294m.08s.367ms] [0] iCDB Server PI: Backup database: DONE
+[2017.04.28 18:58:18] [0294m.08s.367ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2017.04.28 18:58:18] [0294m.08s.367ms] [0] SingleFile: [ad2c-93b5-9a31-ac9f] SFI version check [1008] [1008]
+[2017.04.28 18:58:18] [0294m.08s.383ms] [1] iCDB Server PI: Stats: Database file size: before[78600], after[52144], gain[26456]
+[2017.04.28 18:58:18] [0294m.08s.383ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.04.28 18:58:18] [0294m.08s.383ms] [1] BackupTransaction: Removing database backup [C:\temp\CommandModule\CommandModule.icdb\cdbback\2017-04-28 18.58.18-3348-d.zip]
+[2017.04.28 18:58:18] [0294m.08s.383ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [108235] ticks
+[2017.04.28 18:58:18] [0294m.08s.383ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [37032] microseconds
+[2017.04.28 18:58:18] [0294m.08s.383ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [45]
+[2017.04.28 18:58:18] [0294m.08s.383ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1215] commands per second
+[2017.04.28 18:58:18] [0294m.08s.508ms] [0] S: STOP

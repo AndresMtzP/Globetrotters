@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          01:33 PM Friday, May 02, 2014
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\vbc_thru_ic\DIP6.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          01:33 PM Friday, May 02, 2014
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\vbc_thru_ic\DIP6.pcb
+

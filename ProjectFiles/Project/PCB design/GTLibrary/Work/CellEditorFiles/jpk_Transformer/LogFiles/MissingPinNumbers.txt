@@ -1,0 +1,16 @@
+
+                  Added/Missing Pin Numbers in the cell 'TR-9'
+                  --------------------------------------------
+
+                          02:14 PM Friday, May 12, 2006
+           Job Name: C:\My_Data\Design\Mentor\Libs\JPK_Lib\JPK_Lib.lmc
+
+
+
+The following pin numbers are defined in the cell but are not defined
+by the part referencing the cell:
+
+    8
+    9
+
+The cell cannot be saved.

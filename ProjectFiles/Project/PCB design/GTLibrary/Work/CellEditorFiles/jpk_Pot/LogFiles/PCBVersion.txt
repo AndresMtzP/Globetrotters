@@ -1,0 +1,14 @@
+Cell Editor Version: 2010.0.426.267
+
+
+
+Environment Variables:
+----------------------
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\X"
+MGC_HOME = "C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\CAD\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/CAD/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\CAD\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin"
+SDD_HOME = "C:\CAD\MentorGraphics\7.9EE\SDD_HOME"
+TEMP = "C:\Users\X\AppData\Local\Temp"
+TMP = "C:\Users\X\AppData\Local\Temp"

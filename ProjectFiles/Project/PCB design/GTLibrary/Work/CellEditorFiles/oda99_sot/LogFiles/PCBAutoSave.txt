@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         01:45 PM Monday, July 30, 2012
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_sot\SOT25_5P_.115X.060B_.110W_PO=1,2,3,4,5.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         01:48 PM Monday, July 30, 2012
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_sot\SOT25_5P_.115X.060B_.110W_PO=1,2,3,4,5.pcb
+

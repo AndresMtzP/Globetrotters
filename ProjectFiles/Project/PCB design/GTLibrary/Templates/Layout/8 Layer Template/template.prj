@@ -1,0 +1,29 @@
+SECTION IngrElecLibraries
+KEY SearchPathScheme "(Default)"
+KEY CentralLibrary "../../../JPK_Lib.lmc"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY SchematicDesignStatus "0"
+KEY VBPCBForwardAnno "0"
+KEY SchematicDesignBackAnno "0"
+KEY CADBackAnno "0"
+KEY FLATNETNAMEs "0"
+KEY UseCES "0"
+KEY LayoutTemplate ""
+KEY FwdAnnoExtractFlag "1"
+KEY FwdAnnoRebuildFlag "0"
+KEY FwdAnnoReplaceFlag "0"
+KEY FwdAnnoCleanBuildFlag "0"
+KEY UnusedPartsFlag "0"
+KEY DisableBackAnnoChanges "0"
+KEY FanoutSinglePinNets "0"
+KEY FwdAnnoSchematicRefDesChanges "1"
+KEY FwdAnnoRemoveTraces "1"
+KEY FwdAnnoRemoveHangers "1"
+KEY AllowAlpha "0"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY VBPCBForeignNetlist "NetList.kyn"
+KEY VBPCBForeignNetlistFormat ".kyn"
+KEY VBPCBDesignPath "template.pcb"
+ENDSECTION

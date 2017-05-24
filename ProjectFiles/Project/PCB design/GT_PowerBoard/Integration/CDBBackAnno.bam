@@ -1,0 +1,7 @@
+
+/* Sym: 92371392  Path 1: Schematic1  Page 1: Schematic1(1) */
+CHANGE 'Schematic1(1)' 	INSTANCE
+  SELECT EXT XCMP23                  /* Reference Desig is Vout2 */
+    PIN_PARAM 'P1' 4 = '2'                /* was:  */
+  SELECT EXT XCMP22                  /* Reference Desig is Vout2 */
+    PIN_PARAM 'P1' 4 = '1'                /* was:  */

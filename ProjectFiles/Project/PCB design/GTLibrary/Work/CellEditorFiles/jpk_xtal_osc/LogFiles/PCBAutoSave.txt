@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       04:01 PM Sunday, November 15, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_xtal_osc\ABLS.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       04:01 PM Sunday, November 15, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_xtal_osc\ABLS.pcb
+

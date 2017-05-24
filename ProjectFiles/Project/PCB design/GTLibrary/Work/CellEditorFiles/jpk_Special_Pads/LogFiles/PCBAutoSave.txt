@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       02:31 PM Tuesday, January 20, 2015
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Special_Pads\Insert_440.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       02:31 PM Tuesday, January 20, 2015
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Special_Pads\Insert_440.pcb
+

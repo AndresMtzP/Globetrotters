@@ -1,0 +1,27 @@
+welcome: Welcome to Trotter, sponsored by Morris Cerullo World Evangelism.
+
+about: I am Trotter, the levitating, voice and gesture controlled, interactive globe.
+
+help: No worries. You can say things like. go to San Diego, tell me more details, rotate west or east. For more help please say, voice command help, or, gesture control help. What will it be?
+
+help_voice: Additional voice commands include, rotate faster or slowly, stop rotating, where have I visited, or who are the Globetrotters? what will it be?
+
+help_gesture: To use hand gestures to control the globe and map, swipe your hand about four inches above the gesture controller. Swipe left or right to  rotate the globe west or east. Swipe from back to front to zoom in on the map, or the inverse to zoom out. This motion is also used to navigate lists onscreen. To select an onscreen item, hover your hand eight inches above the controller, lower it within an inch of the controller, then remove your hand. Use the inverse motion to stop the globe from rotating. 
+
+help_rep: what will it be?
+
+globetrotters: The Globetrotters are an elite team of electrical, and computer engineers. In order of increasing attractiveness they are, Jake Jabbora, Brian Pham, Mark Luna, Leon Tran, Christopher Pakosta, Rence Abar, Andres Martinez-Paz, and fairest of them all, Kevin Warner.
+
+rotate: rotate {{ invOpt }} is an invalid option. You can say, rotate west, rotate east, rotate slow, or rotate fast. which will it be?
+
+loc_rep: where to next?
+
+no_loc: Sorry that location could not be found. where to next?
+
+intro: Hello, thank you all for being here today. My name is Trotter. I am a levitating, voice and gesture controlled, interactive globe. I was created by the Globetrotters, Jake Jabbora, Brian Pham, Mark Luna, Leon Tran, Christopher Pakosta, Rence Abar, Andres Martinez-Paz, and Kevin Warner. During the presentation they will tell you all about what makes me so unique. Lets get started.
+
+outro: Everyone, Thanks again for coming today. You have been an awesome audience, I mean that from the bottom of my  microchip! . I would like to extend a special thank you to our sponsor, Morris Cerullo World Evangelism. Now that you have heard all about me, I would really appreciate your feedback. Are there any questions?
+
+no_hist: You have not visited any locations. To start your journey, you can say things like go to New York.
+
+valid_options: Please select an option between 1 and {{ listOpt }} . To hear the options again, say what are my options?

@@ -1,0 +1,275 @@
+
+                               Import Design Data
+                               ------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+The following Design Data file(s) will be imported:
+
+        Padstack.hkp
+        Cell.hkp
+        PDB.hkp
+        JobPrefs.hkp
+        NetClass.hkp
+        NetProps.hkp
+        Layout.hkp
+
+
+
+                         PCB Design Data to Padstack Log
+                         -------------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Checking for file format errors...
+
+No file format errors found.
+
+
+Processing All Custom Drill Symbols...
+
+No Custom Drill Symbols found.
+
+
+Processing All Pads and Holes...
+
+    Current Units : TH
+
+    Processing Pad 'Round 32'
+    Processing Pad 'Round 26'
+
+    Current Units : MM
+
+    Processing Pad '1.80mm x 1.60mm rectangle'
+    Processing Pad '1.952mm x 1.752mm rectangle'
+
+    Current Units : TH
+
+    Processing Pad 'Round 60'
+    Processing Pad 'Round 80'
+    Processing Pad 'Therm Rnd 4X 92 Width 16 WebClear 16'
+    Processing Pad 'Round 65'
+    Processing Pad 'Thermal 60x92x16 Round'
+    Processing Pad 'SQR_60'
+    Processing Pad 'Square 60'
+    Processing Pad 'Square 80'
+    Processing Pad 'Thermal 60x92x16 Square'
+    Processing Pad 'Square 65'
+    Processing Pad 'Round 50'
+    Processing Pad 'Round 43'
+    Processing Pad 'Thermal 43x63x10 Round'
+    Processing Pad 'Round 55'
+    Processing Pad 'Round 40'
+    Processing Pad 'Thermal 40x60x10 Round'
+    Processing Pad 'Round 45'
+    Processing Pad 'Round 75'
+    Processing Pad 'Thermal 60x90x15 Round'
+    Processing Pad 'Square 40'
+    Processing Pad 'Square 45'
+    Processing Pad 'Thermal 40x60x10 Square'
+    Processing Pad 'Square 75'
+    Processing Pad 'Thermal 60x90x15 Square'
+    Processing Pad 'Round 380'
+    Processing Pad 'Round 280'
+    Processing Pad 'Rectangle 80x50'
+    Processing Pad 'Rectangle 85x55'
+    Processing Hole 'Rnd 19 +Tol 0 -Tol -3'
+    Processing Hole 'T302_31.5th'
+    Processing Hole 'T303_35.4th'
+    Processing Hole 'Drill 23'
+    Processing Hole 'Drill 20'
+    Processing Hole 'Drill 35'
+    Processing Hole 'Rnd 245 +/-Tol 1 Non-Plated'
+    Processing Hole 'Rnd 630 +/-Tol 2 Non-Plated'
+
+All Pads and Holes have been processed.
+
+
+Processing All Padstacks...
+
+    Current Units : TH
+
+    Processing Padstack '026VIA'
+        Processing Technology Padstack '(Default)'
+
+
+    Current Units : IN
+
+    Processing Padstack 'IPC, 3216 [1206]'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'RND_60pad_31.5drl_T302'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'RND_60pad_35.4drl_T303'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'SQR_60pad_31.5drl_T302'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'SQR_60pad_35.4drl_T303'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '050VIA'
+        Processing Technology Padstack '(Default)'
+
+
+    Current Units : TH
+
+    Processing Padstack 'Round 40 Drill 20'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'Round 60 Drill 35'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'Square 40 Drill 20'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'Square 60 Drill 35'
+        Processing Technology Padstack '(Default)'
+
+
+    Current Units : IN
+
+    Processing Padstack '245mtgHole, narrow washer'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'mtg_600'
+        Processing Technology Padstack '(Default)'
+
+
+    Current Units : TH
+
+    Processing Padstack 'Rectangle 80x50 SMD'
+        Processing Technology Padstack '(Default)'
+
+
+All Padstacks have been processed.
+
+
+Overwriting existing PadstackDB file 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\PadstackDB.psk'.
+
+PadstackDB file 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\PadstackDB.psk' was created successfully.
+
+
+                       PCB Design Data to Cell Library Log
+                       -----------------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+
+Current Units : TH
+
+Processing cell 'R1206'
+Processing cell '10_pin_dbl_.1sp'
+Processing cell 'HDSP7503'
+Processing cell '6_pin_sngl_.1sp'
+Processing cell 'HallEffectSensor'
+Processing cell '10_pin_sngl_.1sp'
+Processing cell 'LED_SMD_1206'
+
+Successfully converted 7 cells.
+Overwriting existing CellDB file 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\CellDB.cel'.
+
+CellDB file 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\CellDB.cel' was created successfully.
+
+
+                 Expedition PCB Design Data to PartsDatabase Log
+                 -----------------------------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+Replacing 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\EditPartsDB.pdb'.
+
+Design Data PDB     : C:\temp\CoilsTopRevB\PCB\Output\PDB.hkp
+PDB                 : C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\EditPartsDB.pdb
+
+Processing Part 'HallEffectSensor'
+Processing Part 'LED_SMD_1206'
+Processing Part 'Res_1206'
+Processing Part '6_pin_sngl'
+Processing Part '7seg_HDSP7503'
+Processing Part '10_pin_dbl_.1sp'
+Processing Part '10_pin_sngl'
+
+Verifying...
+
+
+Created 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\EditPartsDB.pdb' successfully.
+
+                     PCB Design Data to Job Preferences Log
+                     --------------------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Checking for Design Data file format errors...
+
+No Design Data file format errors were detected.
+
+
+Processing Design Data file...
+
+Design Data file successfully processed.
+
+
+Overwriting the existing Job Preferences DB file 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\JobPrefsDB.jpf'.
+
+Job Preferences Database file 'C:\temp\CoilsTopRevB\PCB\Work\Layout_Temp\JobPrefsDB.jpf' was created successfully.
+
+
+                        PCB Design Data to Net Class Log
+                        --------------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Beginning Net Class Design Data Input processing..
+
+Net Class Design Data Input processing completed.
+
+                      PCB Design Data to Net Properties Log
+                      -------------------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Checking for Net Properties Design Data file format errors...
+
+There were no Net Properties Design Data file format errors.
+
+Processing Net Properties Design Data file...
+
+Net Properties Design Data file processed successfully.
+
+Overwriting Net Properties DB...
+
+Net Properties DB successfully created.
+
+                          PCB Design Data to Layout Log
+                          -----------------------------
+
+                        03:21 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Beginning Layout Design Data Input processing...
+
+
+Layout Design Data Input processing completed successfully.
+
+
+
+Import Design Data has completed.
+
+

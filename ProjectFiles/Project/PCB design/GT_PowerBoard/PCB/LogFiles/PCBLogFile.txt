@@ -1,0 +1,9 @@
+
+Expedition PCB - Pinnacle Version: 2010.0.426.267
+
+Successfully read the design.
+Time spent Generating UPG
+Saved the design...
+Time spent Generating UPG
+Saved the design...
+Saved the design...

@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       02:38 PM Thursday, January 08, 2009
+Job Name: C:\My Data\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_osc\OSC4_SMD_.197X.295B_PO=1,2,3,4.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       02:42 PM Thursday, January 08, 2009
+Job Name: C:\My Data\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\oda99_osc\OSC4_SMD_.197X.295B_PO=1,2,3,4.pcb
+

@@ -1,0 +1,69 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2010.0.426.267
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\temp\CoilsTopRevB\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog03.txt
+
+Tue Apr 25 16:33:30 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Tue Apr 25 16:33:30 2017  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Tue Apr 25 16:33:30 2017  ---------------
+
+
+U2                              HallEffectSensor                  HallEffectSensor                
+U1                              HallEffectSensor                  HallEffectSensor                
+U3                              HallEffectSensor                  HallEffectSensor                
+U4                              HallEffectSensor                  HallEffectSensor                
+R3                              R1206                             R1206                           
+R4                              R1206                             R1206                           
+R2                              R1206                             R1206                           
+R1                              R1206                             R1206                           
+
+
+---------------    Tue Apr 25 16:33:30 2017  ---------------
+
+
+
+
+---------------    Tue Apr 25 16:33:30 2017  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Tue Apr 25 16:37:06 2017  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Tue Apr 25 16:37:06 2017  ---------------
+
+
+U4                              HallEffectSensor                  HallEffectSensor                
+U3                              HallEffectSensor                  HallEffectSensor                
+U1                              HallEffectSensor                  HallEffectSensor                
+U2                              HallEffectSensor                  HallEffectSensor                
+
+
+---------------    Tue Apr 25 16:37:06 2017  ---------------
+
+
+
+
+---------------    Tue Apr 25 16:37:06 2017  ---------------
+
+

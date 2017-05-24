@@ -1,0 +1,8 @@
+20080329 : 07:50:46	: CONVERT LT: converting OK Layout Template.	: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\2 Layer Template
+20080329 : 07:50:47	: CONVERT LT: converting OK Layout Template.	: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\4 Layer Template
+20080329 : 07:50:48	: CONVERT LT: converting OK Layout Template.	: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\8 Layer Template
+20080329 : 07:50:50	: CONVERT LT: converting OK Layout Template.	: C:\My Data\Design\Mentor\Libs\JPK_Lib\Templates\Layout\Micro_mouse
+20150818 : 13:48:30	: CONVERT LT: Layout Template was converted previously.	: C:\Temp\SDL_Lib\SDL_Lib\Templates\Layout\2 Layer Template
+20150818 : 13:48:30	: CONVERT LT: Layout Template was converted previously.	: C:\Temp\SDL_Lib\SDL_Lib\Templates\Layout\4 Layer Template
+20150818 : 13:48:30	: CONVERT LT: Layout Template was converted previously.	: C:\Temp\SDL_Lib\SDL_Lib\Templates\Layout\8 Layer Template
+20150818 : 13:48:30	: CONVERT LT: Layout Template was converted previously.	: C:\Temp\SDL_Lib\SDL_Lib\Templates\Layout\Micro_mouse

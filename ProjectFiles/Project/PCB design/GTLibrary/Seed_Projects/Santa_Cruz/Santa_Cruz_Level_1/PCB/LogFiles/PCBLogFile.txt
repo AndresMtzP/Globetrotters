@@ -1,0 +1,9 @@
+
+Expedition PCB - Pinnacle Version: 05.010425.03 2000C
+
+Successfully read the design.
+The tsim executable tsim.exe does not exist!
+Saved the design...
+Cannot resolve immovable metal conflicts.
+Cannot resolve immovable metal conflicts.
+Saved the design...

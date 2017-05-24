@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<!--
+	Theory by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>SDSU - Hardware</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<nav id="nav">
+						<a href="index.html">Home</a>
+						<a href="software.html">Software</a>
+						<a href="hardware.html">Hardware</a>
+						<a href="media.html">Media</a>
+					</nav>
+					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header>
+
+		<!-- Three -->
+			<section id="three" class="wrapper">
+				<div class="inner">
+					<header class="align-center">
+						<h2>Hardware</h2>
+						<p>Magnetic levitation, feedback control systems, and user interaction</p>
+					</header>
+					<p>The main role of the hardware is to provide magnetic levitation to our globe and also gather user input in order to be processed by our software. Below is a high level diagram of how these hardware components interact in order to achieve magnetic levitation.</p>
+					<header class="align-center">
+						<h3>Magnetic Levitation Flow Diagram</h3>
+					</header>
+					<div class="align-center">
+						<img src="images/hardware_flow.png"/>
+					</div>
+					<h3>Hardware Components</h3>
+						<ul>
+							<li>Raspberry Pi 3</li>
+							<li>2x H-Bridges - VNH5019</li>
+							<li>Permanent base ring magnet and disk magnet</li>
+							<li>4x Hall effect sensors - SS49E</li>
+							<li>PIC24EP64GP202</li>
+							<li>4x Electromagnetic coils</li>
+							<li>7 Inch display</li>
+							<li>24V Power supply</li>
+							<li>12 Inch globe and acrylic sphere</li>
+							<li>Echo Dot</li>
+							<li>Gesture Sensor - APDS-9960</li>
+							<li>Ultrasonic sensor - HC-SR04</li>
+							<li>Custom PCBs</li>
+							<li>3D printed models to house hardware components</li>
+							<li>Pico Projector</li>
+							<li>180 degree fisheye lens</li>
+							<li>1000:1 Micro Metal Gearmotor LP 6V</li>
+						</ul>
+					<h3>Levitation</h3>
+					<div class="align-center">
+						<img src="images/forcedia.jpg" width="600"/>
+					</div>
+					<p>The list of components above are mainly used to provide magnetic levitation for our system and support user interaction with Trotter. The permanent base ring magnet is used to provide a static magnetic field to lift the permanent disk magnet. However, this does not provide stable magnetic levitation under Earnshaw's Theorem. So, the H-Bridges, Hall Effect sensors, PIC microcontroller, and electromagnetic coils make up the feedback control system that varies the magnetic field and attempts to keep the magnet in the correct position. These components are responsible for correcting the movement of the floating disk magnet and insuring that the overall system is stable. All of these systems are being powered using a 24V power supply.</p>
+					<header class="align-center">
+						<h3>High-level Feedback Flow Diagram</h3>
+					</header>	
+					<div class="align-center">
+						<img src="images/feedback.png"/>
+					</div>
+					<p>The above diagram is a high-level representation of the feedback circuit to stabilize magnetic levitation. The hall effect sensors will continuously record the strength of the magnetic field produced by the floating disk magnet. When the magnet moves in a certain direction, the hall effect sensor voltage will change accordingly. These voltage values are then periodically sampled by the microcontroller which then generates a PWM signal to vary the current going through the electromagnet coils. The electromagnetic coils will apply a force on the floating disk magnet that will push it back to a stable position.</p>
+					<h3>User Interface</h3>
+					<p>The other components shown in the list above are used for supporting user interaction via gesture controls and voice commands. The Echo Dot is used with the Alexa Voice Service to provide custom voice commands that allow the user to interact with Trotter. The gesture and ultrasonic sensors are used to support gesture commands and user detection. Some gesture controls consist of swiping left and right or stopping to control the globes rotation. The globe and 7 inch display are both used to provide the user with visual feedback as a result from user commands. The user interface remains the same across both of our solutions, the physical and virtual globe.</p>
+					<h3>Globe Display and System Design</h3>
+					<p>The fisheye lens and pico projector are used to wrap an image of a globe into the acrylic sphere by shooting the image through the lens and into the bottom of the sphere. This method is used to display the globe to the user for our virtual globe. Our physical globe however uses the classic 12 Inch globe that we are all familiar with. Additionally, we made custom PCBs to secure the various hardware components and also improve testing of the system. Models designed to house the system were 3D printed and contain all the hardware components, which are seprated into components used to provide user interaction and components used to levitate the system. Below is the CAD designs of the levitating base and gesture control base, the PCB setup, and the projected globe.</p>
+					<header class="align-center">
+						<h3>PCB Design and Setup</h3>
+					</header>
+					<div class="align-center">
+						<img width="300" height="236" src="images/firstpcb.jpg"/>
+						<img width="300" height="236" src="images/firstpcb2.jpg"/>
+						<img width="300" height="236" src="images/PCBsetup3.jpg"/>
+						<img width="300" height="236" src="images/PCBsetup2.jpg"/>
+					</div>
+					<br>
+					<header class="align-center">
+						<h3>CAD Models</h3>
+					</header>
+					<div class="align-center">
+						<img width="300" height="236" src="images/base.png"/>
+						<img width="300" height="236" src="images/base2.png"/>
+						<img width="300" height="236" src="images/gesturebase.png"/>
+						<img width="300" height="236" src="images/gesturebase2.png"/>
+						<img width="300" height="236" src="images/controls.jpg"/>
+						<img width="275" height="236" src="images/controlsside.jpg"/>
+						<img width="275" height="236" src="images/controlstop.jpg"/>
+					</div>					
+					<br>
+					<header class="align-center">
+						<h3>Projected Globe</h3>
+					</header>
+					<div class="align-center">
+						<img width="300" height="260" src="images/mount6.jpg"/>
+						<img width="300" height="260" src="images/stand5.jpg"/>
+						<img width="300" height="260" src="images/projglobe3.jpg"/>
+						<img width="300" height="260" src="images/stand4.jpg"/>
+					</div>
+					<br>
+					<h3>Rotation</h3>
+					<p>For the physical globe model we will be using a 1000:1 low-power DC brushed motor that is attached to the permanent magnet within the globe in order to rotate it. This approach differs from the virtual globe because other hardware components are being used that will physically rotate the globe. Below are images of the proposed setup in order to provide rotation to the globe.</p>
+					<div class="align-center">
+						<img src="images/rotate2.jpg" width="300" height="319">
+						<img src="images/rotate3.jpg" width="300" height="319">
+						<img src="images/rotate.jpg" width="300" height="319">
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<div class="flex">
+						<div class="copyright">
+							&copy; SDSU Globetrotters. Design: <a href="https://templated.co">TEMPLATED</a>.
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

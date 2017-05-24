@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       05:46 AM Tuesday, December 10, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\Bracket\Keystone_621.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       05:50 AM Tuesday, December 10, 2013
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\Bracket\Keystone_621.pcb
+

@@ -1,0 +1,31 @@
+
+                               Import Design Data
+                               ------------------
+
+                       01:43 PM Wednesday, April 26, 2017
+            Job Name: C:\temp\coilbottom_final\PCB\Coils_bottom_2.pcb
+
+
+The following Design Data file(s) will be imported:
+
+        Layout.hkp
+
+
+
+                          PCB Design Data to Layout Log
+                          -----------------------------
+
+                       01:43 PM Wednesday, April 26, 2017
+            Job Name: C:\temp\coilbottom_final\PCB\Coils_bottom_2.pcb
+
+
+Beginning Layout Design Data Input processing...
+
+
+Layout Design Data Input processing completed successfully.
+
+
+
+Import Design Data has completed.
+
+

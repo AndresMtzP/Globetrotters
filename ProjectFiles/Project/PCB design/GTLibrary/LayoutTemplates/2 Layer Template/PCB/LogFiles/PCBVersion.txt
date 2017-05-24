@@ -1,0 +1,17 @@
+Expedition PCB - Pinnacle Version: PCB2005_051214.00 2005
+
+
+
+Environment Variables:
+----------------------
+HOME = "C:\Documents and Settings\X"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\X"
+LM_LICENSE_FILE = "1717@jason"
+MGC_HOME = "c:\cad\mentorgraphics\2005EXP\MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "c:\cad\mentorgraphics\2005EXP\SDD_HOME\wg\win32\lib;c:\cad\mentorgraphics\2005EXP\SDD_HOME\xe\win32\lib;c:\cad\mentorgraphics\2005EXP\SDD_HOME\common\win32\bin;c:\cad\mentorgraphics\2005EXP\SDD_HOME\common\win32\lib;c:\cad\mentorgraphics\2005EXP\SDD_HOME\common\win32\_bin;c:\cad\mentorgraphics\2005EXP\SDD_HOME\wg\win32\bin;c:\cad\mentorgraphics\2005EXP\SDD_HOME\wg\win32\lib;c:\cad\mentorgraphics\2005EXP\SDD_HOME\common\win32\bin;c:\cad\mentorgraphics\2005EXP\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\CAD\MATLAB7\bin\win32;c:\cad\mentorgraphics\2005EXP\MGC_HOME.ixn\bin;c:\cad\mentorgraphics\2005EXP\MGC_HOME.ixn\lib;c:\CAD\Xilinx\bin\nt;C:\Program Files\Mentor Graphics\PADS\2005_1\Programs;C:\CAD\Modeltech_6.1b\win32"
+SDD_HOME = "c:\cad\mentorgraphics\2005EXP\SDD_HOME"
+TEMP = "C:\DOCUME~1\X\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\X\LOCALS~1\Temp"
+XILINX = "c:\CAD\Xilinx"

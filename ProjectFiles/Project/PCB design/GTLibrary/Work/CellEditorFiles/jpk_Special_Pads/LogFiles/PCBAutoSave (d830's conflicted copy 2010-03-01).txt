@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       08:06 PM Monday, November 09, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Special_Pads\Option_2_1206.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       08:07 PM Monday, November 09, 2009
+Job Name: C:\My Data\Design\Mentor\Libs\JPK_Lib\Work\CellEditorFiles\jpk_Special_Pads\Option_2_1206.pcb
+

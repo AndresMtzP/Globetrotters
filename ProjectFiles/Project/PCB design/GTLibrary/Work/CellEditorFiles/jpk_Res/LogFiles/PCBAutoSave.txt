@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                          04:46 PM Friday, May 27, 2011
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Res\SIP8.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                          04:47 PM Friday, May 27, 2011
+Job Name: E:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\jpk_Res\SIP8.pcb
+

@@ -1,0 +1,92 @@
+
+                               Forward Annotation
+                               ------------------
+
+                        04:37 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to refresh with newer data any duplicates found in the
+      Target PDB.
+
+     The schematic source is a Keyin Netlist.
+     
+
+     Netlist has no syntax errors
+
+     The Keyin Netlist has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 4
+          Part Numb: HallEffectSensor -> Vend Part: HallEffectSensor 
+          Part Numb: LED_SMD_1206 -> Vend Part: LED_SMD_1206 
+          Part Numb: Res_1206 -> Vend Part: Res_1206 
+          Part Numb: 10_pin_sngl -> Vend Part: 10_pin_sngl 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+
+
+     14 nets were found containing 38 pins
+     13 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase and the Schematic Design are now in sync.  Use
+      Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                        04:37 PM Tuesday, April 25, 2017
+               Job Name: C:\temp\CoilsTopRevB\PCB\CoilsTopRevB.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     Writing a list of routed plane pins to Logic\rtdplane.caf.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new Keyin Netlist (C:\temp\CoilsTopRevB\PCB\NetList.kyn)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new Keyin Netlist has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

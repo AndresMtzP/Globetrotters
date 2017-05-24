@@ -1,0 +1,1071 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Microwave
+	Symbol CLIN
+	Symbol COAX
+	Symbol COAXLOSS
+	Symbol CPS
+	Symbol CPW
+	Symbol DIPOLE
+	Symbol HCOAX
+	Symbol MCLIN
+	Symbol MCOVER
+	Symbol MCRBEND
+	Symbol MGAP
+	Symbol MIDCAP
+	Symbol MLEF
+	Symbol MLIN
+	Symbol MLOC
+	Symbol MLOOP
+	Symbol MLOSSLIN
+	Symbol MLSC
+	Symbol MONOPOLE
+	Symbol MRBEND
+	Symbol MRIND
+	Symbol MRLIN
+	Symbol MRSPIRAL
+	Symbol MSLIT
+	Symbol MSSPIRAL
+	Symbol MSTEP
+	Symbol MVIA
+	Symbol MWIND
+	Symbol RWG
+	Symbol RWGT
+	Symbol SBCLIN
+	Symbol SBEND
+	Symbol SCLIN
+	Symbol SDSLIN
+	Symbol SGAP
+	Symbol SHOLE
+	Symbol SLEF
+	Symbol SLIN
+	Symbol SLOC
+	Symbol SLOSSLIN
+	Symbol SLSC
+	Symbol SOFF
+	Symbol SRBEND
+	Symbol SRCLIN
+	Symbol SRLIN
+	Symbol SSIMLIN
+	Symbol SSMLIN
+	Symbol SSTEP
+	Symbol STEE
+	Symbol TFC
+	Symbol TFR
+SLB2LMC utility complete

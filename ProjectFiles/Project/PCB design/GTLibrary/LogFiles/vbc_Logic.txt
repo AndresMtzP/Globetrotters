@@ -1,0 +1,1105 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Logic
+	Symbol AND2
+	Symbol AND2_OC
+	Symbol AND2_ST
+	Symbol AND2D
+	Symbol AND2D_OC
+	Symbol AND2D_ST
+	Symbol AND3
+	Symbol AND3_OC
+	Symbol AND3D
+	Symbol AND3D_OC
+	Symbol AND4
+	Symbol AND4D
+	Symbol NAND13
+	Symbol NAND13D
+	Symbol NAND2
+	Symbol NAND2_OC
+	Symbol NAND2_ST
+	Symbol NAND2D
+	Symbol NAND2D_OC
+	Symbol NAND2D_ST
+	Symbol NAND3
+	Symbol NAND3_OC
+	Symbol NAND3D
+	Symbol NAND3D_OC
+	Symbol NAND4
+	Symbol NAND4_OC
+	Symbol NAND4_ST
+	Symbol NAND4D
+	Symbol NAND4D_OC
+	Symbol NAND4D_ST
+	Symbol NAND8
+	Symbol NAND8D
+	Symbol NOR2
+	Symbol NOR2_OC
+	Symbol NOR2_ST
+	Symbol NOR2D
+	Symbol NOR2D_OC
+	Symbol NOR2D_ST
+	Symbol NOR3
+	Symbol NOR3D
+	Symbol NOR4
+	Symbol NOR4D
+	Symbol NOR5
+	Symbol NOR5D
+	Symbol OR2
+	Symbol OR2D
+	Symbol OR3
+	Symbol OR3D
+	Symbol OR4
+	Symbol OR4D
+	Symbol XNOR2
+	Symbol XNOR2_OC
+	Symbol XOR2
+SLB2LMC utility complete

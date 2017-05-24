@@ -1,0 +1,10 @@
+
+Schematic unused pins from : Packager  30-Apr-2017  16:12
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part TerminalBlock                    |
+ Part VoltReg                          |
+ Part 2_pin_sngl                       |

@@ -1,0 +1,340 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_PwrSupply
+	Symbol LM2577
+	Symbol MC34161
+	Symbol PWS740-2
+	Symbol SG3526
+	Symbol TL494
+	Symbol UC1524A
+	Symbol UC1825
+	Symbol UC1846
+SLB2LMC utility complete

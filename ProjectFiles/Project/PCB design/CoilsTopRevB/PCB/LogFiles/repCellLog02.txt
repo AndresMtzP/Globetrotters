@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2010.0.426.267
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\temp\CoilsTopRevB\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog02.txt
+
+Tue Apr 25 15:21:06 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Tue Apr 25 15:21:06 2017  ---------------
+
+
+
+
+---------------    Tue Apr 25 15:21:06 2017  ---------------
+
+

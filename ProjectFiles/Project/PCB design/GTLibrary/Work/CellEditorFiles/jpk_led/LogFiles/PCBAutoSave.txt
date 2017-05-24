@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         04:29 PM Sunday, April 16, 2017
+     Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\jpk_led\LED_SMD_1206.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                         04:29 PM Sunday, April 16, 2017
+     Job Name: C:\temp\SDL_Lib\Work\CellEditorFiles\jpk_led\LED_SMD_1206.pcb
+

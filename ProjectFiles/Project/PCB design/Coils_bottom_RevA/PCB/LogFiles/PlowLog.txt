@@ -1,0 +1,17 @@
+Expedition PCB - Pinnacle Version: 2010.0.426.267
+
+PLOW REPORT
+-----------
+
+16:24:07 Wednesday, April 26, 2017
+
+Host Layout Design: K:\coilbottom_final_2.0\PCB\Coils_bottom_2.pcb
+
+
+Plow Failed due to the following violations not resolved:
+
+
+Violation Pair 1
+PUSHER: 2-point Path: (540.6,-3450.5)-(497.7,-3450.5) @ Layer: 2 Net: GND
+PUSHEE: Via: 1-2-layer '026VIA' @ (535.7,-3457.1) Net: (Net0)
+

@@ -1,0 +1,9 @@
+
+Expedition PCB - Pinnacle Version: 2008.0.307.036
+
+Successfully read the design.
+Saved the design...
+
+Reloading the Net Classes...
+Saved the design...
+Cannot Stop the Cross Probe Daemon

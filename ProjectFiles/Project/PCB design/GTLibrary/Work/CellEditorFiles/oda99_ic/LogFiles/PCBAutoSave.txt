@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       03:51 PM Friday, February 06, 2015
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_ic\SOIC8_.1SP_.250X.390B_.385W.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       03:51 PM Friday, February 06, 2015
+Job Name: C:\Dropbox\Pulp Logic\Library\PL_Lib\Work\CellEditorFiles\oda99_ic\SOIC8_.1SP_.250X.390B_.385W.pcb
+

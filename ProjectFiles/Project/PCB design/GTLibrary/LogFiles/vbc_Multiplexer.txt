@@ -1,0 +1,374 @@
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2009.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
+
+
+
+	SLB2LMC  -  Add Symbol Information to LMC. Version 16.0.0.1
+	(c) Copyright Mentor Graphics Corporation 2010.
+	All Rights Reserved.
+
+Reading Library Path Information...
+Reading Font Information...
+Reading Pin Type Information...
+Processing vbc_Multiplexer
+	Symbol AH5009C
+	Symbol AH5010C
+	Symbol CD4051B
+	Symbol CD4052B
+	Symbol CD4053B
+	Symbol DG508A
+	Symbol HI1818A
+	Symbol HI509A
+	Symbol HI548
+	Symbol HI549
+SLB2LMC utility complete
